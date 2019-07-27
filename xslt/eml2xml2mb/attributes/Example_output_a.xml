@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE metabase2_content
+  SYSTEM "http://sbc.lternet.edu/external/InformationManagement/Metabase/XML/metabase2_content-1.0.dtd">
+<metabase2_content task="DataSetVariables2">
+   <table name="DataSetVariables2">
+      <row>
+         <column name="DataSetID" pk="t" references="DataSet.DataSetID">5011</column>
+         <column name="EntitySortOrder" pk="t" references="DataSetEntities.SortOrder">1</column>
+         <column name="ColumnPosition" pk="t">1</column>
+         <column name="AttributeID">chemistry.date</column>
+         <column name="AttributeName">date</column>
+         <column name="AttributeLabel">Date</column>
+         <column name="Description">Date of collection</column>
+         <column name="StorageType" references="EMLStorageTypeList.StorageType">string</column>
+         <column name="MeasurementScaleDomainID" references="MeasurementScaleDomains.MeasurementScaleDomainID">dateTime</column>
+         <column name="FormatString">YYYY-MM-DD</column>
+         <column name="PrecisionDateTime"/>
+      </row>
+      <row>
+         <column name="DataSetID" pk="t" references="DataSet.DataSetID">5011</column>
+         <column name="EntitySortOrder" pk="t" references="DataSetEntities.SortOrder">1</column>
+         <column name="ColumnPosition" pk="t">2</column>
+         <column name="AttributeID">chemistry.treatment</column>
+         <column name="AttributeName">Treatment</column>
+         <column name="AttributeLabel">Seawater Treatment</column>
+         <column name="Description">Experimental seawater treatment: ambient pH conditions, pCO2 induced ocean acidification, and pCO2 and HCO3 enriched seawater.</column>
+         <column name="StorageType" references="EMLStorageTypeList.StorageType">integer</column>
+         <column name="MeasurementScaleDomainID" references="MeasurementScaleDomains.MeasurementScaleDomainID">nominalEnum</column>
+         <column name="Enumeration_xml" src="file">INSERT_FILENAME_ENUM</column>
+      </row>
+      <row>
+         <column name="DataSetID" pk="t" references="DataSet.DataSetID">5011</column>
+         <column name="EntitySortOrder" pk="t" references="DataSetEntities.SortOrder">1</column>
+         <column name="ColumnPosition" pk="t">3</column>
+         <column name="AttributeID">chemistry.salinity</column>
+         <column name="AttributeName">Salinity</column>
+         <column name="AttributeLabel">Salinity</column>
+         <column name="Description">Salinity of seawater</column>
+         <column name="StorageType" references="EMLStorageTypeList.StorageType">float</column>
+         <column name="MeasurementScaleDomainID" references="MeasurementScaleDomains.MeasurementScaleDomainID">ratio</column>
+         <column name="Unit" references="EMLUnitDictionary.Unit">partsPerThousand</column>
+         <column name="PrecisionNumeric">0.1</column>
+         <column name="NumberType" references="EMLNumberTypeList.NumberType">real</column>
+      </row>
+      <row>
+         <column name="DataSetID" pk="t" references="DataSet.DataSetID">5011</column>
+         <column name="EntitySortOrder" pk="t" references="DataSetEntities.SortOrder">1</column>
+         <column name="ColumnPosition" pk="t">4</column>
+         <column name="AttributeID">chemistry.temp_treatment</column>
+         <column name="AttributeName">temp_treatment</column>
+         <column name="AttributeLabel">Temperature Treatment</column>
+         <column name="Description">Average temperature treatment for experimental period.</column>
+         <column name="StorageType" references="EMLStorageTypeList.StorageType">float</column>
+         <column name="MeasurementScaleDomainID" references="MeasurementScaleDomains.MeasurementScaleDomainID">ratio</column>
+         <column name="Unit" references="EMLUnitDictionary.Unit">celsius</column>
+         <column name="PrecisionNumeric">0.1</column>
+         <column name="NumberType" references="EMLNumberTypeList.NumberType">real</column>
+      </row>
+      <row>
+         <column name="DataSetID" pk="t" references="DataSet.DataSetID">5011</column>
+         <column name="EntitySortOrder" pk="t" references="DataSetEntities.SortOrder">1</column>
+         <column name="ColumnPosition" pk="t">5</column>
+         <column name="AttributeID">chemistry.pH_out</column>
+         <column name="AttributeName">pH_out</column>
+         <column name="AttributeLabel">pH out</column>
+         <column name="Description">pH out on Total Scale</column>
+         <column name="StorageType" references="EMLStorageTypeList.StorageType">float</column>
+         <column name="MeasurementScaleDomainID" references="MeasurementScaleDomains.MeasurementScaleDomainID">ratio</column>
+         <column name="Unit" references="EMLUnitDictionary.Unit">dimensionless</column>
+         <column name="PrecisionNumeric">0.01</column>
+         <column name="NumberType" references="EMLNumberTypeList.NumberType">real</column>
+      </row>
+      <row>
+         <column name="DataSetID" pk="t" references="DataSet.DataSetID">5011</column>
+         <column name="EntitySortOrder" pk="t" references="DataSetEntities.SortOrder">1</column>
+         <column name="ColumnPosition" pk="t">6</column>
+         <column name="AttributeID">chemistry.TA</column>
+         <column name="AttributeName">TA</column>
+         <column name="AttributeLabel">Total Alkalinity</column>
+         <column name="Description">Total alkalinity in µmol kg-1</column>
+         <column name="StorageType" references="EMLStorageTypeList.StorageType">integer</column>
+         <column name="MeasurementScaleDomainID" references="MeasurementScaleDomains.MeasurementScaleDomainID">ratio</column>
+         <column name="Unit" references="EMLUnitDictionary.Unit">microMolePerKilogram</column>
+         <column name="PrecisionNumeric">1</column>
+         <column name="NumberType" references="EMLNumberTypeList.NumberType">real</column>
+      </row>
+      <row>
+         <column name="DataSetID" pk="t" references="DataSet.DataSetID">5011</column>
+         <column name="EntitySortOrder" pk="t" references="DataSetEntities.SortOrder">1</column>
+         <column name="ColumnPosition" pk="t">7</column>
+         <column name="AttributeID">temperature.pCO2</column>
+         <column name="AttributeName">pCO2</column>
+         <column name="AttributeLabel">pCO2</column>
+         <column name="Description">Partial pressure of carbon dioxide, pCO2 in Pascals at 1 atm pressure</column>
+         <column name="StorageType" references="EMLStorageTypeList.StorageType">float</column>
+         <column name="MeasurementScaleDomainID" references="MeasurementScaleDomains.MeasurementScaleDomainID">ratio</column>
+         <column name="Unit" references="EMLUnitDictionary.Unit">Pascal</column>
+         <column name="PrecisionNumeric">0.01</column>
+         <column name="NumberType" references="EMLNumberTypeList.NumberType">real</column>
+      </row>
+      <row>
+         <column name="DataSetID" pk="t" references="DataSet.DataSetID">5011</column>
+         <column name="EntitySortOrder" pk="t" references="DataSetEntities.SortOrder">1</column>
+         <column name="ColumnPosition" pk="t">8</column>
+         <column name="AttributeID">temperature.HCO3</column>
+         <column name="AttributeName">HCO3</column>
+         <column name="AttributeLabel">HCO3</column>
+         <column name="Description">Concentration of bicarbonate ions in seawater (µmol HCO3- kg-1)</column>
+         <column name="StorageType" references="EMLStorageTypeList.StorageType">float</column>
+         <column name="MeasurementScaleDomainID" references="MeasurementScaleDomains.MeasurementScaleDomainID">ratio</column>
+         <column name="Unit" references="EMLUnitDictionary.Unit">micromolePerKilogram</column>
+         <column name="PrecisionNumeric">1</column>
+         <column name="NumberType" references="EMLNumberTypeList.NumberType">real</column>
+      </row>
+      <row>
+         <column name="DataSetID" pk="t" references="DataSet.DataSetID">5011</column>
+         <column name="EntitySortOrder" pk="t" references="DataSetEntities.SortOrder">1</column>
+         <column name="ColumnPosition" pk="t">9</column>
+         <column name="AttributeID">temperature.CO3</column>
+         <column name="AttributeName">CO3</column>
+         <column name="AttributeLabel">CO3</column>
+         <column name="Description">Concentration of carbonate ions in seawater (µmol CO3- kg-1)</column>
+         <column name="StorageType" references="EMLStorageTypeList.StorageType">float</column>
+         <column name="MeasurementScaleDomainID" references="MeasurementScaleDomains.MeasurementScaleDomainID">ratio</column>
+         <column name="Unit" references="EMLUnitDictionary.Unit">micromolePerKilogram</column>
+         <column name="PrecisionNumeric">1</column>
+         <column name="NumberType" references="EMLNumberTypeList.NumberType">real</column>
+      </row>
+      <row>
+         <column name="DataSetID" pk="t" references="DataSet.DataSetID">5011</column>
+         <column name="EntitySortOrder" pk="t" references="DataSetEntities.SortOrder">1</column>
+         <column name="ColumnPosition" pk="t">10</column>
+         <column name="AttributeID">temperature.DIC</column>
+         <column name="AttributeName">DIC</column>
+         <column name="AttributeLabel">DIC</column>
+         <column name="Description">Concentration of issolved inorganic carbon in seawater (µmol CO3- kg-1)</column>
+         <column name="StorageType" references="EMLStorageTypeList.StorageType">float</column>
+         <column name="MeasurementScaleDomainID" references="MeasurementScaleDomains.MeasurementScaleDomainID">ratio</column>
+         <column name="Unit" references="EMLUnitDictionary.Unit">micromolePerKilogram</column>
+         <column name="PrecisionNumeric">1</column>
+         <column name="NumberType" references="EMLNumberTypeList.NumberType">real</column>
+      </row>
+      <row>
+         <column name="DataSetID" pk="t" references="DataSet.DataSetID">5011</column>
+         <column name="EntitySortOrder" pk="t" references="DataSetEntities.SortOrder">1</column>
+         <column name="ColumnPosition" pk="t">11</column>
+         <column name="AttributeID">temperature.omega_aragonite</column>
+         <column name="AttributeName">Omega_aragonite</column>
+         <column name="AttributeLabel">Omega (aragonite)</column>
+         <column name="Description">Saturation state of aragonite</column>
+         <column name="StorageType" references="EMLStorageTypeList.StorageType">float</column>
+         <column name="MeasurementScaleDomainID" references="MeasurementScaleDomains.MeasurementScaleDomainID">ratio</column>
+         <column name="Unit" references="EMLUnitDictionary.Unit">dimensionless</column>
+         <column name="PrecisionNumeric">0.01</column>
+         <column name="NumberType" references="EMLNumberTypeList.NumberType">real</column>
+      </row>
+      <row>
+         <column name="DataSetID" pk="t" references="DataSet.DataSetID">5011</column>
+         <column name="EntitySortOrder" pk="t" references="DataSetEntities.SortOrder">2</column>
+         <column name="ColumnPosition" pk="t">1</column>
+         <column name="AttributeID">temperature.day_rep</column>
+         <column name="AttributeName">Day_rep</column>
+         <column name="AttributeLabel">Replicate day</column>
+         <column name="Description">Experiment replicate period as defined in method</column>
+         <column name="StorageType" references="EMLStorageTypeList.StorageType">string</column>
+         <column name="MeasurementScaleDomainID" references="MeasurementScaleDomains.MeasurementScaleDomainID">nominalEnum</column>
+         <column name="Enumeration_xml" src="file">INSERT_FILENAME_ENUM</column>
+      </row>
+      <row>
+         <column name="DataSetID" pk="t" references="DataSet.DataSetID">5011</column>
+         <column name="EntitySortOrder" pk="t" references="DataSetEntities.SortOrder">2</column>
+         <column name="ColumnPosition" pk="t">2</column>
+         <column name="AttributeID">temperature.date</column>
+         <column name="AttributeName">Date</column>
+         <column name="AttributeLabel">Date</column>
+         <column name="Description">Month and day of measurement</column>
+         <column name="StorageType" references="EMLStorageTypeList.StorageType">string</column>
+         <column name="MeasurementScaleDomainID" references="MeasurementScaleDomains.MeasurementScaleDomainID">dateTime</column>
+         <column name="FormatString">YYYY-MM-DD</column>
+         <column name="PrecisionDateTime">1 day</column>
+      </row>
+      <row>
+         <column name="DataSetID" pk="t" references="DataSet.DataSetID">5011</column>
+         <column name="EntitySortOrder" pk="t" references="DataSetEntities.SortOrder">2</column>
+         <column name="ColumnPosition" pk="t">3</column>
+         <column name="AttributeID">temperature.time</column>
+         <column name="AttributeName">Time</column>
+         <column name="AttributeLabel">Time of day</column>
+         <column name="Description">Local time of day</column>
+         <column name="StorageType" references="EMLStorageTypeList.StorageType">string</column>
+         <column name="MeasurementScaleDomainID" references="MeasurementScaleDomains.MeasurementScaleDomainID">dateTime</column>
+         <column name="FormatString">hh:mm:ss</column>
+         <column name="PrecisionDateTime">00:10:00</column>
+      </row>
+      <row>
+         <column name="DataSetID" pk="t" references="DataSet.DataSetID">5011</column>
+         <column name="EntitySortOrder" pk="t" references="DataSetEntities.SortOrder">2</column>
+         <column name="ColumnPosition" pk="t">4</column>
+         <column name="AttributeID">temperature.temperature</column>
+         <column name="AttributeName">Temperature</column>
+         <column name="AttributeLabel">Water temperature</column>
+         <column name="Description">Water temperature in celsius</column>
+         <column name="StorageType" references="EMLStorageTypeList.StorageType">float</column>
+         <column name="MeasurementScaleDomainID" references="MeasurementScaleDomains.MeasurementScaleDomainID">ratio</column>
+         <column name="Unit" references="EMLUnitDictionary.Unit">celsius</column>
+         <column name="PrecisionNumeric">0.01</column>
+         <column name="NumberType" references="EMLNumberTypeList.NumberType">real</column>
+      </row>
+      <row>
+         <column name="DataSetID" pk="t" references="DataSet.DataSetID">5011</column>
+         <column name="EntitySortOrder" pk="t" references="DataSetEntities.SortOrder">3</column>
+         <column name="ColumnPosition" pk="t">1</column>
+         <column name="AttributeID">light_e.day_rep</column>
+         <column name="AttributeName">Day_rep</column>
+         <column name="AttributeLabel">Replicate day</column>
+         <column name="Description">Experiment replicate period as defined in method</column>
+         <column name="StorageType" references="EMLStorageTypeList.StorageType">string</column>
+         <column name="MeasurementScaleDomainID" references="MeasurementScaleDomains.MeasurementScaleDomainID">nominalEnum</column>
+         <column name="Enumeration_xml" src="file">INSERT_FILENAME_ENUM</column>
+      </row>
+      <row>
+         <column name="DataSetID" pk="t" references="DataSet.DataSetID">5011</column>
+         <column name="EntitySortOrder" pk="t" references="DataSetEntities.SortOrder">3</column>
+         <column name="ColumnPosition" pk="t">2</column>
+         <column name="AttributeID">light_e.date</column>
+         <column name="AttributeName">Date</column>
+         <column name="AttributeLabel">Date</column>
+         <column name="Description">Month and day of measurement in 2011</column>
+         <column name="StorageType" references="EMLStorageTypeList.StorageType">string</column>
+         <column name="MeasurementScaleDomainID" references="MeasurementScaleDomains.MeasurementScaleDomainID">dateTime</column>
+         <column name="FormatString">YYYY-MM-DD</column>
+         <column name="PrecisionDateTime">1 day</column>
+      </row>
+      <row>
+         <column name="DataSetID" pk="t" references="DataSet.DataSetID">5011</column>
+         <column name="EntitySortOrder" pk="t" references="DataSetEntities.SortOrder">3</column>
+         <column name="ColumnPosition" pk="t">3</column>
+         <column name="AttributeID">light_e.time</column>
+         <column name="AttributeName">Time</column>
+         <column name="AttributeLabel">Time of day</column>
+         <column name="Description">Local time of day</column>
+         <column name="StorageType" references="EMLStorageTypeList.StorageType">string</column>
+         <column name="MeasurementScaleDomainID" references="MeasurementScaleDomains.MeasurementScaleDomainID">dateTime</column>
+         <column name="FormatString">hh:mm:ss</column>
+         <column name="PrecisionDateTime">00:10:00</column>
+      </row>
+      <row>
+         <column name="DataSetID" pk="t" references="DataSet.DataSetID">5011</column>
+         <column name="EntitySortOrder" pk="t" references="DataSetEntities.SortOrder">3</column>
+         <column name="ColumnPosition" pk="t">4</column>
+         <column name="AttributeID">light_e.light</column>
+         <column name="AttributeName">Light_intensity</column>
+         <column name="AttributeLabel">Light intensity</column>
+         <column name="Description">Light intensity measured with a 4-pi quantum sensor in micromol/m2/s of PAR (400-700 nm).
+          Light during TA anomaly in situ incubation (micromole photons m-2 s-1)
+          </column>
+         <column name="StorageType" references="EMLStorageTypeList.StorageType">float</column>
+         <column name="MeasurementScaleDomainID" references="MeasurementScaleDomains.MeasurementScaleDomainID">ratio</column>
+         <column name="Unit" references="EMLUnitDictionary.Unit">microMolesPerSquareMeterPerSecond</column>
+         <column name="PrecisionNumeric">1</column>
+         <column name="NumberType" references="EMLNumberTypeList.NumberType">real</column>
+         <column name="MissingValueCode_xml" src="file">INSERT_FILENAME_MISS</column>
+      </row>
+      <row>
+         <column name="DataSetID" pk="t" references="DataSet.DataSetID">5011</column>
+         <column name="EntitySortOrder" pk="t" references="DataSetEntities.SortOrder">4</column>
+         <column name="ColumnPosition" pk="t">1</column>
+         <column name="AttributeID">light_h.day_rep</column>
+         <column name="AttributeName">Day_rep</column>
+         <column name="AttributeLabel">Replicate day</column>
+         <column name="Description">Experiment replicate period as defined in method</column>
+         <column name="StorageType" references="EMLStorageTypeList.StorageType">string</column>
+         <column name="MeasurementScaleDomainID" references="MeasurementScaleDomains.MeasurementScaleDomainID">nominalEnum</column>
+         <column name="Enumeration_xml" src="file">INSERT_FILENAME_ENUM</column>
+      </row>
+      <row>
+         <column name="DataSetID" pk="t" references="DataSet.DataSetID">5011</column>
+         <column name="EntitySortOrder" pk="t" references="DataSetEntities.SortOrder">4</column>
+         <column name="ColumnPosition" pk="t">2</column>
+         <column name="AttributeID">light_h.date</column>
+         <column name="AttributeName">Date</column>
+         <column name="AttributeLabel">Date</column>
+         <column name="Description">Month and day of measurement in 2011</column>
+         <column name="StorageType" references="EMLStorageTypeList.StorageType">string</column>
+         <column name="MeasurementScaleDomainID" references="MeasurementScaleDomains.MeasurementScaleDomainID">dateTime</column>
+         <column name="FormatString">YYYY-MM-DD</column>
+         <column name="PrecisionDateTime">1 day</column>
+      </row>
+      <row>
+         <column name="DataSetID" pk="t" references="DataSet.DataSetID">5011</column>
+         <column name="EntitySortOrder" pk="t" references="DataSetEntities.SortOrder">4</column>
+         <column name="ColumnPosition" pk="t">3</column>
+         <column name="AttributeID">light_h.time</column>
+         <column name="AttributeName">time</column>
+         <column name="AttributeLabel">Time of day</column>
+         <column name="Description">Local time of day</column>
+         <column name="StorageType" references="EMLStorageTypeList.StorageType">string</column>
+         <column name="MeasurementScaleDomainID" references="MeasurementScaleDomains.MeasurementScaleDomainID">dateTime</column>
+         <column name="FormatString">hh:mm:ss</column>
+         <column name="PrecisionDateTime">00:10:00</column>
+      </row>
+      <row>
+         <column name="DataSetID" pk="t" references="DataSet.DataSetID">5011</column>
+         <column name="EntitySortOrder" pk="t" references="DataSetEntities.SortOrder">4</column>
+         <column name="ColumnPosition" pk="t">4</column>
+         <column name="AttributeID">light_h.light</column>
+         <column name="AttributeName">Light_intensity</column>
+         <column name="AttributeLabel">Light intensity</column>
+         <column name="Description">Light intensity measured with a 4-pi quantum sensor in micromole/m2/s of PAR (400-700 nm). 
+          Light used to integrate over a 11 hr day. Total umol photons m-2 s-1 summed per 10 min = umol m-2 x 60 s x 10 min.
+          </column>
+         <column name="StorageType" references="EMLStorageTypeList.StorageType">float</column>
+         <column name="MeasurementScaleDomainID" references="MeasurementScaleDomains.MeasurementScaleDomainID">ratio</column>
+         <column name="Unit" references="EMLUnitDictionary.Unit">microMolesPerSquareMeterPerSecond</column>
+         <column name="PrecisionNumeric">1</column>
+         <column name="NumberType" references="EMLNumberTypeList.NumberType">real</column>
+         <column name="MissingValueCode_xml" src="file">INSERT_FILENAME_MISS</column>
+      </row>
+      <row>
+         <column name="DataSetID" pk="t" references="DataSet.DataSetID">5011</column>
+         <column name="EntitySortOrder" pk="t" references="DataSetEntities.SortOrder">5</column>
+         <column name="ColumnPosition" pk="t">1</column>
+         <column name="AttributeID">spectrum.light_source</column>
+         <column name="AttributeName">sampled_light</column>
+         <column name="AttributeLabel">Light sampled</column>
+         <column name="Description">Sampled light (sunlight or inside chamber)</column>
+         <column name="StorageType" references="EMLStorageTypeList.StorageType">string</column>
+         <column name="MeasurementScaleDomainID" references="MeasurementScaleDomains.MeasurementScaleDomainID">nominalEnum</column>
+         <column name="Enumeration_xml" src="file">INSERT_FILENAME_ENUM</column>
+      </row>
+      <row>
+         <column name="DataSetID" pk="t" references="DataSet.DataSetID">5011</column>
+         <column name="EntitySortOrder" pk="t" references="DataSetEntities.SortOrder">5</column>
+         <column name="ColumnPosition" pk="t">2</column>
+         <column name="AttributeID">spectrum.wavelength</column>
+         <column name="AttributeName">wavelength</column>
+         <column name="AttributeLabel">Wavelength (nm)</column>
+         <column name="Description">Wavelength of the light in nanometers (nm)</column>
+         <column name="StorageType" references="EMLStorageTypeList.StorageType">string</column>
+         <column name="MeasurementScaleDomainID" references="MeasurementScaleDomains.MeasurementScaleDomainID">ratio</column>
+         <column name="Unit" references="EMLUnitDictionary.Unit">nanometer</column>
+         <column name="PrecisionNumeric">0.01</column>
+         <column name="NumberType" references="EMLNumberTypeList.NumberType">real</column>
+      </row>
+      <row>
+         <column name="DataSetID" pk="t" references="DataSet.DataSetID">5011</column>
+         <column name="EntitySortOrder" pk="t" references="DataSetEntities.SortOrder">5</column>
+         <column name="ColumnPosition" pk="t">3</column>
+         <column name="AttributeID">spectrum.rel_irrad</column>
+         <column name="AttributeName">relative_irradiance</column>
+         <column name="AttributeLabel">Relative irradiance</column>
+         <column name="Description">Unitless measure of light intensity relative to a calibration light source</column>
+         <column name="StorageType" references="EMLStorageTypeList.StorageType">float</column>
+         <column name="MeasurementScaleDomainID" references="MeasurementScaleDomains.MeasurementScaleDomainID">ratio</column>
+         <column name="Unit" references="EMLUnitDictionary.Unit">dimensionless</column>
+         <column name="PrecisionNumeric">0.001</column>
+         <column name="NumberType" references="EMLNumberTypeList.NumberType">real</column>
+      </row>
+      <row>
+         <column name="DataSetID" pk="t" references="DataSet.DataSetID">5011</column>
+         <column name="EntitySortOrder" pk="t" references="DataSetEntities.SortOrder">6</column>
+         <column name="ColumnPosition" pk="t">1</column>
+         <column name="AttributeID">respiration.day</column>
+         <column name="AttributeName">Day</column>
+         <column name="AttributeLabel">Day</column>
+         <column name="Description">Measurement day as a YYYY-MM-DD date.</column>
+         <column name="StorageType" references="EMLStorageTypeList.StorageType">date</column>
+         <column name="MeasurementScaleDomainID" references="MeasurementScaleDomains.MeasurementScaleDomainID">dateTime</column>
+         <column name="FormatString">YYYY-MM-DD</column>
+         <column name="PrecisionDateTime">1 day</column>
+      </row>
+      <row>
+         <column name="DataSetID" pk="t" references="DataSet.DataSetID">5011</column>
+         <column name="EntitySortOrder" pk="t" references="DataSetEntities.SortOrder">6</column>
+         <column name="ColumnPosition" pk="t">2</column>
+         <column name="AttributeID">respiration.treatment</column>
+         <column name="AttributeName">Treatment</column>
+         <column name="AttributeLabel">Treatment</column>
+         <column name="Description">Treatment 1, 2, or 3 as defined in the publication and in Table 1</column>
+         <column name="StorageType" references="EMLStorageTypeList.StorageType">float</column>
+         <column name="MeasurementScaleDomainID" references="MeasurementScaleDomains.MeasurementScaleDomainID">nominalEnum</column>
+         <column name="Enumeration_xml" src="file">INSERT_FILENAME_ENUM</column>
+      </row>
+      <row>
+         <column name="DataSetID" pk="t" references="DataSet.DataSetID">5011</column>
+         <column name="EntitySortOrder" pk="t" references="DataSetEntities.SortOrder">6</column>
+         <column name="ColumnPosition" pk="t">3</column>
+         <column name="AttributeID">respiration.replicate</column>
+         <column name="AttributeName">coral_replicate</column>
+         <column name="AttributeLabel">Coral replicate</column>
+         <column name="Description">Coral replicate refers to individual replicates within the same treatment condition and Day</column>
+         <column name="StorageType" references="EMLStorageTypeList.StorageType">character</column>
+         <column name="MeasurementScaleDomainID" references="MeasurementScaleDomains.MeasurementScaleDomainID">nominalText</column>
+         <column name="TextPatternDefinition">single digit</column>
+      </row>
+      <row>
+         <column name="DataSetID" pk="t" references="DataSet.DataSetID">5011</column>
+         <column name="EntitySortOrder" pk="t" references="DataSetEntities.SortOrder">6</column>
+         <column name="ColumnPosition" pk="t">4</column>
+         <column name="AttributeID">respiration.rate</column>
+         <column name="AttributeName">respiration_rate</column>
+         <column name="AttributeLabel">Respiration rate</column>
+         <column name="Description">Rate of aerobic oxygen consumption in darkness (micromoles oxygen per cm2 per hour)</column>
+         <column name="StorageType" references="EMLStorageTypeList.StorageType">float</column>
+         <column name="MeasurementScaleDomainID" references="MeasurementScaleDomains.MeasurementScaleDomainID">interval</column>
+         <column name="Unit" references="EMLUnitDictionary.Unit">micromolePerCentimeterPerHour</column>
+         <column name="PrecisionNumeric">0.001</column>
+         <column name="NumberType" references="EMLNumberTypeList.NumberType">real</column>
+      </row>
+      <row>
+         <column name="DataSetID" pk="t" references="DataSet.DataSetID">5011</column>
+         <column name="EntitySortOrder" pk="t" references="DataSetEntities.SortOrder">6</column>
+         <column name="ColumnPosition" pk="t">5</column>
+         <column name="AttributeID">respiration.calcification</column>
+         <column name="AttributeName">calcification_rate</column>
+         <column name="AttributeLabel">Calcification rate</column>
+         <column name="Description">Rate of calcium carbonate deposition in the light, measured in situ (micrograms CaCO3 cm-2 h-1)</column>
+         <column name="StorageType" references="EMLStorageTypeList.StorageType">float</column>
+         <column name="MeasurementScaleDomainID" references="MeasurementScaleDomains.MeasurementScaleDomainID">interval</column>
+         <column name="Unit" references="EMLUnitDictionary.Unit">micromolePerCentimeterPerHour</column>
+         <column name="PrecisionNumeric">0.01</column>
+         <column name="NumberType" references="EMLNumberTypeList.NumberType">real</column>
+         <column name="MissingValueCode_xml" src="file">INSERT_FILENAME_MISS</column>
+      </row>
+      <row>
+         <column name="DataSetID" pk="t" references="DataSet.DataSetID">5011</column>
+         <column name="EntitySortOrder" pk="t" references="DataSetEntities.SortOrder">6</column>
+         <column name="ColumnPosition" pk="t">6</column>
+         <column name="AttributeID">respiration.cost</column>
+         <column name="AttributeName">calcification_cost</column>
+         <column name="AttributeLabel">Cost of calcification</column>
+         <column name="Description">The inferred metabolic energy costs concurrent with calcification, calculated by converting oxygen consumption to joules, standardized to the rate of calcification</column>
+         <column name="StorageType" references="EMLStorageTypeList.StorageType">float</column>
+         <column name="MeasurementScaleDomainID" references="MeasurementScaleDomains.MeasurementScaleDomainID">interval</column>
+         <column name="Unit" references="EMLUnitDictionary.Unit">joulePerGram</column>
+         <column name="PrecisionNumeric">1</column>
+         <column name="NumberType" references="EMLNumberTypeList.NumberType">real</column>
+         <column name="MissingValueCode_xml" src="file">INSERT_FILENAME_MISS</column>
+      </row>
+   </table>
+</metabase2_content>
