@@ -1,7 +1,7 @@
 # How this repo might be organized
 
 - subdirs by code type
-- subdirs by parts of eml
+- subdirs by parts of eml (aka "chunks")
 - subdirs by metabase tables to populate
 
 Should we put all the code together pertaining to mining and loading one type of metadata? 
