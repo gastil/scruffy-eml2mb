@@ -1,0 +1,1255 @@
+
+    knb-lter-mcr.1.20|MCR|theme|
+    knb-lter-mcr.1.20|LTER|theme|
+    knb-lter-mcr.1.20|Moorea Coral Reef|theme|
+    knb-lter-mcr.1.20|University of California Santa Barbara||
+    knb-lter-mcr.1.20|California State University Northridge||
+    knb-lter-mcr.1.20|NSF||
+    knb-lter-mcr.1.20|Gordon and Betty Moore Foundation||
+    knb-lter-mcr.1.20|Richard B. Gump South Pacific Research Station||
+    knb-lter-mcr.1.20|French Polynesia|place|MCR LTER Site
+    knb-lter-mcr.1.20|Moorea|place|MCR LTER Site
+    knb-lter-mcr.1.20|Cooks 1|place|MCR LTER Site
+    knb-lter-mcr.1.20|Cooks 0|place|MCR LTER Site
+    knb-lter-mcr.1.20|Gump|place|MCR LTER Site
+    knb-lter-mcr.1.20|MRB Edge|place|MCR LTER Site
+    knb-lter-mcr.1.20|MRB Lagoon|place|MCR LTER Site
+    knb-lter-mcr.1.20|Bali Hai|place|MCR LTER Site
+    knb-lter-mcr.1.20|Pink Roof|place|MCR LTER Site
+    knb-lter-mcr.1.20|Fishes|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.1.20|Tropical Fishes|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.1.20|Abundance (organisms)|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.1.20|Species Richness|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.1.20|Biodiversity|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.1.20|Coral Reef|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.1.20|Community|theme|KNB
+    knb-lter-mcr.1.20|Marine|theme|KNB
+    knb-lter-mcr.1.20|Populations|theme|LTER Core Research Area
+    knb-lter-mcr.1.20|Time Series Program|theme|MCR Core Activity
+    knb-lter-mcr.1.20|Population and Community Dynamics|theme|MCR-LTER Working Group
+    
+    knb-lter-mcr.10.29|Moorea Coral Reef|theme|
+    knb-lter-mcr.10.29|MCR|theme|
+    knb-lter-mcr.10.29|LTER|theme|
+    knb-lter-mcr.10.29|Ocean_biogeochemistry|theme|
+    knb-lter-mcr.10.29|profiles|theme|
+    knb-lter-mcr.10.29|Phytoplankton primary productivity|theme|
+    knb-lter-mcr.10.29|Bacteria Abundance|theme|
+    knb-lter-mcr.10.29|Mooring 1|place|MCR LTER Site
+    knb-lter-mcr.10.29|Lagoon 1|place|MCR LTER Site
+    knb-lter-mcr.10.29|Fringe 1|place|MCR LTER Site
+    knb-lter-mcr.10.29|Cooks Bay|place|MCR LTER Site
+    knb-lter-mcr.10.29|Cooks Bay Stream Mouth|place|MCR LTER Site
+    knb-lter-mcr.10.29|Offshore 1|place|MCR LTER Site
+    knb-lter-mcr.10.29|Marine|theme|KNB
+    knb-lter-mcr.10.29|Temperature|theme|KNB
+    knb-lter-mcr.10.29|Biomass|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.10.29|Carbon|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.10.29|Chlorophylls|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.10.29|Nutrients|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.10.29|Bacteria|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.10.29|Vertical structure (water bodies)|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.10.29|Coral reefs|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.10.29|Ocean Temperature: Water Temperature|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.10.29|Salinity/Density: Conductivity|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.10.29|Salinity/Density: Density|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.10.29|Salinity/Density: Salinity|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.10.29|Water Pressure: Pressure|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.10.29|Ocean Optics: Attenuation/Transmission|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.10.29|Ocean Optics: Fluorescence|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.10.29|Ocean Chemistry: Nutrients|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.10.29|Ocean Chemistry: Nitrate|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.10.29|Ocean Chemistry: Phosphate|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.10.29|Ocean Chemistry: Silicate|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.10.29|Ocean Chemistry: Pigments|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.10.29|Ocean Chemistry: Chlorophyll|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.10.29|Ocean Chemistry: Organic Carbon|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.10.29|Ocean Chemistry: Inorganic Carbon|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.10.29|Primary Production|theme|LTER Core Research Area
+    knb-lter-mcr.10.29|Inorganic Nutrients|theme|LTER Core Research Area
+    knb-lter-mcr.10.29|Organic Matter|theme|LTER Core Research Area
+    knb-lter-mcr.10.29|Time Series Program|theme|MCR Core Activity
+    knb-lter-mcr.10.29|Bio-Physical Coupling|theme|MCR-LTER Working Group
+    knb-lter-mcr.10.29|Ocean Acidification|theme|MCR Research Theme
+    
+    knb-lter-mcr.1034.5|Moorea Coral Reef|theme|
+    knb-lter-mcr.1034.5|MCR|theme|
+    knb-lter-mcr.1034.5|LTER|theme|
+    knb-lter-mcr.1034.5|University of California Santa Barbara|theme|
+    knb-lter-mcr.1034.5|California State University Northridge|theme|
+    knb-lter-mcr.1034.5|NSF|theme|
+    knb-lter-mcr.1034.5|Gordon and Betty Moore Foundation|theme|
+    knb-lter-mcr.1034.5|Richard B. Gump South Pacific Research Station|theme|
+    knb-lter-mcr.1034.5|French Polynesia|place|
+    knb-lter-mcr.1034.5|Moorea|place|
+    knb-lter-mcr.1034.5|Ocean_biogeochemistry|theme|
+    knb-lter-mcr.1034.5|LTER 1 Forereef|place|MCR LTER Site
+    knb-lter-mcr.1034.5|LTER 1 Backreef|place|MCR LTER Site
+    knb-lter-mcr.1034.5|LTER 1 Fringing Reef|place|MCR LTER Site
+    knb-lter-mcr.1034.5|Marine|theme|KNB
+    knb-lter-mcr.1034.5|Nutrients|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.1034.5|Coral reefs|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.1034.5|Ocean Chemistry: Nutrients|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.1034.5|Ocean Chemistry: Nitrate|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.1034.5|Ocean Chemistry: Phosphate|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.1034.5|Ocean Chemistry: Silicate|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.1034.5|Inorganic Nutrients|theme|LTER Core Research Area
+    knb-lter-mcr.1034.5|Time Series Program|theme|MCR Core Activity
+    
+    knb-lter-mcr.1035.5|Moorea Coral Reef|place|
+    knb-lter-mcr.1035.5|MCR|theme|
+    knb-lter-mcr.1035.5|LTER|theme|
+    knb-lter-mcr.1035.5|Temperature|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.1035.5|Water Temperature|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.1035.5|Benthic environments|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.1035.5|Ocean Temperature: Water Temperature|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.1035.5|Marine|theme|KNB
+    knb-lter-mcr.1035.5|Disturbance|theme|LTER Core Research Area
+    knb-lter-mcr.1035.5|Time Series Program|theme|MCR Core Activity
+    knb-lter-mcr.1035.5|Bio-Physical Coupling|theme|MCR-LTER Working Group
+    
+    knb-lter-mcr.1036.4|Moorea Coral Reef|place|
+    knb-lter-mcr.1036.4|MCR|theme|
+    knb-lter-mcr.1036.4|LTER|theme|
+    knb-lter-mcr.1036.4|Bathymetry|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.1036.4|Benthic environments|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.1036.4|Coral reefs|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.1036.4|Oceans: Bathymetry/Seafloor topography|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.1036.4|bathymetry|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.1036.4|depth|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.1036.4|digital elevation model|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.1036.4|elevation|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.1036.4|geographic information systems|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.1036.4|global positioning system|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.1036.4|landscape|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.1036.4|mapping|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.1036.4|surface elevation table|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.1036.4|Marine|theme|KNB
+    knb-lter-mcr.1036.4|Bio-Physical Coupling|theme|MCR-LTER Working Group
+    
+    knb-lter-mcr.1037.1|Moorea|place|
+    knb-lter-mcr.1037.1|French Polynesia|place|
+    knb-lter-mcr.1037.1|Moorea Coral Reef|theme|
+    knb-lter-mcr.1037.1|MCR|theme|
+    knb-lter-mcr.1037.1|LTER|theme|
+    knb-lter-mcr.1037.1|Long-term Time Series|theme|
+    knb-lter-mcr.1037.1|Ocean_biogeochemistry|theme|
+    knb-lter-mcr.1037.1|profiles|theme|
+    knb-lter-mcr.1037.1|Offshore 1|place|MCR LTER Site
+    knb-lter-mcr.1037.1|Marine|theme|KNB
+    knb-lter-mcr.1037.1|Temperature|theme|KNB
+    knb-lter-mcr.1037.1|Carbon|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.1037.1|Vertical structure (water bodies)|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.1037.1|Coral reefs|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.1037.1|Ocean Temperature: Water Temperature|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.1037.1|Salinity/Density: Conductivity|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.1037.1|Salinity/Density: Density|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.1037.1|Salinity/Density: Salinity|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.1037.1|Water Pressure: Pressure|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.1037.1|Ocean Chemistry: Phosphate|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.1037.1|Ocean Chemistry: Silicate|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.1037.1|Ocean Chemistry: Inorganic Carbon|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.1037.1|Ocean Chemistry: Alkalinity|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.1037.1|Ocean Chemistry: Carbonate|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.1037.1|Ocean Chemistry: Carbon Dioxide|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.1037.1|Ocean Chemistry: pH|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.1037.1|Inorganic Nutrients|theme|LTER Core Research Area
+    knb-lter-mcr.1037.1|Time Series Program|theme|MCR Core Activity
+    knb-lter-mcr.1037.1|Bio-Physical Coupling|theme|MCR-LTER Working Group
+    knb-lter-mcr.1037.1|Ocean Acidification|theme|MCR Research Theme
+    
+    knb-lter-mcr.1038.1|MCR|theme|
+    knb-lter-mcr.1038.1|LTER|theme|
+    knb-lter-mcr.1038.1|Long-term Time Series|theme|
+    knb-lter-mcr.1038.1|French Polynesia|place|
+    knb-lter-mcr.1038.1|Moorea|place|
+    knb-lter-mcr.1038.1|University of California Santa Barbara|theme|
+    knb-lter-mcr.1038.1|California State University Northridge|theme|
+    knb-lter-mcr.1038.1|NSF|theme|
+    knb-lter-mcr.1038.1|Gordon and Betty Moore Foundation|theme|
+    knb-lter-mcr.1038.1|Richard B. Gump South Pacific Research Station|theme|
+    knb-lter-mcr.1038.1|Scleractinia|taxonomic|
+    knb-lter-mcr.1038.1|Scleractinian Coral|theme|
+    knb-lter-mcr.1038.1|Community|theme|
+    knb-lter-mcr.1038.1|Demographics|theme|
+    knb-lter-mcr.1038.1|Backreef|theme|
+    knb-lter-mcr.1038.1|Corals|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.1038.1|Carbonate rocks|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.1038.1|Coral Reefs|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.1038.1|Lagoons|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.1038.1|Shallow water|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.1038.1|Marine environments|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.1038.1|Polyps (organisms)|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.1038.1|Populations|theme|LTER Core Research Area
+    knb-lter-mcr.1038.1|Time Series Program|theme|MCR Core Activity
+    knb-lter-mcr.1038.1|Ocean Acidification|theme|MCR Research Theme
+    knb-lter-mcr.1038.1|Reef Resistance and Resilience|theme|MCR Research Theme
+    knb-lter-mcr.1038.1|Population and Community Dynamics|theme|MCR-LTER Working Group
+    
+    knb-lter-mcr.1039.1|MCR|theme|
+    knb-lter-mcr.1039.1|LTER|theme|
+    knb-lter-mcr.1039.1|Moorea Coral Reef|theme|
+    knb-lter-mcr.1039.1|French Polynesia|place|
+    knb-lter-mcr.1039.1|Moorea|place|
+    knb-lter-mcr.1039.1|University of California Santa Barbara|theme|
+    knb-lter-mcr.1039.1|California State University Northridge|theme|
+    knb-lter-mcr.1039.1|NSF|theme|
+    knb-lter-mcr.1039.1|Gordon and Betty Moore Foundation|theme|
+    knb-lter-mcr.1039.1|Richard B. Gump South Pacific Research Station|theme|
+    knb-lter-mcr.1039.1|Acanthaster planci|taxonomic|
+    knb-lter-mcr.1039.1|Seastars|taxonomic|
+    knb-lter-mcr.1039.1|Starfish|taxonomic|
+    knb-lter-mcr.1039.1|Corallivores|theme|
+    knb-lter-mcr.1039.1|Long-term Time Series|theme|
+    knb-lter-mcr.1039.1|abundance|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.1039.1|corals|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.1039.1|aquatic invertebrates|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.1039.1|disturbance|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.1039.1|surveys|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.1039.1|population dynamics|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.1039.1|community structure|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.1039.1|Abundance (organisms)|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.1039.1|Coral Reef|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.1039.1|Marine|theme|KNB
+    knb-lter-mcr.1039.1|Populations|theme|LTER Core Research Area
+    knb-lter-mcr.1039.1|Time Series Program|theme|MCR Core Activity
+    knb-lter-mcr.1039.1|Population and Community Dynamics|theme|MCR-LTER Working Group
+    knb-lter-mcr.1039.1|Reef Resistance and Resilience|theme|Research Theme
+    
+    knb-lter-mcr.12.14|MCR|theme|
+    knb-lter-mcr.12.14|LTER|theme|
+    knb-lter-mcr.12.14|Long-term Time Series|theme|
+    knb-lter-mcr.12.14|French Polynesia|place|
+    knb-lter-mcr.12.14|Moorea|place|
+    knb-lter-mcr.12.14|Moorea Coral Reef|theme|
+    knb-lter-mcr.12.14|University of California Santa Barbara|theme|
+    knb-lter-mcr.12.14|California State University Northridge|theme|
+    knb-lter-mcr.12.14|NSF|theme|
+    knb-lter-mcr.12.14|Gordon and Betty Moore Foundation|theme|
+    knb-lter-mcr.12.14|Richard B. Gump South Pacific Research Station|theme|
+    knb-lter-mcr.12.14|Sedimentation rate|theme|
+    knb-lter-mcr.12.14|Vertical particle flux|theme|
+    knb-lter-mcr.12.14|Vertical particulate carbon flux|theme|
+    knb-lter-mcr.12.14|POC Flux|theme|
+    knb-lter-mcr.12.14|LTER 1|place|
+    knb-lter-mcr.12.14|Forereef|place|
+    knb-lter-mcr.12.14|Backreef|place|
+    knb-lter-mcr.12.14|Fringing Reef|place|
+    knb-lter-mcr.12.14|sedimentation|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.12.14|carbon to nitrogen ratio|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.12.14|nitrogen deposition|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.12.14|Sediments|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.12.14|Sediment Composition|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.12.14|Biogenic deposits|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.12.14|Accumulation|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.12.14|Particulate organic carbon|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.12.14|Particulate organic nitrogen|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.12.14|Coral Reefs|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.12.14|Marine|theme|KNB
+    knb-lter-mcr.12.14|Disturbance|theme|LTER Core Research Area
+    knb-lter-mcr.12.14|Inorganic Nutrients|theme|LTER Core Research Area
+    knb-lter-mcr.12.14|Organic Matter|theme|LTER Core Research Area
+    knb-lter-mcr.12.14|Time Series Program|theme|MCR Core Activity
+    knb-lter-mcr.12.14|Bio-Physical Coupling|theme|MCR-LTER Working Group
+    
+    knb-lter-mcr.13.14|MCR LTER|place|
+    knb-lter-mcr.13.14|Moorea Coral Reef|theme|
+    knb-lter-mcr.13.14|French Polynesia|place|
+    knb-lter-mcr.13.14|Moorea|place|
+    knb-lter-mcr.13.14|University of California Santa Barbara|theme|
+    knb-lter-mcr.13.14|California State University Northridge|theme|
+    knb-lter-mcr.13.14|NSF|theme|
+    knb-lter-mcr.13.14|Gordon and Betty Moore Foundation|theme|
+    knb-lter-mcr.13.14|Richard B. Gump South Pacific Research Station|theme|
+    knb-lter-mcr.13.14|Reef Zooplankton abundance|theme|
+    knb-lter-mcr.13.14|Zooplankton composition|theme|
+    knb-lter-mcr.13.14|Reef Zooplankton nighttime abundance|theme|
+    knb-lter-mcr.13.14|Fish larvae|theme|
+    knb-lter-mcr.13.14|Eggs|theme|
+    knb-lter-mcr.13.14|Crustacea Copepoda|taxonomic|Zooplankton taxa and functional groups
+    knb-lter-mcr.13.14|Crustacea Isopoda|taxonomic|Zooplankton taxa and functional groups
+    knb-lter-mcr.13.14|Crustacea Ostracoda|taxonomic|Zooplankton taxa and functional groups
+    knb-lter-mcr.13.14|Crustacea Tanaidacea|taxonomic|Zooplankton taxa and functional groups
+    knb-lter-mcr.13.14|Crustacea Decapoda|taxonomic|Zooplankton taxa and functional groups
+    knb-lter-mcr.13.14|Crustacea Mysidacea|taxonomic|Zooplankton taxa and functional groups
+    knb-lter-mcr.13.14|Crustacea Amphipoda|taxonomic|Zooplankton taxa and functional groups
+    knb-lter-mcr.13.14|Crustacea larvae|taxonomic|Zooplankton taxa and functional groups
+    knb-lter-mcr.13.14|Annelida Polychaetea|taxonomic|Zooplankton taxa and functional groups
+    knb-lter-mcr.13.14|Cheatognatha|taxonomic|Zooplankton taxa and functional groups
+    knb-lter-mcr.13.14|Appendicularia|taxonomic|Zooplankton taxa and functional groups
+    knb-lter-mcr.13.14|Mollusca Gastropoda Heteropoda|taxonomic|Zooplankton taxa and functional groups
+    knb-lter-mcr.13.14|Mollusca Gastropoda Pteropoda|taxonomic|Zooplankton taxa and functional groups
+    knb-lter-mcr.13.14|Mollusca Gastropoda Veliger larvae|taxonomic|Zooplankton taxa and functional groups
+    knb-lter-mcr.13.14|Cnidaria hydromedusae|taxonomic|Zooplankton taxa and functional groups
+    knb-lter-mcr.13.14|Cnidaria siphonophore|taxonomic|Zooplankton taxa and functional groups
+    knb-lter-mcr.13.14|Ctenophora|taxonomic|Zooplankton taxa and functional groups
+    knb-lter-mcr.13.14|Chordata Cephalochordata Amphioxiformes|taxonomic|Zooplankton taxa and functional groups
+    knb-lter-mcr.13.14|Zooplankton|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.13.14|Marine|theme|KNB
+    knb-lter-mcr.13.14|Forereef|place|
+    knb-lter-mcr.13.14|Backreef|place|
+    knb-lter-mcr.13.14|Fringing Reef|place|
+    knb-lter-mcr.13.14|Cooks Bay|place|
+    knb-lter-mcr.13.14|Oceanic|place|
+    knb-lter-mcr.13.14|Populations|theme|LTER Core Research Area
+    knb-lter-mcr.13.14|Time Series Program|theme|MCR Core Activity
+    knb-lter-mcr.13.14|Population and Community Dynamics|theme|MCR-LTER Working Group
+    knb-lter-mcr.13.14|Reef Resistance and Resilience|theme|Research Theme
+    
+    knb-lter-mcr.15.10|MCR|theme|
+    knb-lter-mcr.15.10|LTER|theme|
+    knb-lter-mcr.15.10|French Polynesia|place|
+    knb-lter-mcr.15.10|Moorea|place|
+    knb-lter-mcr.15.10|Moorea Coral Reef|theme|
+    knb-lter-mcr.15.10|Symbiodinium|theme|
+    knb-lter-mcr.15.10|Clades|theme|
+    knb-lter-mcr.15.10|Interspecific relationships|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.15.10|Interactions|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.15.10|Genetic diversity|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.15.10|Genotypes|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.15.10|Coral bleaching|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.15.10|Endosymbionts|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.15.10|Symbiosis|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.15.10|Coral Reefs|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.15.10|Marine|theme|KNB
+    knb-lter-mcr.15.10|Disturbance|theme|LTER Core Research Area
+    knb-lter-mcr.15.10|Populations|theme|LTER Core Research Area
+    knb-lter-mcr.15.10|Time Series Program|theme|MCR Core Activity
+    knb-lter-mcr.15.10|Physiology of Corals|theme|MCR-LTER Working Group
+    knb-lter-mcr.15.10|Population and Community Dynamics|theme|MCR-LTER Working Group
+    
+    knb-lter-mcr.16.9|MCR|theme|
+    knb-lter-mcr.16.9|LTER|theme|
+    knb-lter-mcr.16.9|French Polynesia|place|
+    knb-lter-mcr.16.9|Moorea|place|
+    knb-lter-mcr.16.9|Moorea Coral Reef|theme|
+    knb-lter-mcr.16.9|University of California Santa Barbara|theme|
+    knb-lter-mcr.16.9|California State University Northridge|theme|
+    knb-lter-mcr.16.9|NSF|theme|
+    knb-lter-mcr.16.9|Gordon and Betty Moore Foundation|theme|
+    knb-lter-mcr.16.9|Richard B. Gump South Pacific Research Station|theme|
+    knb-lter-mcr.16.9|Dascyllus trimaculatus|taxonomic|
+    knb-lter-mcr.16.9|Mitochondrial DNA|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.16.9|Population genetics|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.16.9|Recruitment|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.16.9|Fishes|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.16.9|Tropical Fishes|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.16.9|Coral Reefs|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.16.9|Marine|theme|KNB
+    knb-lter-mcr.16.9|Populations|theme|LTER Core Research Area
+    knb-lter-mcr.16.9|Process-Oriented Field Studies|theme|MCR Core Activity
+    knb-lter-mcr.16.9|Population and Community Dynamics|theme|MCR-LTER Working Group
+    
+    knb-lter-mcr.17.14|Moorea Coral Reef|theme|
+    knb-lter-mcr.17.14|MCR|theme|
+    knb-lter-mcr.17.14|LTER|theme|
+    knb-lter-mcr.17.14|French Polynesia|place|
+    knb-lter-mcr.17.14|Moorea|place|
+    knb-lter-mcr.17.14|University of California Santa Barbara|theme|
+    knb-lter-mcr.17.14|California State University Northridge|theme|
+    knb-lter-mcr.17.14|NSF|theme|
+    knb-lter-mcr.17.14|Gordon and Betty Moore Foundation|theme|
+    knb-lter-mcr.17.14|Richard B. Gump South Pacific Research Station|theme|
+    knb-lter-mcr.17.14|Amphiprion chrysopterus|taxonomic|
+    knb-lter-mcr.17.14|Microsatellites|theme|
+    knb-lter-mcr.17.14|recruitment|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.17.14|genetics|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.17.14|fishes|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.17.14|marine|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.17.14|populations|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.17.14|Mitochondrial DNA|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.17.14|Population genetics|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.17.14|Recruitment|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.17.14|Fishes|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.17.14|Tropical Fishes|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.17.14|Coral Reefs|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.17.14|Marine|theme|KNB
+    knb-lter-mcr.17.14|Populations|theme|LTER Core Research Area
+    knb-lter-mcr.17.14|Process-Oriented Field Studies|theme|MCR Core Activity
+    knb-lter-mcr.17.14|Population and Community Dynamics|theme|MCR-LTER Working Group
+    
+    knb-lter-mcr.18.12|Moorea Coral Reef|theme|
+    knb-lter-mcr.18.12|MCR|theme|
+    knb-lter-mcr.18.12|LTER|theme|
+    knb-lter-mcr.18.12|French Polynesia|place|
+    knb-lter-mcr.18.12|Moorea|place|
+    knb-lter-mcr.18.12|Backreef|place|
+    knb-lter-mcr.18.12|benthic metabolism|theme|
+    knb-lter-mcr.18.12|PAR|theme|
+    knb-lter-mcr.18.12|community primary production|theme|
+    knb-lter-mcr.18.12|community respiration|theme|
+    knb-lter-mcr.18.12|Dissolved oxygen|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.18.12|Respiration|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.18.12|Primary production|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.18.12|Solar radiation|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.18.12|Coral Reefs|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.18.12|Marine|theme|KNB
+    knb-lter-mcr.18.12|Primary Production|theme|LTER Core Research Area
+    knb-lter-mcr.18.12|Time Series Program|theme|MCR Core Activity
+    knb-lter-mcr.18.12|Ocean Acidification|theme|Research Theme
+    
+    knb-lter-mcr.19.11|Moorea Coral Reef|theme|
+    knb-lter-mcr.19.11|MCR|theme|
+    knb-lter-mcr.19.11|LTER|theme|
+    knb-lter-mcr.19.11|French Polynesia|place|
+    knb-lter-mcr.19.11|Moorea|place|
+    knb-lter-mcr.19.11|University of California Santa Barbara|theme|
+    knb-lter-mcr.19.11|California State University Northridge|theme|
+    knb-lter-mcr.19.11|NSF|theme|
+    knb-lter-mcr.19.11|Gordon and Betty Moore Foundation|theme|
+    knb-lter-mcr.19.11|Richard B. Gump South Pacific Research Station|theme|
+    knb-lter-mcr.19.11|macroalgae|theme|
+    knb-lter-mcr.19.11|algal turf|theme|
+    knb-lter-mcr.19.11|Pocillopora|taxonomic|
+    knb-lter-mcr.19.11|Sargassum|taxonomic|
+    knb-lter-mcr.19.11|flume|theme|
+    knb-lter-mcr.19.11|Dissolved oxygen|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.19.11|Respiration|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.19.11|Primary production|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.19.11|Coral Reefs|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.19.11|Marine|theme|KNB
+    knb-lter-mcr.19.11|Primary Production|theme|LTER Core Research Area
+    knb-lter-mcr.19.11|Time Series Program|theme|MCR Core Activity
+    knb-lter-mcr.19.11|Ocean Acidification|theme|Research Theme
+    
+    knb-lter-mcr.2.14|Moorea Coral Reef|theme|
+    knb-lter-mcr.2.14|MCR|theme|
+    knb-lter-mcr.2.14|LTER|theme|
+    knb-lter-mcr.2.14|French Polynesia|place|
+    knb-lter-mcr.2.14|Moorea|place|
+    knb-lter-mcr.2.14|University of California, Santa Barbara|theme|
+    knb-lter-mcr.2.14|California State University Northridge|theme|
+    knb-lter-mcr.2.14|NSF|theme|
+    knb-lter-mcr.2.14|Gordon and Betty Moore Foundation|theme|
+    knb-lter-mcr.2.14|Richard B. Gump South Pacific Research Station|theme|
+    knb-lter-mcr.2.14|Fishes|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.2.14|Abundance (organisms)|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.2.14|Populations|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.2.14|Coral Reef|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.2.14|Community|theme|KNB
+    knb-lter-mcr.2.14|Marine|theme|KNB
+    knb-lter-mcr.2.14|Populations|theme|LTER Core Research Area
+    knb-lter-mcr.2.14|Time Series Program|theme|MCR Core Activity
+    knb-lter-mcr.2.14|Population and Community Dynamics|theme|MCR-LTER Working Group
+    
+    knb-lter-mcr.20.13|MCR|theme|
+    knb-lter-mcr.20.13|LTER|theme|
+    knb-lter-mcr.20.13|Moorea Coral Reef|theme|
+    knb-lter-mcr.20.13|University of California Santa Barbara|theme|
+    knb-lter-mcr.20.13|California State University Northridge|theme|
+    knb-lter-mcr.20.13|NSF|theme|
+    knb-lter-mcr.20.13|Gordon and Betty Moore Foundation|theme|
+    knb-lter-mcr.20.13|Richard B. Gump South Pacific Research Station|theme|
+    knb-lter-mcr.20.13|French Polynesia|place|
+    knb-lter-mcr.20.13|Moorea|place|
+    knb-lter-mcr.20.13|Turbinaria ornata|taxonomic|
+    knb-lter-mcr.20.13|Sargassum mangarevense|taxonomic|
+    knb-lter-mcr.20.13|macroalgae|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.20.13|nitrogen content|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.20.13|carbon to nitrogen ratio|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.20.13|Algae|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.20.13|Carbon|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.20.13|Nitrogen|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.20.13|Carbon/nitrogen ratio|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.20.13|Coral Reefs|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.20.13|Inorganic Nutrients|theme|LTER Core Research Area
+    knb-lter-mcr.20.13|Time Series Program|theme|MCR Core Activity
+    
+    knb-lter-mcr.2001.4|MCR|theme|
+    knb-lter-mcr.2001.4|LTER|theme|
+    knb-lter-mcr.2001.4|Moorea Coral Reef|theme|
+    knb-lter-mcr.2001.4|Moorea|place|
+    knb-lter-mcr.2001.4|Moorea Coral Reef|theme|
+    knb-lter-mcr.2001.4|University of California Santa Barbara|theme|
+    knb-lter-mcr.2001.4|California State University Northridge|theme|
+    knb-lter-mcr.2001.4|NSF|theme|
+    knb-lter-mcr.2001.4|Gordon and Betty Moore Foundation|theme|
+    knb-lter-mcr.2001.4|Richard B. Gump South Pacific Research Station|theme|
+    knb-lter-mcr.2001.4|French Polynesia|place|MCR LTER Site
+    knb-lter-mcr.2001.4|Moorea|place|MCR LTER Site
+    knb-lter-mcr.2001.4|North Shore|place|MCR LTER Site
+    knb-lter-mcr.2001.4|East Shore|place|MCR LTER Site
+    knb-lter-mcr.2001.4|LTER 1 Fringing Reef|place|MCR LTER Site
+    knb-lter-mcr.2001.4|Pink Roof|place|MCR LTER Site
+    knb-lter-mcr.2001.4|Rudys|place|MCR LTER Site
+    knb-lter-mcr.2001.4|Temae|place|MCR LTER Site
+    knb-lter-mcr.2001.4|Fishes|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.2001.4|Tropical Fishes|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.2001.4|Corals|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.2001.4|Algae|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.2001.4|Abundance (organisms)|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.2001.4|Species Richness|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.2001.4|Biodiversity|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.2001.4|Coral Reef|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.2001.4|Territorial behavior|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.2001.4|Aggressive behavior|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.2001.4|Morphometry|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.2001.4|Dimensions|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.2001.4|Physical properties|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.2001.4|Depth|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.2001.4|Community|theme|KNB
+    knb-lter-mcr.2001.4|Marine|theme|KNB
+    knb-lter-mcr.2001.4|Populations|theme|LTER Core Research Area
+    knb-lter-mcr.2001.4|Stegastes|taxonomic|
+    knb-lter-mcr.2001.4|Acropora|taxonomic|
+    knb-lter-mcr.2001.4|Staghorn coral|theme|
+    
+    knb-lter-mcr.2002.2|MCR|theme|
+    knb-lter-mcr.2002.2|LTER|theme|
+    knb-lter-mcr.2002.2|Long-term Time Series|theme|
+    knb-lter-mcr.2002.2|French Polynesia|place|
+    knb-lter-mcr.2002.2|Moorea|place|
+    knb-lter-mcr.2002.2|University of California Santa Barbara|theme|
+    knb-lter-mcr.2002.2|California State University Northridge|theme|
+    knb-lter-mcr.2002.2|NSF|theme|
+    knb-lter-mcr.2002.2|Gordon and Betty Moore Foundation|theme|
+    knb-lter-mcr.2002.2|Richard B. Gump South Pacific Research Station|theme|
+    knb-lter-mcr.2002.2|Fungia concinna|taxonomic|
+    knb-lter-mcr.2002.2|Scleractinia|taxonomic|
+    knb-lter-mcr.2002.2|Scleractinian Coral|theme|
+    knb-lter-mcr.2002.2|Community|theme|
+    knb-lter-mcr.2002.2|Demographics|theme|
+    knb-lter-mcr.2002.2|Forereef|theme|
+    knb-lter-mcr.2002.2|Corals|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.2002.2|Carbonate rocks|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.2002.2|Coral Reefs|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.2002.2|Shallow water|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.2002.2|Marine environments|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.2002.2|Polyps (organisms)|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.2002.2|Photosynthesis|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.2002.2|Populations|theme|LTER Core Research Area
+    knb-lter-mcr.2002.2|Ocean Acidification|theme|MCR Research Theme
+    knb-lter-mcr.2002.2|Reef Resistance and Resilience|theme|MCR Research Theme
+    knb-lter-mcr.2002.2|Population and Community Dynamics|theme|MCR-LTER Working Group
+    
+    knb-lter-mcr.2003.2|Diadema|taxonomic|None
+    knb-lter-mcr.2003.2|Diadema savignyi|taxonomic|None
+    knb-lter-mcr.2003.2|Sea urchins|theme|None
+    knb-lter-mcr.2003.2|Balistapus undulatus|taxonomic|None
+    knb-lter-mcr.2003.2|Test diameter|theme|None
+    knb-lter-mcr.2003.2|Rubble|theme|None
+    knb-lter-mcr.2003.2|Demographics|theme|None
+    knb-lter-mcr.2003.2|Marine|theme|KNB
+    knb-lter-mcr.2003.2|Abundance (organisms)|theme|NBII Biocomplexity Thesaruus
+    knb-lter-mcr.2003.2|Demography|theme|NBII Biocomplexity Thesaruus
+    knb-lter-mcr.2003.2|Growth|theme|NBII Biocomplexity Thesaruus
+    knb-lter-mcr.2003.2|Marine invertebrates|theme|NBII Biocomplexity Thesaruus
+    knb-lter-mcr.2003.2|Populations|theme|NBII Biocomplexity Thesaruus
+    knb-lter-mcr.2003.2|Predation|theme|NBII Biocomplexity Thesaruus
+    knb-lter-mcr.2003.2|Recruitment|theme|NBII Biocomplexity Thesaruus
+    knb-lter-mcr.2003.2|Surveys|theme|NBII Biocomplexity Thesaruus
+    knb-lter-mcr.2003.2|predation|theme|LTER Network Controlled Vocabulary
+    knb-lter-mcr.2003.2|recruitment|theme|LTER Network Controlled Vocabulary
+    knb-lter-mcr.2003.2|abundance|theme|LTER Network Controlled Vocabulary
+    knb-lter-mcr.2003.2|aquatic|theme|LTER Network Controlled Vocabulary
+    knb-lter-mcr.2003.2|population dynamics|theme|LTER Network Controlled Vocabulary
+    knb-lter-mcr.2003.2|MCR|theme|
+    knb-lter-mcr.2003.2|LTER|theme|
+    knb-lter-mcr.2003.2|Moorea Coral Reef LTER|theme|
+    knb-lter-mcr.2003.2|French Polynesia|place|
+    knb-lter-mcr.2003.2|Moorea|place|
+    knb-lter-mcr.2003.2|University of California Santa Barbara|theme|
+    knb-lter-mcr.2003.2|NSF|theme|
+    knb-lter-mcr.2003.2|Gordon and Betty Moore Foundation|theme|
+    knb-lter-mcr.2003.2|Richard B. Gump South Pacific Research Station|theme|
+    knb-lter-mcr.2003.2|Populations|theme|LTER Core Research Area
+    
+    knb-lter-mcr.21.14|French Polynesia|place|
+    knb-lter-mcr.21.14|Moorea|place|
+    knb-lter-mcr.21.14|Reef Demersal Zooplankton abundance|theme|
+    knb-lter-mcr.21.14|Zooplankton composition|theme|
+    knb-lter-mcr.21.14|Reef Zooplankton nighttime abundance|theme|
+    knb-lter-mcr.21.14|Crustacea Copepoda|taxonomic|Zooplankton taxa and functional groups
+    knb-lter-mcr.21.14|Crustacea Isopoda|taxonomic|Zooplankton taxa and functional groups
+    knb-lter-mcr.21.14|Gnathiidae|taxonomic|Zooplankton taxa and functional groups
+    knb-lter-mcr.21.14|Crustacea Ostracoda|taxonomic|Zooplankton taxa and functional groups
+    knb-lter-mcr.21.14|Crustacea Tanaidacea|taxonomic|Zooplankton taxa and functional groups
+    knb-lter-mcr.21.14|Crustacea Decapoda|taxonomic|Zooplankton taxa and functional groups
+    knb-lter-mcr.21.14|Crustacea Mysidacea|taxonomic|Zooplankton taxa and functional groups
+    knb-lter-mcr.21.14|Crustacea Amphipoda|taxonomic|Zooplankton taxa and functional groups
+    knb-lter-mcr.21.14|Crustacea larvae|theme|Zooplankton taxa and functional groups
+    knb-lter-mcr.21.14|Annelida Polychaetea|taxonomic|Zooplankton taxa and functional groups
+    knb-lter-mcr.21.14|Cheatognatha Spadella sp|taxonomic|Zooplankton taxa and functional groups
+    knb-lter-mcr.21.14|Appendicularia|taxonomic|Zooplankton taxa and functional groups
+    knb-lter-mcr.21.14|Mollusca Gastropoda Veliger larvae|taxonomic|Zooplankton taxa and functional groups
+    knb-lter-mcr.21.14|Mollusca Bivalvia larvae|taxonomic|Zooplankton taxa and functional groups
+    knb-lter-mcr.21.14|Chordata Cephalochordata Amphioxiformes|taxonomic|Zooplankton taxa and functional groups
+    knb-lter-mcr.21.14|Fish larvae|theme|Zooplankton taxa and functional groups
+    knb-lter-mcr.21.14|Chordata Cephalochordata Amphioxus|taxonomic|Zooplankton taxa and functional groups
+    knb-lter-mcr.21.14|MCR|theme|
+    knb-lter-mcr.21.14|LTER|theme|
+    knb-lter-mcr.21.14|Moorea Coral Reef|place|
+    knb-lter-mcr.21.14|Backreef|place|
+    knb-lter-mcr.21.14|Fringing Reef|place|
+    knb-lter-mcr.21.14|Marine|theme|KNB
+    knb-lter-mcr.21.14|Zooplankton|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.21.14|Abundance (organisms)|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.21.14|Species composition|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.21.14|Coral Reefs|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.21.14|Populations|theme|LTER Core Research Area
+    knb-lter-mcr.21.14|Time Series Program|theme|MCR Core Activity
+    knb-lter-mcr.21.14|Population and Community Dynamics|theme|MCR-LTER Working Group
+    knb-lter-mcr.21.14|Reef Resistance and Resilience|theme|MCR Research Theme
+    
+    knb-lter-mcr.3.16|Moorea Coral Reef|theme|
+    knb-lter-mcr.3.16|MCR|theme|
+    knb-lter-mcr.3.16|LTER|theme|
+    knb-lter-mcr.3.16|Moorea|place|
+    knb-lter-mcr.3.16|French Polynesia|place|
+    knb-lter-mcr.3.16|Gump reef|place|MCR LTER Site
+    knb-lter-mcr.3.16|University of California Santa Barbara|theme|
+    knb-lter-mcr.3.16|California State University Northridge|theme|
+    knb-lter-mcr.3.16|NSF|theme|
+    knb-lter-mcr.3.16|Gordon and Betty Moore Foundation|theme|
+    knb-lter-mcr.3.16|Richard B. Gump South Pacific Research Station|theme|
+    knb-lter-mcr.3.16|Fishes|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.3.16|Tropical Fishes|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.3.16|Abundance (organisms)|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.3.16|Populations|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.3.16|Coral Reef|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.3.16|Community|theme|KNB
+    knb-lter-mcr.3.16|Marine|theme|KNB
+    knb-lter-mcr.3.16|Populations|theme|LTER Core Research Area
+    knb-lter-mcr.3.16|Time Series Program|theme|MCR Core Activity
+    knb-lter-mcr.3.16|Population and Community Dynamics|theme|MCR-LTER Working Group
+    
+    knb-lter-mcr.30.21|Moorea Coral Reef|place|
+    knb-lter-mcr.30.21|FOR01|place|
+    knb-lter-mcr.30.21|MCR|theme|
+    knb-lter-mcr.30.21|LTER|theme|
+    knb-lter-mcr.30.21|Ocean_biogeochemistry|theme|
+    knb-lter-mcr.30.21|moorings|theme|
+    knb-lter-mcr.30.21|Scattering|theme|
+    knb-lter-mcr.30.21|Conductivity|theme|
+    knb-lter-mcr.30.21|Ocean Currents|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.30.21|Fluorescence|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.30.21|Density|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.30.21|Pressure|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.30.21|Salinity|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.30.21|Temperature|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.30.21|Water Temperature|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.30.21|Marine|theme|KNB
+    knb-lter-mcr.30.21|Disturbance|theme|LTER Core Research Area
+    knb-lter-mcr.30.21|Time Series Program|theme|MCR Core Activity
+    knb-lter-mcr.30.21|Bio-Physical Coupling|theme|MCR-LTER Working Group
+    
+    knb-lter-mcr.31.25|Moorea Coral Reef|place|
+    knb-lter-mcr.31.25|FOR04|place|
+    knb-lter-mcr.31.25|MCR|theme|
+    knb-lter-mcr.31.25|LTER|theme|
+    knb-lter-mcr.31.25|Ocean_biogeochemistry|theme|
+    knb-lter-mcr.31.25|moorings|theme|
+    knb-lter-mcr.31.25|Scattering|theme|
+    knb-lter-mcr.31.25|Conductivity|theme|
+    knb-lter-mcr.31.25|Ocean Currents|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.31.25|Fluorescence|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.31.25|Density|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.31.25|Pressure|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.31.25|Salinity|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.31.25|Temperature|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.31.25|Water Temperature|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.31.25|Marine|theme|KNB
+    knb-lter-mcr.31.25|Disturbance|theme|LTER Core Research Area
+    knb-lter-mcr.31.25|Time Series Program|theme|MCR Core Activity
+    knb-lter-mcr.31.25|Bio-Physical Coupling|theme|MCR-LTER Working Group
+    
+    knb-lter-mcr.32.22|Moorea Coral Reef|place|
+    knb-lter-mcr.32.22|FOR05|place|
+    knb-lter-mcr.32.22|MCR|theme|
+    knb-lter-mcr.32.22|LTER|theme|
+    knb-lter-mcr.32.22|Ocean_biogeochemistry|theme|
+    knb-lter-mcr.32.22|moorings|theme|
+    knb-lter-mcr.32.22|Scattering|theme|
+    knb-lter-mcr.32.22|Conductivity|theme|
+    knb-lter-mcr.32.22|Ocean Currents|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.32.22|Fluorescence|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.32.22|Density|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.32.22|Pressure|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.32.22|Salinity|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.32.22|Temperature|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.32.22|Water Temperature|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.32.22|Marine|theme|KNB
+    knb-lter-mcr.32.22|Disturbance|theme|LTER Core Research Area
+    knb-lter-mcr.32.22|Time Series Program|theme|MCR Core Activity
+    knb-lter-mcr.32.22|Bio-Physical Coupling|theme|MCR-LTER Working Group
+    
+    knb-lter-mcr.33.23|Moorea Coral Reef|place|
+    knb-lter-mcr.33.23|Cooks Bay|place|
+    knb-lter-mcr.33.23|CBYTS|place|
+    knb-lter-mcr.33.23|MCR|theme|
+    knb-lter-mcr.33.23|LTER|theme|
+    knb-lter-mcr.33.23|Ocean_biogeochemistry|theme|
+    knb-lter-mcr.33.23|moorings|theme|
+    knb-lter-mcr.33.23|Scattering|theme|
+    knb-lter-mcr.33.23|Conductivity|theme|
+    knb-lter-mcr.33.23|Ocean Currents|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.33.23|Fluorescence|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.33.23|Density|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.33.23|Pressure|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.33.23|Salinity|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.33.23|Temperature|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.33.23|Water Temperature|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.33.23|Marine|theme|KNB
+    knb-lter-mcr.33.23|Disturbance|theme|LTER Core Research Area
+    knb-lter-mcr.33.23|Time Series Program|theme|MCR Core Activity
+    knb-lter-mcr.33.23|Bio-Physical Coupling|theme|MCR-LTER Working Group
+    
+    knb-lter-mcr.4.27|MCR|theme|
+    knb-lter-mcr.4.27|LTER|theme|
+    knb-lter-mcr.4.27|Moorea Coral Reef|theme|
+    knb-lter-mcr.4.27|Long-term Time Series|theme|
+    knb-lter-mcr.4.27|French Polynesia|place|
+    knb-lter-mcr.4.27|Moorea|place|
+    knb-lter-mcr.4.27|University of California Santa Barbara|theme|
+    knb-lter-mcr.4.27|California State University Northridge|theme|
+    knb-lter-mcr.4.27|NSF|theme|
+    knb-lter-mcr.4.27|Gordon and Betty Moore Foundation|theme|
+    knb-lter-mcr.4.27|Richard B. Gump South Pacific Research Station|theme|
+    knb-lter-mcr.4.27|Scleractinia|taxonomic|
+    knb-lter-mcr.4.27|Scleractinian Coral|theme|
+    knb-lter-mcr.4.27|Demographics|theme|
+    knb-lter-mcr.4.27|corals|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.4.27|habitats|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.4.27|coral reefs|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.4.27|communities|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.4.27|marine|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.4.27|Corals|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.4.27|Populations|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.4.27|Carbonate rocks|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.4.27|Coral Reefs|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.4.27|Lagoons|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.4.27|Shallow water|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.4.27|Marine environments|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.4.27|Polyps (organisms)|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.4.27|Populations|theme|LTER Core Research Area
+    knb-lter-mcr.4.27|Time Series Program|theme|MCR Core Activity
+    knb-lter-mcr.4.27|Ocean Acidification|theme|MCR Research Theme
+    knb-lter-mcr.4.27|Reef Resistance and Resilience|theme|MCR Research Theme
+    knb-lter-mcr.4.27|Population and Community Dynamics|theme|MCR-LTER Working Group
+    
+    knb-lter-mcr.4001.11|Moorea Coral Reef|theme|
+    knb-lter-mcr.4001.11|MCR|theme|
+    knb-lter-mcr.4001.11|LTER|theme|
+    knb-lter-mcr.4001.11|Moorea Coral Reef|theme|
+    knb-lter-mcr.4001.11|Long-term Time Series|theme|
+    knb-lter-mcr.4001.11|French Polynesia|place|
+    knb-lter-mcr.4001.11|Moorea|place|
+    knb-lter-mcr.4001.11|University of California Santa Barbara|theme|
+    knb-lter-mcr.4001.11|California State University Northridge|theme|
+    knb-lter-mcr.4001.11|NSF|theme|
+    knb-lter-mcr.4001.11|Gordon and Betty Moore Foundation|theme|
+    knb-lter-mcr.4001.11|Richard B. Gump South Pacific Research Station|theme|
+    knb-lter-mcr.4001.11|Scleractinia|taxonomic|
+    knb-lter-mcr.4001.11|Acroporidae|taxonomic|
+    knb-lter-mcr.4001.11|Pocilloporidae|taxonomic|
+    knb-lter-mcr.4001.11|Poritidae|taxonomic|
+    knb-lter-mcr.4001.11|Scleractinian Coral|theme|
+    knb-lter-mcr.4001.11|Community|theme|
+    knb-lter-mcr.4001.11|Demographics|theme|
+    knb-lter-mcr.4001.11|Corals|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.4001.11|Populations|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.4001.11|Carbonate rocks|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.4001.11|Coral Reefs|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.4001.11|Lagoons|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.4001.11|Shallow water|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.4001.11|Marine environments|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.4001.11|Polyps (organisms)|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.4001.11|Populations|theme|LTER Core Research Area
+    knb-lter-mcr.4001.11|Time Series Program|theme|MCR Core Activity
+    knb-lter-mcr.4001.11|Ocean Acidification|theme|MCR Research Theme
+    knb-lter-mcr.4001.11|Reef Resistance and Resilience|theme|MCR Research Theme
+    knb-lter-mcr.4001.11|Population and Community Dynamics|theme|MCR-LTER Working Group
+    
+    knb-lter-mcr.4002.11|Moorea Coral Reef|theme|
+    knb-lter-mcr.4002.11|MCR|theme|
+    knb-lter-mcr.4002.11|LTER|theme|
+    knb-lter-mcr.4002.11|Long-term Time Series|theme|
+    knb-lter-mcr.4002.11|French Polynesia|place|
+    knb-lter-mcr.4002.11|Moorea|place|
+    knb-lter-mcr.4002.11|University of California Santa Barbara||
+    knb-lter-mcr.4002.11|California State University Northridge||
+    knb-lter-mcr.4002.11|NSF||
+    knb-lter-mcr.4002.11|Gordon and Betty Moore Foundation||
+    knb-lter-mcr.4002.11|Richard B. Gump South Pacific Research Station||
+    knb-lter-mcr.4002.11|Scleractinia||
+    knb-lter-mcr.4002.11|Scleractinian Coral||
+    knb-lter-mcr.4002.11|Community||
+    knb-lter-mcr.4002.11|Demographics||
+    knb-lter-mcr.4002.11|Fringing Reefs|theme|
+    knb-lter-mcr.4002.11|Juvenile (Small coral less than or equal to 4cm
+				diameter)|theme|
+    knb-lter-mcr.4002.11|Recruits (Newly settled baby coral)|theme|
+    knb-lter-mcr.4002.11|Corals|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.4002.11|Populations|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.4002.11|Coral Reefs|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.4002.11|Shallow water|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.4002.11|Marine environments|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.4002.11|Polyps (organisms)|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.4002.11|Populations|theme|LTER Core Research Area
+    knb-lter-mcr.4002.11|Time Series Program|theme|MCR Non-Core Activity
+    knb-lter-mcr.4002.11|Reef Resistance and Resilience|theme|MCR Research Theme
+    knb-lter-mcr.4002.11|Population and Community Dynamics|theme|MCR-LTER Working Group
+    
+    knb-lter-mcr.4003.1|Moorea Coral Reef|theme|
+    knb-lter-mcr.4003.1|MCR|theme|
+    knb-lter-mcr.4003.1|LTER|theme|
+    knb-lter-mcr.4003.1|Long-term Time Series|theme|
+    knb-lter-mcr.4003.1|French Polynesia|place|
+    knb-lter-mcr.4003.1|Moorea|place|
+    knb-lter-mcr.4003.1|University of California Santa Barbara|theme|
+    knb-lter-mcr.4003.1|California State University Northridge|theme|
+    knb-lter-mcr.4003.1|NSF|theme|
+    knb-lter-mcr.4003.1|Gordon and Betty Moore Foundation|theme|
+    knb-lter-mcr.4003.1|Richard B. Gump South Pacific Research Station|theme|
+    knb-lter-mcr.4003.1|Scleractinia|taxonomic|
+    knb-lter-mcr.4003.1|Scleractinian Coral|taxonomic|
+    knb-lter-mcr.4003.1|Community|theme|
+    knb-lter-mcr.4003.1|Demographics|theme|
+    knb-lter-mcr.4003.1|Corals|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.4003.1|Populations|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.4003.1|Carbonate rocks|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.4003.1|Coral Reefs|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.4003.1|Shallow water|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.4003.1|Marine environments|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.4003.1|Polyps (organisms)|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.4003.1|Populations|theme|LTER Core Research Area
+    knb-lter-mcr.4003.1|Time Series Program|theme|MCR Non-Core Activity
+    knb-lter-mcr.4003.1|Reef Resistance and Resilience|theme|MCR Research Theme
+    knb-lter-mcr.4003.1|Population and Community Dynamics|theme|MCR-LTER Working Group
+    
+    knb-lter-mcr.4004.12|Moorea Coral Reef|place|
+    knb-lter-mcr.4004.12|GUMPR|place|
+    knb-lter-mcr.4004.12|MCR|theme|
+    knb-lter-mcr.4004.12|LTER|theme|
+    knb-lter-mcr.4004.12|University of California Santa Barbara|theme|
+    knb-lter-mcr.4004.12|California State University Northridge|theme|
+    knb-lter-mcr.4004.12|NSF|theme|
+    knb-lter-mcr.4004.12|Gordon and Betty Moore Foundation|theme|
+    knb-lter-mcr.4004.12|Richard B. Gump South Pacific Research Station|theme|
+    knb-lter-mcr.4004.12|CREON|theme|
+    knb-lter-mcr.4004.12|Data Turbine|theme|
+    knb-lter-mcr.4004.12|Ocean_biogeochemistry|theme|
+    knb-lter-mcr.4004.12|CTD|theme|
+    knb-lter-mcr.4004.12|Conductivity|theme|
+    knb-lter-mcr.4004.12|Density|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.4004.12|Pressure|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.4004.12|Salinity|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.4004.12|Temperature|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.4004.12|Water Temperature|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.4004.12|Marine|theme|KNB
+    knb-lter-mcr.4004.12|Disturbance|theme|LTER Core Research Area
+    knb-lter-mcr.4004.12|Time Series Program|theme|MCR Core Activity
+    knb-lter-mcr.4004.12|Bio-Physical Coupling|theme|MCR-LTER Working Group
+    
+    knb-lter-mcr.4005.5|MCR|theme|
+    knb-lter-mcr.4005.5|LTER|theme|
+    knb-lter-mcr.4005.5|Moorea Coral Reef|theme|
+    knb-lter-mcr.4005.5|University of California Santa Barbara|theme|
+    knb-lter-mcr.4005.5|California State University Northridge|theme|
+    knb-lter-mcr.4005.5|NSF|theme|
+    knb-lter-mcr.4005.5|Gordon and Betty Moore Foundation|theme|
+    knb-lter-mcr.4005.5|Richard B. Gump South Pacific Research Station|theme|
+    knb-lter-mcr.4005.5|French Polynesia|place|
+    knb-lter-mcr.4005.5|Moorea|place|
+    knb-lter-mcr.4005.5|photosynthetically active radiation|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.4005.5|PAR|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.4005.5|Solar radiation|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.4005.5|Light|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.4005.5|Sunlight|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.4005.5|Coral Reefs|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.4005.5|Time Series Program|theme|MCR Core Activity
+    
+    knb-lter-mcr.5.19|MCR|theme|
+    knb-lter-mcr.5.19|LTER|theme|
+    knb-lter-mcr.5.19|Moorea Coral Reef|place|
+    knb-lter-mcr.5.19|Long-term Time Series|theme|
+    knb-lter-mcr.5.19|French Polynesia|place|
+    knb-lter-mcr.5.19|Moorea|place|
+    knb-lter-mcr.5.19|Detrital and Dissolved Organic Matter Absorption Coefficient|theme|
+    knb-lter-mcr.5.19|Particulate Backscattering Coefficient|theme|
+    knb-lter-mcr.5.19|Ocean_biogeochemistry|theme|
+    knb-lter-mcr.5.19|SST|theme|
+    knb-lter-mcr.5.19|NSST|theme|
+    knb-lter-mcr.5.19|SeaWiFS|theme|
+    knb-lter-mcr.5.19|MODIS AQUA|theme|
+    knb-lter-mcr.5.19|Ocean Color|theme|GCMD
+    knb-lter-mcr.5.19|Sea Surface Temperature|theme|GCMD
+    knb-lter-mcr.5.19|Chlorophyll|theme|GCMD
+    knb-lter-mcr.5.19|Absorption|theme|GCMD
+    knb-lter-mcr.5.19|Gelbstoff|theme|GCMD
+    knb-lter-mcr.5.19|Scattering|theme|GCMD
+    knb-lter-mcr.5.19|Marine|theme|KNB
+    knb-lter-mcr.5.19|Temperature|theme|KNB
+    knb-lter-mcr.5.19|Chlorophyll|theme|KNB
+    knb-lter-mcr.5.19|Disturbance|theme|LTER Core Research Area
+    knb-lter-mcr.5.19|Organic Matter|theme|LTER Core Research Area
+    knb-lter-mcr.5.19|Primary Production|theme|LTER Core Research Area
+    knb-lter-mcr.5.19|Time Series Program|theme|MCR Core Activity
+    knb-lter-mcr.5.19|Bio-Physical Coupling|theme|MCR-LTER Working Group
+    
+    knb-lter-mcr.5001.8|MCR|theme|
+    knb-lter-mcr.5001.8|LTER|theme|
+    knb-lter-mcr.5001.8|Moorea Coral Reef|theme|
+    knb-lter-mcr.5001.8|University of California Santa Barbara|theme|
+    knb-lter-mcr.5001.8|California State University Northridge|theme|
+    knb-lter-mcr.5001.8|NSF|theme|
+    knb-lter-mcr.5001.8|Gordon and Betty Moore Foundation|theme|
+    knb-lter-mcr.5001.8|Richard B. Gump South Pacific Research Station|theme|
+    knb-lter-mcr.5001.8|French Polynesia|place|MCR LTER Site
+    knb-lter-mcr.5001.8|Moorea|place|MCR LTER Site
+    knb-lter-mcr.5001.8|Lagoons|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.5001.8|Coral reefs|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.5001.8|Burrowing organisms|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.5001.8|Zoobenthos|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.5001.8|Meiofauna|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.5001.8|Marine invertebrates|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.5001.8|Interstitial environments|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.5001.8|Benthic environments|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.5001.8|Community|theme|KNB
+    knb-lter-mcr.5001.8|Benthic|theme|KNB
+    knb-lter-mcr.5001.8|Marine|theme|KNB
+    knb-lter-mcr.5001.8|Populations|theme|LTER Core Research Area
+    
+    knb-lter-mcr.5003.4|Moorea Coral Reef|theme|
+    knb-lter-mcr.5003.4|MCR|theme|
+    knb-lter-mcr.5003.4|LTER|theme|
+    knb-lter-mcr.5003.4|University of California Santa Barbara|theme|
+    knb-lter-mcr.5003.4|California State University Northridge|theme|
+    knb-lter-mcr.5003.4|NSF|theme|
+    knb-lter-mcr.5003.4|Gordon and Betty Moore Foundation|theme|
+    knb-lter-mcr.5003.4|Richard B. Gump South Pacific Research Station|theme|
+    knb-lter-mcr.5003.4|profiles|theme|
+    knb-lter-mcr.5003.4|French Polynesia|place|MCR LTER Site
+    knb-lter-mcr.5003.4|Moorea|place|MCR LTER Site
+    knb-lter-mcr.5003.4|North Shore|place|MCR LTER Site
+    knb-lter-mcr.5003.4|East Shore|place|MCR LTER Site
+    knb-lter-mcr.5003.4|West Shore|place|MCR LTER Site
+    knb-lter-mcr.5003.4|Marine|theme|KNB
+    knb-lter-mcr.5003.4|Temperature|theme|KNB
+    knb-lter-mcr.5003.4|Chlorophylls|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.5003.4|Vertical structure (water bodies)|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.5003.4|Coral reefs|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.5003.4|Water column|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.5003.4|Water temperature|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.5003.4|Ocean Temperature: Water Temperature|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.5003.4|Salinity/Density: Conductivity|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.5003.4|Salinity/Density: Density|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.5003.4|Salinity/Density: Salinity|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.5003.4|Water Pressure: Pressure|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.5003.4|Ocean Optics: Fluorescence|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.5003.4|Ocean Chemistry: Chlorophyll|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    
+    knb-lter-mcr.5004.4|Moorea Coral Reef|theme|
+    knb-lter-mcr.5004.4|MCR|theme|
+    knb-lter-mcr.5004.4|LTER|theme|
+    knb-lter-mcr.5004.4|University of California Santa Barbara|theme|
+    knb-lter-mcr.5004.4|California State University Northridge|theme|
+    knb-lter-mcr.5004.4|NSF|theme|
+    knb-lter-mcr.5004.4|Gordon and Betty Moore Foundation|theme|
+    knb-lter-mcr.5004.4|Richard B. Gump South Pacific Research Station|theme|
+    knb-lter-mcr.5004.4|profiles|theme|
+    knb-lter-mcr.5004.4|French Polynesia|place|MCR LTER Site
+    knb-lter-mcr.5004.4|Moorea|place|MCR LTER Site
+    knb-lter-mcr.5004.4|Cooks Bay|place|MCR LTER Site
+    knb-lter-mcr.5004.4|Opunohu Bay|place|MCR LTER Site
+    knb-lter-mcr.5004.4|Marine|theme|KNB
+    knb-lter-mcr.5004.4|Temperature|theme|KNB
+    knb-lter-mcr.5004.4|Chlorophylls|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.5004.4|Vertical structure (water bodies)|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.5004.4|Coral reefs|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.5004.4|Coastal inlets|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.5004.4|Water column|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.5004.4|Water temperature|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.5004.4|Ocean Temperature: Water Temperature|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.5004.4|Salinity/Density: Conductivity|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.5004.4|Salinity/Density: Density|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.5004.4|Salinity/Density: Salinity|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.5004.4|Water Pressure: Pressure|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.5004.4|Ocean Optics: Fluorescence|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    knb-lter-mcr.5004.4|Ocean Chemistry: Chlorophyll|theme|GCMD Keywords, Version 6.0.0.0.0: EARTH SCIENCE: Oceans:
+    
+    knb-lter-mcr.5005.3|MCR|theme|
+    knb-lter-mcr.5005.3|LTER|theme|
+    knb-lter-mcr.5005.3|Long-term Time Series|theme|
+    knb-lter-mcr.5005.3|French Polynesia|place|
+    knb-lter-mcr.5005.3|Moorea|place|
+    knb-lter-mcr.5005.3|University of California Santa Barbara|theme|
+    knb-lter-mcr.5005.3|California State University Northridge|theme|
+    knb-lter-mcr.5005.3|NSF|theme|
+    knb-lter-mcr.5005.3|Gordon and Betty Moore Foundation|theme|
+    knb-lter-mcr.5005.3|Richard B. Gump South Pacific Research Station|theme|
+    knb-lter-mcr.5005.3|Scleractinia|taxonomic|
+    knb-lter-mcr.5005.3|Porites|taxonomic|
+    knb-lter-mcr.5005.3|Scleractinian Coral|theme|
+    knb-lter-mcr.5005.3|Corals|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.5005.3|Populations|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.5005.3|Carbonate rocks|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.5005.3|Coral Reefs|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.5005.3|Lagoons|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.5005.3|Shallow water|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.5005.3|Marine environments|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.5005.3|Polyps (organisms)|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.5005.3|Disturbance|theme|LTER Core Research Area
+    knb-lter-mcr.5005.3|Ocean Acidification|theme|MCR Research Theme
+    knb-lter-mcr.5005.3|Reef Resistance and Resilience|theme|MCR Research Theme
+    knb-lter-mcr.5005.3|Population and Community Dynamics|theme|MCR-LTER Working Group
+    
+    knb-lter-mcr.5006.1|MCR|theme|
+    knb-lter-mcr.5006.1|LTER|theme|
+    knb-lter-mcr.5006.1|Moorea Coral Reef|theme|
+    knb-lter-mcr.5006.1|Long-term Time Series|theme|
+    knb-lter-mcr.5006.1|French Polynesia|place|
+    knb-lter-mcr.5006.1|Moorea|place|
+    knb-lter-mcr.5006.1|University of California Santa Barbara|theme|
+    knb-lter-mcr.5006.1|California State University Northridge|theme|
+    knb-lter-mcr.5006.1|NSF|theme|
+    knb-lter-mcr.5006.1|Gordon and Betty Moore Foundation|theme|
+    knb-lter-mcr.5006.1|Richard B. Gump South Pacific Research Station|theme|
+    knb-lter-mcr.5006.1|Scleractinia|taxonomic|
+    knb-lter-mcr.5006.1|Scleractinian Coral|theme|
+    knb-lter-mcr.5006.1|Demographics|theme|
+    knb-lter-mcr.5006.1|Automated image recognition|theme|
+    knb-lter-mcr.5006.1|University of California San Diego|theme|
+    knb-lter-mcr.5006.1|Computer Vision Laboratory|theme|
+    knb-lter-mcr.5006.1|corals|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.5006.1|habitats|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.5006.1|coral reefs|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.5006.1|communities|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.5006.1|marine|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.5006.1|Corals|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.5006.1|Populations|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.5006.1|Carbonate rocks|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.5006.1|Coral Reefs|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.5006.1|Lagoons|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.5006.1|Shallow water|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.5006.1|Marine environments|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.5006.1|Polyps (organisms)|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.5006.1|Populations|theme|LTER Core Research Area
+    knb-lter-mcr.5006.1|Time Series Program|theme|MCR Core Activity
+    knb-lter-mcr.5006.1|Ocean Acidification|theme|MCR Research Theme
+    knb-lter-mcr.5006.1|Reef Resistance and Resilience|theme|MCR Research Theme
+    knb-lter-mcr.5006.1|Population and Community Dynamics|theme|MCR-LTER Working Group
+    
+    knb-lter-mcr.6.44|Abundance||
+    knb-lter-mcr.6.44|Species Richness||
+    knb-lter-mcr.6.44|Biodiversity||
+    knb-lter-mcr.6.44|MCR|theme|
+    knb-lter-mcr.6.44|LTER|theme|
+    knb-lter-mcr.6.44|Moorea Coral Reef|theme|
+    knb-lter-mcr.6.44|French Polynesia|place|
+    knb-lter-mcr.6.44|Moorea|place|
+    knb-lter-mcr.6.44|University of California Santa Barbara|theme|
+    knb-lter-mcr.6.44|California State University Northridge|theme|
+    knb-lter-mcr.6.44|NSF|theme|
+    knb-lter-mcr.6.44|Gordon and Betty Moore Foundation|theme|
+    knb-lter-mcr.6.44|Richard B. Gump South Pacific Research Station|theme|
+    knb-lter-mcr.6.44|Primary Consumers|theme|
+    knb-lter-mcr.6.44|Secondary Consumers|theme|
+    knb-lter-mcr.6.44|Corallivores|theme|
+    knb-lter-mcr.6.44|Pescivores|theme|
+    knb-lter-mcr.6.44|Planktivores|theme|
+    knb-lter-mcr.6.44|Detritivores|theme|
+    knb-lter-mcr.6.44|Invertivores|theme|
+    knb-lter-mcr.6.44|Long-term Time Series|theme|
+    knb-lter-mcr.6.44|abundance|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.6.44|consumers|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.6.44|species interactions|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.6.44|biodiversity|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.6.44|Fishes|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.6.44|Sharks|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.6.44|Tropical Fishes|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.6.44|Abundance (organisms)|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.6.44|Coral Reef|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.6.44|Trophic levels|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.6.44|Biomass|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.6.44|Detritus feeders|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.6.44|Plankton feeders|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.6.44|Herbivores|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.6.44|Omnivores|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.6.44|Community|theme|KNB
+    knb-lter-mcr.6.44|Trophic Dynamics|theme|KNB
+    knb-lter-mcr.6.44|Marine|theme|KNB
+    knb-lter-mcr.6.44|Populations|theme|LTER Core Research Area
+    knb-lter-mcr.6.44|Time Series Program|theme|MCR Core Activity
+    knb-lter-mcr.6.44|Population and Community Dynamics|theme|MCR-LTER Working Group
+    knb-lter-mcr.6.44|Reef Resistance and Resilience|theme|Research Theme
+    
+    knb-lter-mcr.6001.3|MCR|theme|
+    knb-lter-mcr.6001.3|LTER|theme|
+    knb-lter-mcr.6001.3|Long-term Time Series|theme|
+    knb-lter-mcr.6001.3|French Polynesia|place|
+    knb-lter-mcr.6001.3|Moorea|place|
+    knb-lter-mcr.6001.3|University of California Santa Barbara|theme|
+    knb-lter-mcr.6001.3|California State University Northridge|theme|
+    knb-lter-mcr.6001.3|NSF|theme|
+    knb-lter-mcr.6001.3|Gordon and Betty Moore Foundation|theme|
+    knb-lter-mcr.6001.3|Richard B. Gump South Pacific Research Station|theme|
+    knb-lter-mcr.6001.3|Primary Consumers|theme|
+    knb-lter-mcr.6001.3|Secondary Consumers|theme|
+    knb-lter-mcr.6001.3|Corallivores|theme|
+    knb-lter-mcr.6001.3|Planktivores|theme|
+    knb-lter-mcr.6001.3|Detritivores|theme|
+    knb-lter-mcr.6001.3|Invertivores|theme|
+    knb-lter-mcr.6001.3|abundance|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.6001.3|consumers|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.6001.3|species interactions|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.6001.3|biodiversity|theme|LTER Controlled Vocabulary
+    knb-lter-mcr.6001.3|Fishes|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.6001.3|Tropical Fishes|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.6001.3|Abundance (organisms)|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.6001.3|Coral Reef|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.6001.3|Trophic levels|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.6001.3|Biomass|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.6001.3|Detritus feeders|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.6001.3|Plankton feeders|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.6001.3|Herbivores|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.6001.3|Omnivores|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.6001.3|Community|theme|KNB
+    knb-lter-mcr.6001.3|Trophic Dynamics|theme|KNB
+    knb-lter-mcr.6001.3|Marine|theme|KNB
+    knb-lter-mcr.6001.3|Populations|theme|LTER Core Research Area
+    knb-lter-mcr.6001.3|Population and Community Dynamics|theme|MCR-LTER Working Group
+    knb-lter-mcr.6001.3|Reef Resistance and Resilience|theme|Research Theme
+    
+    knb-lter-mcr.6002.3|MCR|theme|
+    knb-lter-mcr.6002.3|LTER|theme|
+    knb-lter-mcr.6002.3|Moorea Coral Reef|place|
+    knb-lter-mcr.6002.3|Time Series|theme|
+    knb-lter-mcr.6002.3|French Polynesia|place|
+    knb-lter-mcr.6002.3|Moorea|place|
+    knb-lter-mcr.6002.3|Landsat ETM|theme|
+    knb-lter-mcr.6002.3|Landsat Enhanced Thematic Mapper|theme|
+    knb-lter-mcr.6002.3|NASA|theme|
+    knb-lter-mcr.6002.3|USGS|theme|
+    knb-lter-mcr.6002.3|remote sensing|theme|
+    knb-lter-mcr.6002.3|satellite data|theme|
+    knb-lter-mcr.6002.3|imagery|theme|
+    knb-lter-mcr.6002.3|earth observation|theme|
+    knb-lter-mcr.6002.3|Marine|theme|KNB
+    
+    knb-lter-mcr.6003.1|MCR|theme|
+    knb-lter-mcr.6003.1|LTER|theme|
+    knb-lter-mcr.6003.1|Moorea Coral Reef|place|
+    knb-lter-mcr.6003.1|Time Series|theme|
+    knb-lter-mcr.6003.1|French Polynesia|place|
+    knb-lter-mcr.6003.1|Moorea|place|
+    knb-lter-mcr.6003.1|Landsat 7|theme|
+    knb-lter-mcr.6003.1|NASA|theme|
+    knb-lter-mcr.6003.1|USGS|theme|
+    knb-lter-mcr.6003.1|remote sensing|theme|
+    knb-lter-mcr.6003.1|satellite data|theme|
+    knb-lter-mcr.6003.1|imagery|theme|
+    knb-lter-mcr.6003.1|earth observation|theme|
+    knb-lter-mcr.6003.1|Marine|theme|KNB
+    
+    knb-lter-mcr.6004.1|MCR|theme|
+    knb-lter-mcr.6004.1|LTER|theme|
+    knb-lter-mcr.6004.1|Moorea Coral Reef|place|
+    knb-lter-mcr.6004.1|Time Series|theme|
+    knb-lter-mcr.6004.1|French Polynesia|place|
+    knb-lter-mcr.6004.1|Moorea|place|
+    knb-lter-mcr.6004.1|Landsat MSS|theme|
+    knb-lter-mcr.6004.1|Landsat Multi-Spectral Scanner|theme|
+    knb-lter-mcr.6004.1|NASA|theme|
+    knb-lter-mcr.6004.1|USGS|theme|
+    knb-lter-mcr.6004.1|remote sensing|theme|
+    knb-lter-mcr.6004.1|satellite data|theme|
+    knb-lter-mcr.6004.1|imagery|theme|
+    knb-lter-mcr.6004.1|earth observation|theme|
+    knb-lter-mcr.6004.1|Marine|theme|KNB
+    
+    knb-lter-mcr.7.24|Acanthaster|taxonomic|
+    knb-lter-mcr.7.24|Culcita|taxonomic|
+    knb-lter-mcr.7.24|Diadema|taxonomic|
+    knb-lter-mcr.7.24|Echinothrix|taxonomic|
+    knb-lter-mcr.7.24|Echinometra|taxonomic|
+    knb-lter-mcr.7.24|Echinostrephus|taxonomic|
+    knb-lter-mcr.7.24|Tectus|taxonomic|
+    knb-lter-mcr.7.24|MCR|theme|
+    knb-lter-mcr.7.24|LTER|theme|
+    knb-lter-mcr.7.24|Moorea Coral Reef|theme|
+    knb-lter-mcr.7.24|Long-term Time Series|theme|
+    knb-lter-mcr.7.24|French Polynesia|place|
+    knb-lter-mcr.7.24|Moorea|place|
+    knb-lter-mcr.7.24|University of California Santa Barbara|theme|
+    knb-lter-mcr.7.24|California State University Northridge|theme|
+    knb-lter-mcr.7.24|NSF|theme|
+    knb-lter-mcr.7.24|Gordon and Betty Moore Foundation|theme|
+    knb-lter-mcr.7.24|Richard B. Gump South Pacific Research Station|theme|
+    knb-lter-mcr.7.24|Invertebrates|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.7.24|Herbivores|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.7.24|Biodiversity|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.7.24|Species Richness|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.7.24|Abundance (organisms)|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.7.24|Coral Reef|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.7.24|Community|theme|KNB
+    knb-lter-mcr.7.24|Marine|theme|KNB
+    knb-lter-mcr.7.24|Populations|theme|LTER Core Research Area
+    knb-lter-mcr.7.24|Time Series Program|theme|MCR Core Activity
+    knb-lter-mcr.7.24|Population and Community Dynamics|theme|MCR-LTER Working Group
+    knb-lter-mcr.7.24|Reef Resistance and Resilience|theme|Research Theme
+    
+    knb-lter-mcr.8.24|Benthic Algae||
+    knb-lter-mcr.8.24|Macroalgae||
+    knb-lter-mcr.8.24|Algal Turfs||
+    knb-lter-mcr.8.24|Coral Reef Algae||
+    knb-lter-mcr.8.24|Crustose Coralline Algae||
+    knb-lter-mcr.8.24|MCR|theme|
+    knb-lter-mcr.8.24|LTER|theme|
+    knb-lter-mcr.8.24|Long-term Time Series|theme|
+    knb-lter-mcr.8.24|French Polynesia|place|
+    knb-lter-mcr.8.24|Moorea|place|
+    knb-lter-mcr.8.24|University of California Santa Barbara||
+    knb-lter-mcr.8.24|California State University Northridge||
+    knb-lter-mcr.8.24|NSF||
+    knb-lter-mcr.8.24|Gordon and Betty Moore Foundation||
+    knb-lter-mcr.8.24|Richard B. Gump South Pacific Research Station||
+    knb-lter-mcr.8.24|Phytobenthos|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.8.24|Biodiversity|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.8.24|Species Richness|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.8.24|Abundance (organisms)|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.8.24|Coral Reef|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.8.24|Community|theme|KNB
+    knb-lter-mcr.8.24|Marine|theme|KNB
+    knb-lter-mcr.8.24|Populations|theme|LTER Core Research Area
+    knb-lter-mcr.8.24|Time Series Program|theme|MCR Core Activity
+    knb-lter-mcr.8.24|Population and Community Dynamics|theme|MCR-LTER Working Group
+    knb-lter-mcr.8.24|Reef Resistance and Resilience|theme|Research Theme
+    
+    knb-lter-mcr.9.30|MCR|theme|
+    knb-lter-mcr.9.30|LTER|theme|
+    knb-lter-mcr.9.30|Long-term Time Series|theme|
+    knb-lter-mcr.9.30|French Polynesia|place|
+    knb-lter-mcr.9.30|Moorea|place|
+    knb-lter-mcr.9.30|Gump Meteorologic Station|place|
+    knb-lter-mcr.9.30|University of California Santa Barbara||
+    knb-lter-mcr.9.30|California State University Northridge||
+    knb-lter-mcr.9.30|NSF||
+    knb-lter-mcr.9.30|Gordon and Betty Moore Foundation||
+    knb-lter-mcr.9.30|Richard B. Gump South Pacific Research Station||
+    knb-lter-mcr.9.30|Barometric pressure|theme|
+    knb-lter-mcr.9.30|Air pressure|theme|
+    knb-lter-mcr.9.30|PAR|theme|
+    knb-lter-mcr.9.30|Shortwave|theme|
+    knb-lter-mcr.9.30|Wind speed|theme|
+    knb-lter-mcr.9.30|Coral Reef|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.9.30|Coastal zone|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.9.30|Climate|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.9.30|Meteorology|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.9.30|Weather|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.9.30|Precipitation (meteorology)|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.9.30|Rain|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.9.30|Air Temperature|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.9.30|Atmospheric pressure|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.9.30|Relative humidity|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.9.30|Insolation|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.9.30|Solar radiation|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.9.30|Wind velocity|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.9.30|Atmosphere (earth)|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.9.30|Wind direction|theme|NBII Biocomplexity Thesaurus
+    knb-lter-mcr.9.30|Real-time|theme|
+    knb-lter-mcr.9.30|Sensor Network|theme|
+    knb-lter-mcr.9.30|Data Turbine|theme|
+    knb-lter-mcr.9.30|Disturbance|theme|LTER Core Research Area
+    knb-lter-mcr.9.30|Time Series Program|theme|MCR Core Activity
+    
