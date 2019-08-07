@@ -1,0 +1,3164 @@
+10|1|Bottom_Depth
+10|1|Conductivity
+10|1|Cruise
+10|1|Date
+10|1|Decimal_Year
+10|1|Density_Anomaly
+10|1|Depth
+10|1|Descent_Rate
+10|1|Fluor
+10|1|Latitude
+10|1|Location
+10|1|Longitude
+10|1|Oxygen
+10|1|Potential_Temperature
+10|1|Pressure_avg
+10|1|Pressure Bin
+10|1|Salinity
+10|1|Scans_Per_Bin
+10|1|Specific_Volume_Anomaly
+10|1|Station_code
+10|1|Temperature
+10|1|Time
+10|1|Turbidity
+10|1|Type
+10|1|V0
+10|1|V1
+10|1|V2
+10|2|Alkalinity
+10|2|Autofluorescent_Cell_Abundance
+10|2|Bacteria_Abundance
+10|2|Bottom_Depth
+10|2|Chlorophyll_a
+10|2|Comments
+10|2|Cruise
+10|2|Cruise_code
+10|2|Date
+10|2|DIC
+10|2|Fluorescence
+10|2|Latitude
+10|2|Location
+10|2|Longitude
+10|2|Nitrite
+10|2|Nitrite_and_Nitrate
+10|2|Phaeopigments
+10|2|Phosphate
+10|2|POC
+10|2|PON
+10|2|Pressure_bins
+10|2|Primary_Production
+10|2|Salinity
+10|2|Sample_Depth
+10|2|Sample_Number
+10|2|Sigma_theta
+10|2|Silicate
+10|2|Stained_Cell_Abundance
+10|2|Temperature
+10|2|Time
+10|2|TOC
+10|2|TOC_SD
+10|2|Turbidity
+10|2|Type
+1034|1|Bottom_Depth
+1034|1|Comments
+1034|1|Cruise
+1034|1|Date
+1034|1|Latitude
+1034|1|Location
+1034|1|Longitude
+1034|1|Nitrite
+1034|1|Nitrite_and_Nitrate
+1034|1|Phosphate
+1034|1|Sample_Depth
+1034|1|Sample_Number
+1034|1|Silicate
+1034|1|Time
+1034|1|Type
+1035|1|reef_type_code
+1035|1|sensor_depth
+1035|1|sensor_type
+1035|1|site
+1035|1|temperature_c
+1035|1|time_local
+1035|1|time_utc
+1035|2|reef_type_code
+1035|2|sensor_depth
+1035|2|sensor_type
+1035|2|site
+1035|2|temperature_c
+1035|2|time_local
+1035|2|time_utc
+1035|3|reef_type_code
+1035|3|sensor_depth
+1035|3|sensor_type
+1035|3|site
+1035|3|temperature_c
+1035|3|time_local
+1035|3|time_utc
+1035|4|reef_type_code
+1035|4|sensor_depth
+1035|4|sensor_type
+1035|4|site
+1035|4|temperature_c
+1035|4|time_local
+1035|4|time_utc
+1035|5|reef_type_code
+1035|5|sensor_depth
+1035|5|sensor_type
+1035|5|site
+1035|5|temperature_c
+1035|5|time_local
+1035|5|time_utc
+1035|6|reef_type_code
+1035|6|sensor_depth
+1035|6|sensor_type
+1035|6|site
+1035|6|temperature_c
+1035|6|time_local
+1035|6|time_utc
+1035|7|reef_type_code
+1035|7|sensor_depth
+1035|7|sensor_type
+1035|7|site
+1035|7|temperature_c
+1035|7|time_local
+1035|7|time_utc
+1036|1|Easting
+1036|1|Northing
+1036|1|sensor_depth
+1036|2|Easting
+1036|2|Northing
+1036|2|sensor_depth
+1037|1|Bottom_Depth
+1037|1|B_output
+1037|1|CO2_output
+1037|1|CO3_output
+1037|1|Cruise
+1037|1|Cruise_code
+1037|1|Date
+1037|1|DIC
+1037|1|fCO2_output
+1037|1|HCO3_output
+1037|1|Latitude
+1037|1|Location
+1037|1|Longitude
+1037|1|OH_output
+1037|1|omega_arag_output
+1037|1|omega_calcite_output
+1037|1|pCO2_output
+1037|1|Phosphate
+1037|1|pH_output
+1037|1|PO4_output
+1037|1|Pressure_bins
+1037|1|Revelle_output
+1037|1|Salinity
+1037|1|Sample_Depth
+1037|1|Sample_Number
+1037|1|Sigma_theta
+1037|1|Silicate
+1037|1|SiO3_output
+1037|1|Temperature
+1037|1|Time
+1037|1|Total_Alkalinity
+1037|1|Type
+1037|1|xCO2_output
+1038|1|cb
+1038|1|coral
+1038|1|macroalgae
+1038|1|millepora
+1038|1|note
+1038|1|patch
+1038|1|quad
+1038|1|sand
+1038|1|site
+1038|1|sub_squares
+1038|1|turf
+1038|1|year
+1038|2|benthic_category
+1038|2|patch
+1038|2|percent_cover
+1038|2|quad
+1038|2|site
+1038|2|year
+1039|1|COTS
+1039|1|Habitat
+1039|1|Site
+1039|1|Transect
+1039|1|Year
+1040|1|depth_m
+1040|1|instrument_type
+1040|1|salinity_psu
+1040|1|temp_C
+1040|1|time_utc
+1040|2|depth_m
+1040|2|instrument_type
+1040|2|salinity_psu
+1040|2|temp_C
+1040|2|time_utc
+1040|3|depth_m
+1040|3|instrument_type
+1040|3|salinity_psu
+1040|3|temp_C
+1040|3|time_utc
+1|1|Num_corals
+1|1|Richness
+1|1|Site
+1|1|Year
+12|1|C_to_N_ratio
+12|1|Date_in
+12|1|Date_out
+12|1|Lat_south
+12|1|Location
+12|1|Long_west
+12|1|mass
+12|1|mass_SD
+12|1|notes
+12|1|POC
+12|1|POC_SD
+12|1|PON
+12|1|PON_SD
+12|1|Sample
+12|1|Time_in
+12|1|Time_out
+12|1|total_days
+12|1|Trap_Depth
+12|1|Trap_Type
+1|2|Abundance
+1|2|Num_corals
+1|2|Site
+1|2|Year
+13|1|Amphioxiformes
+13|1|Amphipods
+13|1|appendicularians
+13|1|Bottom_depth
+13|1|Chaetognaths
+13|1|Copepods
+13|1|crab_megalops
+13|1|crab_zoea
+13|1|Date
+13|1|day_night
+13|1|eggs
+13|1|fish_larvae
+13|1|Gnathid_Isopods
+13|1|heteropodsns
+13|1|larval_clams
+13|1|Latitude
+13|1|Location
+13|1|Longitude
+13|1|Lunar_Phase
+13|1|medusae
+13|1|mysids
+13|1|notes
+13|1|ostracods
+13|1|other_decapod_larva
+13|1|Other_Isopods
+13|1|other_taxa_ID
+13|1|polycheates
+13|1|pteropodsns
+13|1|rare_taxa
+13|1|Sample_ID
+13|1|sampling_depth
+13|1|shrimp
+13|1|siphophores
+13|1|stomatopod_larvae
+13|1|Study
+13|1|Tanaids
+13|1|Time
+13|1|Total_Zoo
+13|1|Type
+13|1|veliger_larvae
+15|1|Collected_By
+15|1|Date
+15|1|Depth_Meters
+15|1|Extraction_protocol
+15|1|Field_Sample_ID
+15|1|Location
+15|1|Site
+15|1|Size
+15|1|Species
+16|1|He
+16|1|Ho
+16|1|locus
+16|1|Na
+17|1|He
+17|1|Ho
+17|1|locus
+17|1|Na
+17|2|category
+17|2|N_2007
+17|2|N_2010
+17|3|d_f
+17|3|F_value
+17|3|mean_square
+17|3|p_gt_F
+17|3|source
+17|3|typeIII_SS
+17|4|fecundity
+17|4|fecundity_se
+17|4|female_type
+17|4|n
+17|4|site
+17|4|TL
+18|1|Date
+18|1|DAY
+18|1|deployment
+18|1|Depth Downstream
+18|1|Depth Upstream
+18|1|DO Downstream
+18|1|DO Upstream
+18|1|HOUR
+18|1|MONTH
+18|1|PAR
+18|1|Primary Productivity
+18|1|site
+18|1|Solar Radiation
+18|1|Vel Downstream
+18|1|Vel Upstream
+18|1|Wind Speed
+19|1|area
+19|1|Component
+19|1|date
+19|1|gpp_per_area
+19|1|gpp_per_mass
+19|1|mass
+19|1|npp_per_area
+19|1|npp_per_mass
+19|1|O2_slope_dark_perL
+19|1|O2_slope_light_perL
+19|1|r2_O2_slope_dark
+19|1|r2_O2_slope_light
+19|1|Replicate
+19|1|resp_per_area
+19|1|resp_per_mass
+19|2|area
+19|2|Component
+19|2|date
+19|2|gpp_per_area
+19|2|gpp_per_mass
+19|2|mass
+19|2|npp_per_area
+19|2|npp_per_mass
+19|2|O2_slope_dark_perL
+19|2|O2_slope_light_perL
+19|2|r2_O2_slope_dark
+19|2|r2_O2_slope_light
+19|2|Replicate
+19|2|resp_per_area
+19|2|resp_per_mass
+19|3|calc_tot_area
+19|3|Component
+19|3|date
+19|3|gpp_per_planar_area
+19|3|gpp_per_real_area
+19|3|npp_per_planar_area
+19|3|npp_per_real_area
+19|3|O2_slope_dark_perL
+19|3|O2_slope_light_perL
+19|3|planar_area
+19|3|primary_branches
+19|3|r2_O2_slope_dark
+19|3|r2_O2_slope_light
+19|3|Replicate
+19|3|resp_per_planar_area
+19|3|resp_per_real_area
+19|3|secondary_branches
+2001|1|2009 Average N of all Stegastes
+2001|1|2009 Average N of S. nigricans
+2001|1|2009 Average N of S. punctata
+2001|1|2009 N of S. nigricans (afternoon count)
+2001|1|2009 N of S. nigricans (morning count)
+2001|1|2009 N of S. punctata (afternoon count)
+2001|1|2009 N of S. punctata (morning count)
+2001|1|Average Branch Length
+2001|1|Distance to Crest (meters)
+2001|1|Distance to Nearest Neighbor
+2001|1|Distance to Point Aroa (meters)
+2001|1|Distance to Shore (meters)
+2001|1|Habitat
+2001|1|Latitude
+2001|1|Length of Algae Branch 1
+2001|1|Length of Algae Branch 10
+2001|1|Length of Algae Branch 11
+2001|1|Length of Algae Branch 12
+2001|1|Length of Algae Branch 13
+2001|1|Length of Algae Branch 14
+2001|1|Length of Algae Branch 15
+2001|1|Length of Algae Branch 16
+2001|1|Length of Algae Branch 17
+2001|1|Length of Algae Branch 18
+2001|1|Length of Algae Branch 19
+2001|1|Length of Algae Branch 2
+2001|1|Length of Algae Branch 20
+2001|1|Length of Algae Branch 3
+2001|1|Length of Algae Branch 5
+2001|1|Length of Algae Branch 6
+2001|1|Length of Algae Branch 7
+2001|1|Length of Algae Branch 8
+2001|1|Length of Algae Branch 9
+2001|1|Length of Coral Branch 1
+2001|1|Length of Coral Branch 10
+2001|1|Length of Coral Branch 11
+2001|1|Length of Coral Branch 12
+2001|1|Length of Coral Branch 13
+2001|1|Length of Coral Branch 14
+2001|1|Length of Coral Branch 15
+2001|1|Length of Coral Branch 16
+2001|1|Length of Coral Branch 17
+2001|1|Length of Coral Branch 18
+2001|1|Length of Coral Branch 19
+2001|1|Length of Coral Branch 2
+2001|1|Length of Coral Branch 20
+2001|1|Length of Coral Branch 3
+2001|1|Length of Coral Branch 4
+2001|1|Length of Coral Branch 5
+2001|1|Length of Coral Branch 6
+2001|1|Length of Coral Branch 7
+2001|1|Length of Coral Branch 8
+2001|1|Length of Coral Branch 9
+2001|1|Length of live coral
+2001|1|Longitude
+2001|1|Mean Length Algae
+2001|1|Nearest Neighbor Stegastes Count
+2001|1|Nearest Neighor Species
+2001|1|Patch Area
+2001|1|Patch Depth to Sand
+2001|1|Patch Height
+2001|1|Patch Length
+2001|1|Patch N
+2001|1|Patch Volume
+2001|1|Percent Algae
+2001|1|Percent Coral
+2001|1|Shore
+2001|1|Site
+2001|1|Total Length of Branch 1
+2001|1|Total Length of Branch 10
+2001|1|Total Length of Branch 11
+2001|1|Total Length of Branch 12
+2001|1|Total Length of Branch 13
+2001|1|Total Length of Branch 14
+2001|1|Total Length of Branch 15
+2001|1|Total Length of Branch 16
+2001|1|Total Length of Branch 17
+2001|1|Total Length of Branch 18
+2001|1|Total Length of Branch 19
+2001|1|Total Length of Branch 2
+2001|1|Total Length of Branch 20
+2001|1|Total Length of Branch 3
+2001|1|Total Length of Branch 4
+2001|1|Total Length of Branch 5
+2001|1|Total Length of Branch 6
+2001|1|Total Length of Branch 7
+2001|1|Total Length of Branch 8
+2001|1|Total Length of Branch 9
+2001|1|Water Depth to top of patch
+2001|1|Width
+2001|1|Year
+2001|2|Abudefduf septemfasciatus
+2001|2|Abudefduf sexfasciatus
+2001|2|Acanthurus nigrofuscus
+2001|2|Acanthurus triostegus
+2001|2|Arothron meleagris
+2001|2|Aulostomus chinensis
+2001|2|Balistapus undulatus
+2001|2|Behavior
+2001|2|Canthigaster solandri
+2001|2|Centropyge flavissima
+2001|2|Chaetodon auriga
+2001|2|Chaetodon citrinellus
+2001|2|Chaetodon lunula
+2001|2|Chaetodon lunulatus
+2001|2|Chaetodon ornatissimus
+2001|2|Chaetodon pelewensis
+2001|2|Chaetodon reticulatus
+2001|2|Chaetodon trifascialis
+2001|2|Chaetodon ulietensis
+2001|2|Chaetodon vagabundis
+2001|2|Cheilinus chlorourus
+2001|2|Cheilinus trilobatum
+2001|2|Cheilio inermis
+2001|2|Chlorurus sordidus
+2001|2|Chromis viridis
+2001|2|Corythoichthys flavofasciatus
+2001|2|Ctenochaetus striatus
+2001|2|Dascyllus aruanus
+2001|2|Dascyllus flavicaudus
+2001|2|Diodon hystrix
+2001|2|Epibulus insidiator
+2001|2|Epinephalus merra
+2001|2|Fistularia commersonii
+2001|2|Forcipiger longirostris
+2001|2|Gnathodentex aurolineatus
+2001|2|Gomphosus varius
+2001|2|Gymnothorax javanicus
+2001|2|Halichoeres hortulanus
+2001|2|Halichoeres trimaculatus
+2001|2|Haniochus chryostomus
+2001|2|Labroides bicolor
+2001|2|Labroides dimidiatus
+2001|2|Lutjanus fulvus
+2001|2|Melichthys vidua
+2001|2|Monotaxis grandoculis
+2001|2|Mulloidichthys flavolineatus
+2001|2|Myripristes murdjan
+2001|2|Naso brachycentron
+2001|2|Naso literatus
+2001|2|Neoniphon argenteus
+2001|2|Neoniphon sammara
+2001|2|Ostracion meleagris
+2001|2|Paracirrhites arcatus
+2001|2|Parupeneus cyclostomus
+2001|2|Parupeneus insularis
+2001|2|Parupeneus multifasciatus
+2001|2|Patch N
+2001|2|Plegiotremus tapeinosoma
+2001|2|Pseudocheilinus hexataenia
+2001|2|Sargocentron microstomus
+2001|2|Scarus oviceps
+2001|2|Scarus psittacus
+2001|2|Siganus spinus
+2001|2|Stethojulis bandanensis
+2001|2|Thalassoma hardwicke
+2001|2|Time period
+2001|2|Zanclus cornuta
+2001|2|Zebrasoma scopas
+2001|3|Abudefduf sexfasciatus
+2001|3|Acanthurus nigrofuscus
+2001|3|Acanthurus triostegus
+2001|3|Arothron meleagris
+2001|3|Aulostomus chinensis
+2001|3|Balistapus undulatus
+2001|3|Behavior
+2001|3|Centropyge flavissima
+2001|3|Chaetodon citrinellus
+2001|3|Chaetodon lunulatus
+2001|3|Chaetodon reticulatus
+2001|3|Chaetodon trifascialis
+2001|3|Cheilinus chlorourus
+2001|3|Cheilio inermis
+2001|3|Chlorurus sordidus
+2001|3|Chromis viridis
+2001|3|Ctenochaetus striatus
+2001|3|Dascyllus aruanus
+2001|3|Dascyllus flavicaudus
+2001|3|Epibulus insidiator
+2001|3|Epinephalus merra
+2001|3|Gnathodentex aurolineatus
+2001|3|Gomphosus varius
+2001|3|Halichoeres hortulanus
+2001|3|Halichoeres trimaculatus
+2001|3|Haniochus chryostomus
+2001|3|Labroides dimidiatus
+2001|3|Monotaxis grandoculis
+2001|3|Mulloidichthys flavolineatus
+2001|3|Myripristes murdjan
+2001|3|Naso literatus
+2001|3|Neoniphon sammara
+2001|3|No fish
+2001|3|Parupeneus cyclostomus
+2001|3|Parupeneus insularis
+2001|3|Parupeneus multifasciatus
+2001|3|Patch N
+2001|3|Pseudocheilinus hexataenia
+2001|3|Scarus oviceps
+2001|3|Scarus psittacus
+2001|3|Stegastes nigricans
+2001|3|Stegastes punctata
+2001|3|Stethojulis bandanensis
+2001|3|Thalassoma hardwicke
+2001|3|Time period
+2001|3|Zebrasoma scopas
+2001|4|Patch 1
+2001|4|Patch 10
+2001|4|Patch 100
+2001|4|Patch 101
+2001|4|Patch 102
+2001|4|Patch 103
+2001|4|Patch 104
+2001|4|Patch 105
+2001|4|Patch 106
+2001|4|Patch 107
+2001|4|Patch 108
+2001|4|Patch 109
+2001|4|Patch 11
+2001|4|Patch 110
+2001|4|Patch 111
+2001|4|Patch 112
+2001|4|Patch 113
+2001|4|Patch 114
+2001|4|Patch 115
+2001|4|Patch 116
+2001|4|Patch 117
+2001|4|Patch 118
+2001|4|Patch 119
+2001|4|Patch 12
+2001|4|Patch 120
+2001|4|Patch 121
+2001|4|Patch 122
+2001|4|Patch 123
+2001|4|Patch 124
+2001|4|Patch 125
+2001|4|Patch 126
+2001|4|Patch 127
+2001|4|Patch 128
+2001|4|Patch 129
+2001|4|Patch 13
+2001|4|Patch 130
+2001|4|Patch 131
+2001|4|Patch 132
+2001|4|Patch 133
+2001|4|Patch 134
+2001|4|Patch 135
+2001|4|Patch 136
+2001|4|Patch 137
+2001|4|Patch 138
+2001|4|Patch 139
+2001|4|Patch 14
+2001|4|Patch 140
+2001|4|Patch 141
+2001|4|Patch 142
+2001|4|Patch 143
+2001|4|Patch 144
+2001|4|Patch 145
+2001|4|Patch 146
+2001|4|Patch 147
+2001|4|Patch 148
+2001|4|Patch 149
+2001|4|Patch 15
+2001|4|Patch 150
+2001|4|Patch 151
+2001|4|Patch 152
+2001|4|Patch 153
+2001|4|Patch 154
+2001|4|Patch 155
+2001|4|Patch 156
+2001|4|Patch 157
+2001|4|Patch 158
+2001|4|Patch 159
+2001|4|Patch 16
+2001|4|Patch 160
+2001|4|Patch 161
+2001|4|Patch 162
+2001|4|Patch 163
+2001|4|Patch 164
+2001|4|Patch 165
+2001|4|Patch 166
+2001|4|Patch 167
+2001|4|Patch 168
+2001|4|Patch 169
+2001|4|Patch 17
+2001|4|Patch 170
+2001|4|Patch 171
+2001|4|Patch 172
+2001|4|Patch 173
+2001|4|Patch 174
+2001|4|Patch 175
+2001|4|Patch 176
+2001|4|Patch 177
+2001|4|Patch 178
+2001|4|Patch 179
+2001|4|Patch 18
+2001|4|Patch 180
+2001|4|Patch 181
+2001|4|Patch 182
+2001|4|Patch 183
+2001|4|Patch 184
+2001|4|Patch 185
+2001|4|Patch 19
+2001|4|Patch 2
+2001|4|Patch 20
+2001|4|Patch 21
+2001|4|Patch 22
+2001|4|Patch 23
+2001|4|Patch 24
+2001|4|Patch 25
+2001|4|Patch 26
+2001|4|Patch 27
+2001|4|Patch 28
+2001|4|Patch 29
+2001|4|Patch 3
+2001|4|Patch 30
+2001|4|Patch 31
+2001|4|Patch 32
+2001|4|Patch 33
+2001|4|Patch 34
+2001|4|Patch 35
+2001|4|Patch 36
+2001|4|Patch 37
+2001|4|Patch 38
+2001|4|Patch 39
+2001|4|Patch 4
+2001|4|Patch 40
+2001|4|Patch 41
+2001|4|Patch 42
+2001|4|Patch 43
+2001|4|Patch 44
+2001|4|Patch 45
+2001|4|Patch 46
+2001|4|Patch 47
+2001|4|Patch 48
+2001|4|Patch 49
+2001|4|Patch 5
+2001|4|Patch 50
+2001|4|Patch 51
+2001|4|Patch 52
+2001|4|Patch 53
+2001|4|Patch 54
+2001|4|Patch 55
+2001|4|Patch 56
+2001|4|Patch 57
+2001|4|Patch 58
+2001|4|Patch 59
+2001|4|Patch 6
+2001|4|Patch 60
+2001|4|Patch 61
+2001|4|Patch 62
+2001|4|Patch 63
+2001|4|Patch 64
+2001|4|Patch 65
+2001|4|Patch 66
+2001|4|Patch 67
+2001|4|Patch 68
+2001|4|Patch 69
+2001|4|Patch 7
+2001|4|Patch 70
+2001|4|Patch 71
+2001|4|Patch 72
+2001|4|Patch 73
+2001|4|Patch 74
+2001|4|Patch 75
+2001|4|Patch 76
+2001|4|Patch 77
+2001|4|Patch 78
+2001|4|Patch 79
+2001|4|Patch 8
+2001|4|Patch 80
+2001|4|Patch 81
+2001|4|Patch 82
+2001|4|Patch 83
+2001|4|Patch 84
+2001|4|Patch 85
+2001|4|Patch 86
+2001|4|Patch 87
+2001|4|Patch 88
+2001|4|Patch 89
+2001|4|Patch 9
+2001|4|Patch 90
+2001|4|Patch 91
+2001|4|Patch 92
+2001|4|Patch 93
+2001|4|Patch 94
+2001|4|Patch 95
+2001|4|Patch 96
+2001|4|Patch 97
+2001|4|Patch 98
+2001|4|Patch 99
+2001|4|Species Binomial
+2002|1|date
+2002|1|PFD
+2002|1|time
+2002|2|coral_id
+2002|2|surface_area
+2002|2|tissue
+2002|3|coral_id
+2002|3|irradiance
+2002|3|oxygen
+2002|4|chlorophyll_a
+2002|4|coral_id
+2002|4|surface_area
+2002|4|zooxanthellae
+2002|5|coral_id
+2002|5|diameter_1
+2002|5|diameter_2
+2002|5|tissue_mass
+2002|6|coral_id
+2002|6|diameter_1
+2002|6|diameter_2
+2002|6|final_weight
+2002|6|growth_rate
+2002|6|initial_weight
+2002|6|notes
+2002|7|coral_id
+2002|7|coral_resp_energy
+2002|7|coral_tissue_growth_energy
+2002|7|respiration_cost
+2002|7|surface_area
+2002|7|tissue_mass
+2002|7|total_cost
+2002|7|translocate_energy
+2002|7|zoox_gross_ps_intake
+2002|7|zoox_growth_energy
+2002|7|zoox_resp_energy
+2002|8|mean_length
+2002|8|surface_area
+2003|1|Date
+2003|1|Individual
+2003|1|Location
+2003|1|Replicate
+2003|1|Rubble
+2003|1|Rub.size
+2003|1|TD.mm
+2003|2|Censor
+2003|2|Location
+2003|2|Oppenness
+2003|2|TD
+2003|2|Time
+2003|2|Transect
+2003|2|Trial
+2003|3|Diadema
+2003|3|Echinometra
+2003|3|Echinothrix
+2003|3|Location
+2003|3|Quadrat
+2003|3|Total
+2003|3|Year
+2003|4|Date
+2003|4|Individual
+2003|4|TD.mm
+2003|4|Week
+2004|1|aH_free_x_aCl
+2004|1|Beta_SO4
+2004|1|Debye_Huckel_Const
+2004|1|Eo_ext
+2004|1|Eo_INT
+2004|1|GMT
+2004|1|IonicStrength
+2004|1|K_HSO4
+2004|1|log_HCl
+2004|1|mCl
+2004|1|mH_free
+2004|1|pH_free
+2004|1|pH_free_EXT
+2004|1|pH_tot
+2004|1|pH_tot_EXT
+2004|1|pHtot_EXT_minus_INT
+2004|1|R_therm
+2004|1|salinity
+2004|1|SO4_tot
+2004|1|S_T
+2004|1|Status
+2004|1|Temperature_Celsuis
+2004|1|Temperature_Kelvin
+2004|1|Time_Stamp
+2004|1|Vbatpack
+2004|1|V_batt
+2004|1|V_out
+2004|1|V_rs
+2004|1|V_therm
+2004|2|pH_tot
+2004|2|pH_tot_low
+2004|2|Time_Stamp
+2004|3|Air_Sea_Flux
+2004|3|B_Alk
+2004|3|B_Alk_adjusted
+2004|3|CO2
+2004|3|CO2_adjust
+2004|3|CO2_Constants
+2004|3|CO2_Flux
+2004|3|CO2_Flux_adjusted
+2004|3|CO3
+2004|3|CO3_adjusted
+2004|3|Comment
+2004|3|Date
+2004|3|fCO2
+2004|3|fCO2_adjusted
+2004|3|HCO3
+2004|3|HCO3_adjusted
+2004|3|KHSO4
+2004|3|Latitude
+2004|3|Longitude
+2004|3|Name
+2004|3|O_Ar
+2004|3|O_Ar_adjusted
+2004|3|O_Ca
+2004|3|O_Ca_adjusted
+2004|3|OH
+2004|3|OH_adjusted
+2004|3|P_adjusted
+2004|3|P_Alk
+2004|3|P_Alk_adjusted
+2004|3|pCO2
+2004|3|pCO2_adjusted
+2004|3|pCO2_air
+2004|3|pH
+2004|3|pH_adjusted
+2004|3|pH_Scale
+2004|3|Pressure_dbars
+2004|3|Revelle
+2004|3|Revelle_adjusted
+2004|3|Salinity
+2004|3|Sample_ID
+2004|3|Si_Alk
+2004|3|Si_Alk_adjusted
+2004|3|TA
+2004|3|TCO2
+2004|3|temperature_adjusted
+2004|3|Temperature_C
+2004|3|Time
+2004|3|Total_P
+2004|3|Total_Si
+2004|3|Windspeed
+2004|3|Windspeed_units
+2004|3|xCO2
+2004|3|xCO2_out
+20|1|C
+20|1|CN_ratio
+20|1|Dry_Weight
+20|1|Genus
+20|1|H
+20|1|Habitat
+20|1|N
+20|1|Site
+20|1|Year
+21|1|Amphioxiformes
+21|1|Amphipods
+21|1|Appendicularia
+21|1|Bottom_type
+21|1|Chaetognath_Spadella_sp
+21|1|clams larvae
+21|1|Copepods
+21|1|crab_megalops
+21|1|crab_zoea
+21|1|Date
+21|1|fish_larvae
+21|1|Gnathid_Isopods
+21|1|Latitude
+21|1|Location
+21|1|Longitude
+21|1|mysids
+21|1|notes
+21|1|ostracods
+21|1|other_decapod_larva
+21|1|Other_Isopods
+21|1|polycheates
+21|1|Sample_ID
+21|1|shrimp
+21|1|Tanaids
+21|1|Total
+21|1|veliger_larvae
+2|1|AnemoneArea
+2|1|AnemoneSE
+2|1|TrimacAbund
+2|1|TrimacAbundSE
+2|1|Year
+30|1|ADCP_depth
+30|1|adcp_wave_measurment
+30|1|Available_column_for_unforseen_measurement
+30|1|Conductivity
+30|1|Conductivity_deep
+30|1|Conductivity_shallow
+30|1|decimal_day
+30|1|Dominant_wave_period
+30|1|Intensity_02.5m_bin
+30|1|Intensity_03.5m_bin
+30|1|Intensity_04.5m_bin
+30|1|Intensity_05.5m_bin
+30|1|Intensity_06.5m_bin
+30|1|Intensity_07.5m_bin
+30|1|Intensity_08.5m_bin
+30|1|Intensity_09.5m_bin
+30|1|Intensity_10.5m_bin
+30|1|Intensity_11.5m_bin
+30|1|Intensity_12.5m_bin
+30|1|Intensity_13.5m_bin
+30|1|Intensity_14.5m_bin
+30|1|Intensity_15.5m_bin
+30|1|Intensity_16.5m_bin
+30|1|Intensity_17.5m_bin
+30|1|Intensity_18.5m_bin
+30|1|Intensity_19.5m_bin
+30|1|Intensity_20.5m_bin
+30|1|Intensity_21.5m_bin
+30|1|matlab_datenum
+30|1|month
+30|1|percentGood_02.5m_bin
+30|1|percentGood_03.5m_bin
+30|1|percentGood_04.5m_bin
+30|1|percentGood_05.5m_bin
+30|1|percentGood_06.5m_bin
+30|1|percentGood_07.5m_bin
+30|1|percentGood_08.5m_bin
+30|1|percentGood_09.5m_bin
+30|1|percentGood_10.5m_bin
+30|1|percentGood_11.5m_bin
+30|1|percentGood_12.5m_bin
+30|1|percentGood_13.5m_bin
+30|1|percentGood_14.5m_bin
+30|1|percentGood_15.5m_bin
+30|1|percentGood_16.5m_bin
+30|1|percentGood_17.5m_bin
+30|1|percentGood_18.5m_bin
+30|1|percentGood_19.5m_bin
+30|1|percentGood_20.5m_bin
+30|1|percentGood_21.5m_bin
+30|1|Pressure
+30|1|Pressure_01m_HeightAboveBottom
+30|1|Pressure_02m_HeightAboveBottom
+30|1|Pressure_03m_HeightAboveBottom
+30|1|Pressure_04m_HeightAboveBottom
+30|1|Pressure_05m_HeightAboveBottom
+30|1|Pressure_06m_HeightAboveBottom
+30|1|Pressure_07m_HeightAboveBottom
+30|1|Pressure_08m_HeightAboveBottom
+30|1|Pressure_09m_HeightAboveBottom
+30|1|Pressure_10m_HeightAboveBottom
+30|1|Pressure_11m_HeightAboveBottom
+30|1|Pressure_12m_HeightAboveBottom
+30|1|Pressure_13m_HeightAboveBottom
+30|1|Pressure_14m_HeightAboveBottom
+30|1|Pressure_15m_HeightAboveBottom
+30|1|Pressure_16m_HeightAboveBottom
+30|1|Pressure_17m_HeightAboveBottom
+30|1|Pressure_18m_HeightAboveBottom
+30|1|Pressure_19m_HeightAboveBottom
+30|1|Pressure_20m_HeightAboveBottom
+30|1|Pressure_deep
+30|1|Pressure_shallow
+30|1|Salinity
+30|1|Salinity_deep
+30|1|Salinity_shallow
+30|1|sigmatheta
+30|1|sigmatheta_deep
+30|1|sigmatheta_shallow
+30|1|Significant_wave_height
+30|1|Temp_01m_HeightAboveBottom
+30|1|Temp_02m_HeightAboveBottom
+30|1|Temp_03m_HeightAboveBottom
+30|1|Temp_04m_HeightAboveBottom
+30|1|Temp_05m_HeightAboveBottom
+30|1|Temp_06m_HeightAboveBottom
+30|1|Temp_07m_HeightAboveBottom
+30|1|Temp_08m_HeightAboveBottom
+30|1|Temp_09m_HeightAboveBottom
+30|1|Temp_10m_HeightAboveBottom
+30|1|Temp_11m_HeightAboveBottom
+30|1|Temp_12m_HeightAboveBottom
+30|1|Temp_13m_HeightAboveBottom
+30|1|Temp_14m_HeightAboveBottom
+30|1|Temp_15m_HeightAboveBottom
+30|1|Temp_16m_HeightAboveBottom
+30|1|Temp_17m_HeightAboveBottom
+30|1|Temp_18m_HeightAboveBottom
+30|1|Temp_19m_HeightAboveBottom
+30|1|Temp_20m_HeightAboveBottom
+30|1|Temp_adcp
+30|1|Temperature
+30|1|Temperature_BTM_10m
+30|1|Temperature_BTM_20m
+30|1|Temperature_deep
+30|1|Temperature_shallow
+30|1|U_Vel_02.5m_bin
+30|1|U_Vel_03.5m_bin
+30|1|U_Vel_04.5m_bin
+30|1|U_Vel_05.5m_bin
+30|1|U_Vel_06.5m_bin
+30|1|U_Vel_07.5m_bin
+30|1|U_Vel_08.5m_bin
+30|1|U_Vel_09.5m_bin
+30|1|U_Vel_10.5m_bin
+30|1|U_Vel_11.5m_bin
+30|1|U_Vel_12.5m_bin
+30|1|U_Vel_13.5m_bin
+30|1|U_Vel_14.5m_bin
+30|1|U_Vel_15.5m_bin
+30|1|U_Vel_16.5m_bin
+30|1|U_Vel_17.5m_bin
+30|1|U_Vel_18.5m_bin
+30|1|U_Vel_19.5m_bin
+30|1|U_Vel_20.5m_bin
+30|1|U_Vel_21.5m_bin
+30|1|V_Vel_02.5m_bin
+30|1|V_Vel_03.5m_bin
+30|1|V_Vel_04.5m_bin
+30|1|V_Vel_05.5m_bin
+30|1|V_Vel_06.5m_bin
+30|1|V_Vel_07.5m_bin
+30|1|V_Vel_08.5m_bin
+30|1|V_Vel_09.5m_bin
+30|1|V_Vel_10.5m_bin
+30|1|V_Vel_11.5m_bin
+30|1|V_Vel_12.5m_bin
+30|1|V_Vel_13.5m_bin
+30|1|V_Vel_14.5m_bin
+30|1|V_Vel_15.5m_bin
+30|1|V_Vel_16.5m_bin
+30|1|V_Vel_17.5m_bin
+30|1|V_Vel_18.5m_bin
+30|1|V_Vel_19.5m_bin
+30|1|V_Vel_20.5m_bin
+30|1|V_Vel_21.5m_bin
+30|1|year
+30|2|across_shore_velocity_bottom_mps
+30|2|across_shore_velocity_surface_mps
+30|2|along_shore_velocity_bottom_mps
+30|2|along_shore_velocity_surface_mps
+30|2|bottom_watercolumn_temperature_sbe39_C
+30|2|current_speed_bottom_mps
+30|2|current_speed_surface_mps
+30|2|data_coverage_across_shore_velocity_bottom_mps
+30|2|data_coverage_across_shore_velocity_surface_mps
+30|2|data_coverage_along_shore_velocity_bottom_mps
+30|2|data_coverage_along_shore_velocity_surface_mps
+30|2|data_coverage_bottom_watercolumn_temperature_sbe39_C
+30|2|data_coverage_current_speed_bottom_mps
+30|2|data_coverage_current_speed_surface_mps
+30|2|data_coverage_density_deeper_sbe37_sigt
+30|2|data_coverage_density_shallow_sbe37_sigt
+30|2|data_coverage_middle_watercolumn_temperature_sbe39_C
+30|2|data_coverage_salinity_deeper_sbe37_psu
+30|2|data_coverage_salinity_shallow_sbe37_psu
+30|2|data_coverage_sea_surface_ht_sbe26_m
+30|2|data_coverage_temperature_deeper_sbe37_C
+30|2|data_coverage_temperature_shallow_sbe37_C
+30|2|data_coverage_upper_watercolumn_temperature_sbe39_C
+30|2|data_coverage_wave_direction_adcp_degtrue
+30|2|data_coverage_wave_ht_adcp_m
+30|2|data_coverage_wave_ht_sbe26_m
+30|2|data_coverage_wave_period_adcp_sec
+30|2|data_coverage_wave_period_sbe26_sec
+30|2|data_coverage_wave_power_adcp
+30|2|data_coverage_wave_power_sbe26
+30|2|density_deeper_sbe37_sigt
+30|2|density_shallow_sbe37_sigt
+30|2|middle_watercolumn_temperature_sbe39_C
+30|2|salinity_deeper_sbe37_psu
+30|2|salinity_shallow_sbe37_psu
+30|2|sea_surface_ht_sbe26_m
+30|2|temperature_deeper_sbe37_C
+30|2|temperature_shallow_sbe37_C
+30|2|time_local
+30|2|time_utc
+30|2|upper_watercolumn_temperature_sbe39_C
+30|2|wave_direction_adcp_degtrue
+30|2|wave_ht_adcp_m
+30|2|wave_ht_sbe26_m
+30|2|wave_period_adcp_sec
+30|2|wave_period_sbe26_sec
+30|2|wave_power_adcp
+30|2|wave_power_sbe26
+30|3|across_shore_velocity_bottom_mps
+30|3|across_shore_velocity_surface_mps
+30|3|along_shore_velocity_bottom_mps
+30|3|along_shore_velocity_surface_mps
+30|3|bottom_watercolumn_temperature_sbe39_C
+30|3|current_speed_bottom_mps
+30|3|current_speed_surface_mps
+30|3|data_coverage_across_shore_velocity_bottom_mps
+30|3|data_coverage_across_shore_velocity_surface_mps
+30|3|data_coverage_along_shore_velocity_bottom_mps
+30|3|data_coverage_along_shore_velocity_surface_mps
+30|3|data_coverage_bottom_watercolumn_temperature_sbe39_C
+30|3|data_coverage_current_speed_bottom_mps
+30|3|data_coverage_current_speed_surface_mps
+30|3|data_coverage_density_deeper_sbe37_sigt
+30|3|data_coverage_density_shallow_sbe37_sigt
+30|3|data_coverage_middle_watercolumn_temperature_sbe39_C
+30|3|data_coverage_salinity_deeper_sbe37_psu
+30|3|data_coverage_salinity_shallow_sbe37_psu
+30|3|data_coverage_sea_surface_ht_sbe26_m
+30|3|data_coverage_temperature_deeper_sbe37_C
+30|3|data_coverage_temperature_shallow_sbe37_C
+30|3|data_coverage_upper_watercolumn_temperature_sbe39_C
+30|3|data_coverage_wave_direction_adcp_degtrue
+30|3|data_coverage_wave_ht_adcp_m
+30|3|data_coverage_wave_ht_sbe26_m
+30|3|data_coverage_wave_period_adcp_sec
+30|3|data_coverage_wave_period_sbe26_sec
+30|3|data_coverage_wave_power_adcp
+30|3|data_coverage_wave_power_sbe26
+30|3|density_deeper_sbe37_sigt
+30|3|density_shallow_sbe37_sigt
+30|3|middle_watercolumn_temperature_sbe39_C
+30|3|salinity_deeper_sbe37_psu
+30|3|salinity_shallow_sbe37_psu
+30|3|sea_surface_ht_sbe26_m
+30|3|temperature_deeper_sbe37_C
+30|3|temperature_shallow_sbe37_C
+30|3|time_local
+30|3|time_utc
+30|3|upper_watercolumn_temperature_sbe39_C
+30|3|wave_direction_adcp_degtrue
+30|3|wave_ht_adcp_m
+30|3|wave_ht_sbe26_m
+30|3|wave_period_adcp_sec
+30|3|wave_period_sbe26_sec
+30|3|wave_power_adcp
+30|3|wave_power_sbe26
+30|4|across_shore_velocity_bottom_mps
+30|4|across_shore_velocity_surface_mps
+30|4|along_shore_velocity_bottom_mps
+30|4|along_shore_velocity_surface_mps
+30|4|bottom_watercolumn_temperature_sbe39_C
+30|4|current_speed_bottom_mps
+30|4|current_speed_surface_mps
+30|4|data_coverage_across_shore_velocity_bottom_mps
+30|4|data_coverage_across_shore_velocity_surface_mps
+30|4|data_coverage_along_shore_velocity_bottom_mps
+30|4|data_coverage_along_shore_velocity_surface_mps
+30|4|data_coverage_bottom_watercolumn_temperature_sbe39_C
+30|4|data_coverage_current_speed_bottom_mps
+30|4|data_coverage_current_speed_surface_mps
+30|4|data_coverage_density_deeper_sbe37_sigt
+30|4|data_coverage_density_shallow_sbe37_sigt
+30|4|data_coverage_middle_watercolumn_temperature_sbe39_C
+30|4|data_coverage_salinity_deeper_sbe37_psu
+30|4|data_coverage_salinity_shallow_sbe37_psu
+30|4|data_coverage_sea_surface_ht_sbe26_m
+30|4|data_coverage_temperature_deeper_sbe37_C
+30|4|data_coverage_temperature_shallow_sbe37_C
+30|4|data_coverage_upper_watercolumn_temperature_sbe39_C
+30|4|data_coverage_wave_direction_adcp_degtrue
+30|4|data_coverage_wave_ht_adcp_m
+30|4|data_coverage_wave_ht_sbe26_m
+30|4|data_coverage_wave_period_adcp_sec
+30|4|data_coverage_wave_period_sbe26_sec
+30|4|data_coverage_wave_power_adcp
+30|4|data_coverage_wave_power_sbe26
+30|4|density_deeper_sbe37_sigt
+30|4|density_shallow_sbe37_sigt
+30|4|middle_watercolumn_temperature_sbe39_C
+30|4|salinity_deeper_sbe37_psu
+30|4|salinity_shallow_sbe37_psu
+30|4|sea_surface_ht_sbe26_m
+30|4|temperature_deeper_sbe37_C
+30|4|temperature_shallow_sbe37_C
+30|4|time_local
+30|4|time_utc
+30|4|upper_watercolumn_temperature_sbe39_C
+30|4|wave_direction_adcp_degtrue
+30|4|wave_ht_adcp_m
+30|4|wave_ht_sbe26_m
+30|4|wave_period_adcp_sec
+30|4|wave_period_sbe26_sec
+30|4|wave_power_adcp
+30|4|wave_power_sbe26
+30|5|across_shore_velocity_bottom_mps
+30|5|across_shore_velocity_surface_mps
+30|5|along_shore_velocity_bottom_mps
+30|5|along_shore_velocity_surface_mps
+30|5|bottom_watercolumn_temperature_sbe39_C
+30|5|current_speed_bottom_mps
+30|5|current_speed_surface_mps
+30|5|data_coverage_across_shore_velocity_bottom_mps
+30|5|data_coverage_across_shore_velocity_surface_mps
+30|5|data_coverage_along_shore_velocity_bottom_mps
+30|5|data_coverage_along_shore_velocity_surface_mps
+30|5|data_coverage_bottom_watercolumn_temperature_sbe39_C
+30|5|data_coverage_current_speed_bottom_mps
+30|5|data_coverage_current_speed_surface_mps
+30|5|data_coverage_density_deeper_sbe37_sigt
+30|5|data_coverage_density_shallow_sbe37_sigt
+30|5|data_coverage_middle_watercolumn_temperature_sbe39_C
+30|5|data_coverage_salinity_deeper_sbe37_psu
+30|5|data_coverage_salinity_shallow_sbe37_psu
+30|5|data_coverage_sea_surface_ht_sbe26_m
+30|5|data_coverage_temperature_deeper_sbe37_C
+30|5|data_coverage_temperature_shallow_sbe37_C
+30|5|data_coverage_upper_watercolumn_temperature_sbe39_C
+30|5|data_coverage_wave_direction_adcp_degtrue
+30|5|data_coverage_wave_ht_adcp_m
+30|5|data_coverage_wave_ht_sbe26_m
+30|5|data_coverage_wave_period_adcp_sec
+30|5|data_coverage_wave_period_sbe26_sec
+30|5|data_coverage_wave_power_adcp
+30|5|data_coverage_wave_power_sbe26
+30|5|density_deeper_sbe37_sigt
+30|5|density_shallow_sbe37_sigt
+30|5|middle_watercolumn_temperature_sbe39_C
+30|5|salinity_deeper_sbe37_psu
+30|5|salinity_shallow_sbe37_psu
+30|5|sea_surface_ht_sbe26_m
+30|5|temperature_deeper_sbe37_C
+30|5|temperature_shallow_sbe37_C
+30|5|time_local
+30|5|time_utc
+30|5|upper_watercolumn_temperature_sbe39_C
+30|5|wave_direction_adcp_degtrue
+30|5|wave_ht_adcp_m
+30|5|wave_ht_sbe26_m
+30|5|wave_period_adcp_sec
+30|5|wave_period_sbe26_sec
+30|5|wave_power_adcp
+30|5|wave_power_sbe26
+31|1|ADCP_depth
+31|1|adcp_wave_measurment87
+31|1|adcp_wave_measurment88
+31|1|adcp_wave_measurment89
+31|1|adcp_wave_measurment90
+31|1|adcp_wave_measurment91
+31|1|Available_column_for_unforseen_measurement
+31|1|Conductivity
+31|1|Conductivity_deep
+31|1|Conductivity_shallow
+31|1|decimal_day
+31|1|Dominant_wave_period
+31|1|Intensity_02.5m_bin
+31|1|Intensity_03.5m_bin
+31|1|Intensity_04.5m_bin
+31|1|Intensity_05.5m_bin
+31|1|Intensity_06.5m_bin
+31|1|Intensity_07.5m_bin
+31|1|Intensity_08.5m_bin
+31|1|Intensity_09.5m_bin
+31|1|Intensity_10.5m_bin
+31|1|Intensity_11.5m_bin
+31|1|Intensity_12.5m_bin
+31|1|Intensity_13.5m_bin
+31|1|Intensity_14.5m_bin
+31|1|Intensity_15.5m_bin
+31|1|Intensity_16.5m_bin
+31|1|Intensity_17.5m_bin
+31|1|Intensity_18.5m_bin
+31|1|Intensity_19.5m_bin
+31|1|Intensity_20.5m_bin
+31|1|Intensity_21.5m_bin
+31|1|matlab_datenum
+31|1|month
+31|1|percentGood_02.5m_bin
+31|1|percentGood_03.5m_bin
+31|1|percentGood_04.5m_bin
+31|1|percentGood_05.5m_bin
+31|1|percentGood_06.5m_bin
+31|1|percentGood_07.5m_bin
+31|1|percentGood_08.5m_bin
+31|1|percentGood_09.5m_bin
+31|1|percentGood_10.5m_bin
+31|1|percentGood_11.5m_bin
+31|1|percentGood_12.5m_bin
+31|1|percentGood_13.5m_bin
+31|1|percentGood_14.5m_bin
+31|1|percentGood_15.5m_bin
+31|1|percentGood_16.5m_bin
+31|1|percentGood_17.5m_bin
+31|1|percentGood_18.5m_bin
+31|1|percentGood_19.5m_bin
+31|1|percentGood_20.5m_bin
+31|1|percentGood_21.5m_bin
+31|1|Pressure
+31|1|Pressure_01m_HeightAboveBottom
+31|1|Pressure_02m_HeightAboveBottom
+31|1|Pressure_03m_HeightAboveBottom
+31|1|Pressure_04m_HeightAboveBottom
+31|1|Pressure_05m_HeightAboveBottom
+31|1|Pressure_06m_HeightAboveBottom
+31|1|Pressure_07m_HeightAboveBottom
+31|1|Pressure_08m_HeightAboveBottom
+31|1|Pressure_09m_HeightAboveBottom
+31|1|Pressure_10m_HeightAboveBottom
+31|1|Pressure_11m_HeightAboveBottom
+31|1|Pressure_12m_HeightAboveBottom
+31|1|Pressure_13m_HeightAboveBottom
+31|1|Pressure_14m_HeightAboveBottom
+31|1|Pressure_15m_HeightAboveBottom
+31|1|Pressure_16m_HeightAboveBottom
+31|1|Pressure_17m_HeightAboveBottom
+31|1|Pressure_18m_HeightAboveBottom
+31|1|Pressure_19m_HeightAboveBottom
+31|1|Pressure_20m_HeightAboveBottom
+31|1|Pressure_deep
+31|1|Pressure_shallow
+31|1|Salinity
+31|1|Salinity_deep
+31|1|Salinity_shallow
+31|1|sigmatheta
+31|1|sigmatheta_deep
+31|1|sigmatheta_shallow
+31|1|Significant_wave_height
+31|1|Temp_01m_HeightAboveBottom
+31|1|Temp_02m_HeightAboveBottom
+31|1|Temp_03m_HeightAboveBottom
+31|1|Temp_04m_HeightAboveBottom
+31|1|Temp_05m_HeightAboveBottom
+31|1|Temp_06m_HeightAboveBottom
+31|1|Temp_07m_HeightAboveBottom
+31|1|Temp_08m_HeightAboveBottom
+31|1|Temp_09m_HeightAboveBottom
+31|1|Temp_10m_HeightAboveBottom
+31|1|Temp_11m_HeightAboveBottom
+31|1|Temp_12m_HeightAboveBottom
+31|1|Temp_13m_HeightAboveBottom
+31|1|Temp_14m_HeightAboveBottom
+31|1|Temp_15m_HeightAboveBottom
+31|1|Temp_16m_HeightAboveBottom
+31|1|Temp_17m_HeightAboveBottom
+31|1|Temp_18m_HeightAboveBottom
+31|1|Temp_19m_HeightAboveBottom
+31|1|Temp_20m_HeightAboveBottom
+31|1|Temp_adcp
+31|1|Temperature
+31|1|Temperature_BTM_10m
+31|1|Temperature_BTM_20m
+31|1|Temperature_deep
+31|1|Temperature_shallow
+31|1|U_Vel_02.5m_bin
+31|1|U_Vel_03.5m_bin
+31|1|U_Vel_04.5m_bin
+31|1|U_Vel_05.5m_bin
+31|1|U_Vel_06.5m_bin
+31|1|U_Vel_07.5m_bin
+31|1|U_Vel_08.5m_bin
+31|1|U_Vel_09.5m_bin
+31|1|U_Vel_10.5m_bin
+31|1|U_Vel_11.5m_bin
+31|1|U_Vel_12.5m_bin
+31|1|U_Vel_13.5m_bin
+31|1|U_Vel_14.5m_bin
+31|1|U_Vel_15.5m_bin
+31|1|U_Vel_16.5m_bin
+31|1|U_Vel_17.5m_bin
+31|1|U_Vel_18.5m_bin
+31|1|U_Vel_19.5m_bin
+31|1|U_Vel_20.5m_bin
+31|1|U_Vel_21.5m_bin
+31|1|V_Vel_02.5m_bin
+31|1|V_Vel_03.5m_bin
+31|1|V_Vel_04.5m_bin
+31|1|V_Vel_05.5m_bin
+31|1|V_Vel_06.5m_bin
+31|1|V_Vel_07.5m_bin
+31|1|V_Vel_08.5m_bin
+31|1|V_Vel_09.5m_bin
+31|1|V_Vel_10.5m_bin
+31|1|V_Vel_11.5m_bin
+31|1|V_Vel_12.5m_bin
+31|1|V_Vel_13.5m_bin
+31|1|V_Vel_14.5m_bin
+31|1|V_Vel_15.5m_bin
+31|1|V_Vel_16.5m_bin
+31|1|V_Vel_17.5m_bin
+31|1|V_Vel_18.5m_bin
+31|1|V_Vel_19.5m_bin
+31|1|V_Vel_20.5m_bin
+31|1|V_Vel_21.5m_bin
+31|1|year
+31|2|across_shore_velocity_bottom_mps
+31|2|across_shore_velocity_surface_mps
+31|2|along_shore_velocity_bottom_mps
+31|2|along_shore_velocity_surface_mps
+31|2|bottom_watercolumn_temperature_sbe39_C
+31|2|current_speed_bottom_mps
+31|2|current_speed_surface_mps
+31|2|data_coverage_across_shore_velocity_bottom_mps
+31|2|data_coverage_across_shore_velocity_surface_mps
+31|2|data_coverage_along_shore_velocity_bottom_mps
+31|2|data_coverage_along_shore_velocity_surface_mps
+31|2|data_coverage_bottom_watercolumn_temperature_sbe39_C
+31|2|data_coverage_current_speed_bottom_mps
+31|2|data_coverage_current_speed_surface_mps
+31|2|data_coverage_density_deeper_sbe37_sigt
+31|2|data_coverage_density_shallow_sbe37_sigt
+31|2|data_coverage_middle_watercolumn_temperature_sbe39_C
+31|2|data_coverage_salinity_deeper_sbe37_psu
+31|2|data_coverage_salinity_shallow_sbe37_psu
+31|2|data_coverage_sea_surface_ht_sbe26_m
+31|2|data_coverage_temperature_deeper_sbe37_C
+31|2|data_coverage_temperature_shallow_sbe37_C
+31|2|data_coverage_upper_watercolumn_temperature_sbe39_C
+31|2|data_coverage_wave_direction_adcp_degtrue
+31|2|data_coverage_wave_ht_adcp_m
+31|2|data_coverage_wave_ht_sbe26_m
+31|2|data_coverage_wave_period_adcp_sec
+31|2|data_coverage_wave_period_sbe26_sec
+31|2|data_coverage_wave_power_adcp
+31|2|data_coverage_wave_power_sbe26
+31|2|density_deeper_sbe37_sigt
+31|2|density_shallow_sbe37_sigt
+31|2|middle_watercolumn_temperature_sbe39_C
+31|2|salinity_deeper_sbe37_psu
+31|2|salinity_shallow_sbe37_psu
+31|2|sea_surface_ht_sbe26_m
+31|2|temperature_deeper_sbe37_C
+31|2|temperature_shallow_sbe37_C
+31|2|time_local
+31|2|time_utc
+31|2|upper_watercolumn_temperature_sbe39_C
+31|2|wave_direction_adcp_degtrue
+31|2|wave_ht_adcp_m
+31|2|wave_ht_sbe26_m
+31|2|wave_period_adcp_sec
+31|2|wave_period_sbe26_sec
+31|2|wave_power_adcp
+31|2|wave_power_sbe26
+31|3|across_shore_velocity_bottom_mps
+31|3|across_shore_velocity_surface_mps
+31|3|along_shore_velocity_bottom_mps
+31|3|along_shore_velocity_surface_mps
+31|3|bottom_watercolumn_temperature_sbe39_C
+31|3|current_speed_bottom_mps
+31|3|current_speed_surface_mps
+31|3|data_coverage_across_shore_velocity_bottom_mps
+31|3|data_coverage_across_shore_velocity_surface_mps
+31|3|data_coverage_along_shore_velocity_bottom_mps
+31|3|data_coverage_along_shore_velocity_surface_mps
+31|3|data_coverage_bottom_watercolumn_temperature_sbe39_C
+31|3|data_coverage_current_speed_bottom_mps
+31|3|data_coverage_current_speed_surface_mps
+31|3|data_coverage_density_deeper_sbe37_sigt
+31|3|data_coverage_density_shallow_sbe37_sigt
+31|3|data_coverage_middle_watercolumn_temperature_sbe39_C
+31|3|data_coverage_salinity_deeper_sbe37_psu
+31|3|data_coverage_salinity_shallow_sbe37_psu
+31|3|data_coverage_sea_surface_ht_sbe26_m
+31|3|data_coverage_temperature_deeper_sbe37_C
+31|3|data_coverage_temperature_shallow_sbe37_C
+31|3|data_coverage_upper_watercolumn_temperature_sbe39_C
+31|3|data_coverage_wave_direction_adcp_degtrue
+31|3|data_coverage_wave_ht_adcp_m
+31|3|data_coverage_wave_ht_sbe26_m
+31|3|data_coverage_wave_period_adcp_sec
+31|3|data_coverage_wave_period_sbe26_sec
+31|3|data_coverage_wave_power_adcp
+31|3|data_coverage_wave_power_sbe26
+31|3|density_deeper_sbe37_sigt
+31|3|density_shallow_sbe37_sigt
+31|3|middle_watercolumn_temperature_sbe39_C
+31|3|salinity_deeper_sbe37_psu
+31|3|salinity_shallow_sbe37_psu
+31|3|sea_surface_ht_sbe26_m
+31|3|temperature_deeper_sbe37_C
+31|3|temperature_shallow_sbe37_C
+31|3|time_local
+31|3|time_utc
+31|3|upper_watercolumn_temperature_sbe39_C
+31|3|wave_direction_adcp_degtrue
+31|3|wave_ht_adcp_m
+31|3|wave_ht_sbe26_m
+31|3|wave_period_adcp_sec
+31|3|wave_period_sbe26_sec
+31|3|wave_power_adcp
+31|3|wave_power_sbe26
+31|4|across_shore_velocity_bottom_mps
+31|4|across_shore_velocity_surface_mps
+31|4|along_shore_velocity_bottom_mps
+31|4|along_shore_velocity_surface_mps
+31|4|bottom_watercolumn_temperature_sbe39_C
+31|4|current_speed_bottom_mps
+31|4|current_speed_surface_mps
+31|4|data_coverage_across_shore_velocity_bottom_mps
+31|4|data_coverage_across_shore_velocity_surface_mps
+31|4|data_coverage_along_shore_velocity_bottom_mps
+31|4|data_coverage_along_shore_velocity_surface_mps
+31|4|data_coverage_bottom_watercolumn_temperature_sbe39_C
+31|4|data_coverage_current_speed_bottom_mps
+31|4|data_coverage_current_speed_surface_mps
+31|4|data_coverage_density_deeper_sbe37_sigt
+31|4|data_coverage_density_shallow_sbe37_sigt
+31|4|data_coverage_middle_watercolumn_temperature_sbe39_C
+31|4|data_coverage_salinity_deeper_sbe37_psu
+31|4|data_coverage_salinity_shallow_sbe37_psu
+31|4|data_coverage_sea_surface_ht_sbe26_m
+31|4|data_coverage_temperature_deeper_sbe37_C
+31|4|data_coverage_temperature_shallow_sbe37_C
+31|4|data_coverage_upper_watercolumn_temperature_sbe39_C
+31|4|data_coverage_wave_direction_adcp_degtrue
+31|4|data_coverage_wave_ht_adcp_m
+31|4|data_coverage_wave_ht_sbe26_m
+31|4|data_coverage_wave_period_adcp_sec
+31|4|data_coverage_wave_period_sbe26_sec
+31|4|data_coverage_wave_power_adcp
+31|4|data_coverage_wave_power_sbe26
+31|4|density_deeper_sbe37_sigt
+31|4|density_shallow_sbe37_sigt
+31|4|middle_watercolumn_temperature_sbe39_C
+31|4|salinity_deeper_sbe37_psu
+31|4|salinity_shallow_sbe37_psu
+31|4|sea_surface_ht_sbe26_m
+31|4|temperature_deeper_sbe37_C
+31|4|temperature_shallow_sbe37_C
+31|4|time_local
+31|4|time_utc
+31|4|upper_watercolumn_temperature_sbe39_C
+31|4|wave_direction_adcp_degtrue
+31|4|wave_ht_adcp_m
+31|4|wave_ht_sbe26_m
+31|4|wave_period_adcp_sec
+31|4|wave_period_sbe26_sec
+31|4|wave_power_adcp
+31|4|wave_power_sbe26
+31|5|across_shore_velocity_bottom_mps
+31|5|across_shore_velocity_surface_mps
+31|5|along_shore_velocity_bottom_mps
+31|5|along_shore_velocity_surface_mps
+31|5|bottom_watercolumn_temperature_sbe39_C
+31|5|current_speed_bottom_mps
+31|5|current_speed_surface_mps
+31|5|data_coverage_across_shore_velocity_bottom_mps
+31|5|data_coverage_across_shore_velocity_surface_mps
+31|5|data_coverage_along_shore_velocity_bottom_mps
+31|5|data_coverage_along_shore_velocity_surface_mps
+31|5|data_coverage_bottom_watercolumn_temperature_sbe39_C
+31|5|data_coverage_current_speed_bottom_mps
+31|5|data_coverage_current_speed_surface_mps
+31|5|data_coverage_density_deeper_sbe37_sigt
+31|5|data_coverage_density_shallow_sbe37_sigt
+31|5|data_coverage_middle_watercolumn_temperature_sbe39_C
+31|5|data_coverage_salinity_deeper_sbe37_psu
+31|5|data_coverage_salinity_shallow_sbe37_psu
+31|5|data_coverage_sea_surface_ht_sbe26_m
+31|5|data_coverage_temperature_deeper_sbe37_C
+31|5|data_coverage_temperature_shallow_sbe37_C
+31|5|data_coverage_upper_watercolumn_temperature_sbe39_C
+31|5|data_coverage_wave_direction_adcp_degtrue
+31|5|data_coverage_wave_ht_adcp_m
+31|5|data_coverage_wave_ht_sbe26_m
+31|5|data_coverage_wave_period_adcp_sec
+31|5|data_coverage_wave_period_sbe26_sec
+31|5|data_coverage_wave_power_adcp
+31|5|data_coverage_wave_power_sbe26
+31|5|density_deeper_sbe37_sigt
+31|5|density_shallow_sbe37_sigt
+31|5|middle_watercolumn_temperature_sbe39_C
+31|5|salinity_deeper_sbe37_psu
+31|5|salinity_shallow_sbe37_psu
+31|5|sea_surface_ht_sbe26_m
+31|5|temperature_deeper_sbe37_C
+31|5|temperature_shallow_sbe37_C
+31|5|time_local
+31|5|time_utc
+31|5|upper_watercolumn_temperature_sbe39_C
+31|5|wave_direction_adcp_degtrue
+31|5|wave_ht_adcp_m
+31|5|wave_ht_sbe26_m
+31|5|wave_period_adcp_sec
+31|5|wave_period_sbe26_sec
+31|5|wave_power_adcp
+31|5|wave_power_sbe26
+3|1|MaximumTrimacRecruits
+3|1|MeanTrimacRecruits
+3|1|MedianTrimacRecruits
+3|1|SEMeanTrimacRecruits
+3|1|Year
+32|1|ADCP_depth
+32|1|adcp_wave_measurment
+32|1|Available column for unforseen measurement
+32|1|Conductivity
+32|1|Conductivity_deep
+32|1|Conductivity_shallow
+32|1|decimal_day
+32|1|Dominant_wave_period
+32|1|Intensity_02.5m_bin
+32|1|Intensity_03.5m_bin
+32|1|Intensity_04.5m_bin
+32|1|Intensity_05.5m_bin
+32|1|Intensity_06.5m_bin
+32|1|Intensity_07.5m_bin
+32|1|Intensity_08.5m_bin
+32|1|Intensity_09.5m_bin
+32|1|Intensity_10.5m_bin
+32|1|Intensity_11.5m_bin
+32|1|Intensity_12.5m_bin
+32|1|Intensity_13.5m_bin
+32|1|Intensity_14.5m_bin
+32|1|Intensity_15.5m_bin
+32|1|Intensity_16.5m_bin
+32|1|Intensity_17.5m_bin
+32|1|Intensity_18.5m_bin
+32|1|Intensity_19.5m_bin
+32|1|Intensity_20.5m_bin
+32|1|Intensity_21.5m_bin
+32|1|matlab_datenum
+32|1|month
+32|1|percentGood_02.5m_bin
+32|1|percentGood_03.5m_bin
+32|1|percentGood_04.5m_bin
+32|1|percentGood_05.5m_bin
+32|1|percentGood_06.5m_bin
+32|1|percentGood_07.5m_bin
+32|1|percentGood_08.5m_bin
+32|1|percentGood_09.5m_bin
+32|1|percentGood_10.5m_bin
+32|1|percentGood_11.5m_bin
+32|1|percentGood_12.5m_bin
+32|1|percentGood_13.5m_bin
+32|1|percentGood_14.5m_bin
+32|1|percentGood_15.5m_bin
+32|1|percentGood_16.5m_bin
+32|1|percentGood_17.5m_bin
+32|1|percentGood_18.5m_bin
+32|1|percentGood_19.5m_bin
+32|1|percentGood_20.5m_bin
+32|1|percentGood_21.5m_bin
+32|1|Pressure
+32|1|Pressure_01m_HeightAboveBottom
+32|1|Pressure_02m_HeightAboveBottom
+32|1|Pressure_03m_HeightAboveBottom
+32|1|Pressure_04m_HeightAboveBottom
+32|1|Pressure_05m_HeightAboveBottom
+32|1|Pressure_06m_HeightAboveBottom
+32|1|Pressure_07m_HeightAboveBottom
+32|1|Pressure_08m_HeightAboveBottom
+32|1|Pressure_09m_HeightAboveBottom
+32|1|Pressure_10m_HeightAboveBottom
+32|1|Pressure_11m_HeightAboveBottom
+32|1|Pressure_12m_HeightAboveBottom
+32|1|Pressure_13m_HeightAboveBottom
+32|1|Pressure_14m_HeightAboveBottom
+32|1|Pressure_15m_HeightAboveBottom
+32|1|Pressure_16m_HeightAboveBottom
+32|1|Pressure_17m_HeightAboveBottom
+32|1|Pressure_18m_HeightAboveBottom
+32|1|Pressure_19m_HeightAboveBottom
+32|1|Pressure_20m_HeightAboveBottom
+32|1|Pressure_deep
+32|1|Pressure_shallow
+32|1|Salinity
+32|1|Salinity_deep
+32|1|Salinity_shallow
+32|1|sigmatheta
+32|1|sigmatheta_deep
+32|1|sigmatheta_shallow
+32|1|Significant_wave_height
+32|1|Temp_01m_HeightAboveBottom
+32|1|Temp_02m_HeightAboveBottom
+32|1|Temp_03m_HeightAboveBottom
+32|1|Temp_04m_HeightAboveBottom
+32|1|Temp_05m_HeightAboveBottom
+32|1|Temp_06m_HeightAboveBottom
+32|1|Temp_07m_HeightAboveBottom
+32|1|Temp_08m_HeightAboveBottom
+32|1|Temp_09m_HeightAboveBottom
+32|1|Temp_10m_HeightAboveBottom
+32|1|Temp_11m_HeightAboveBottom
+32|1|Temp_12m_HeightAboveBottom
+32|1|Temp_13m_HeightAboveBottom
+32|1|Temp_14m_HeightAboveBottom
+32|1|Temp_15m_HeightAboveBottom
+32|1|Temp_16m_HeightAboveBottom
+32|1|Temp_17m_HeightAboveBottom
+32|1|Temp_18m_HeightAboveBottom
+32|1|Temp_19m_HeightAboveBottom
+32|1|Temp_20m_HeightAboveBottom
+32|1|Temp_adcp
+32|1|Temperature
+32|1|Temperature_BTM_10m
+32|1|Temperature_BTM_20m
+32|1|Temperature_deep
+32|1|Temperature_shallow
+32|1|U_Vel_02.5m_bin
+32|1|U_Vel_03.5m_bin
+32|1|U_Vel_04.5m_bin
+32|1|U_Vel_05.5m_bin
+32|1|U_Vel_06.5m_bin
+32|1|U_Vel_07.5m_bin
+32|1|U_Vel_08.5m_bin
+32|1|U_Vel_09.5m_bin
+32|1|U_Vel_10.5m_bin
+32|1|U_Vel_11.5m_bin
+32|1|U_Vel_12.5m_bin
+32|1|U_Vel_13.5m_bin
+32|1|U_Vel_14.5m_bin
+32|1|U_Vel_15.5m_bin
+32|1|U_Vel_16.5m_bin
+32|1|U_Vel_17.5m_bin
+32|1|U_Vel_18.5m_bin
+32|1|U_Vel_19.5m_bin
+32|1|U_Vel_20.5m_bin
+32|1|U_Vel_21.5m_bin
+32|1|V_Vel_02.5m_bin
+32|1|V_Vel_03.5m_bin
+32|1|V_Vel_04.5m_bin
+32|1|V_Vel_05.5m_bin
+32|1|V_Vel_06.5m_bin
+32|1|V_Vel_07.5m_bin
+32|1|V_Vel_08.5m_bin
+32|1|V_Vel_09.5m_bin
+32|1|V_Vel_10.5m_bin
+32|1|V_Vel_11.5m_bin
+32|1|V_Vel_12.5m_bin
+32|1|V_Vel_13.5m_bin
+32|1|V_Vel_14.5m_bin
+32|1|V_Vel_15.5m_bin
+32|1|V_Vel_16.5m_bin
+32|1|V_Vel_17.5m_bin
+32|1|V_Vel_18.5m_bin
+32|1|V_Vel_19.5m_bin
+32|1|V_Vel_20.5m_bin
+32|1|V_Vel_21.5m_bin
+32|1|year
+32|2|across_shore_velocity_bottom_mps
+32|2|across_shore_velocity_surface_mps
+32|2|along_shore_velocity_bottom_mps
+32|2|along_shore_velocity_surface_mps
+32|2|bottom_watercolumn_temperature_sbe39_C
+32|2|current_speed_bottom_mps
+32|2|current_speed_surface_mps
+32|2|data_coverage_across_shore_velocity_bottom_mps
+32|2|data_coverage_across_shore_velocity_surface_mps
+32|2|data_coverage_along_shore_velocity_bottom_mps
+32|2|data_coverage_along_shore_velocity_surface_mps
+32|2|data_coverage_bottom_watercolumn_temperature_sbe39_C
+32|2|data_coverage_current_speed_bottom_mps
+32|2|data_coverage_current_speed_surface_mps
+32|2|data_coverage_density_deeper_sbe37_sigt
+32|2|data_coverage_density_shallow_sbe37_sigt
+32|2|data_coverage_middle_watercolumn_temperature_sbe39_C
+32|2|data_coverage_salinity_deeper_sbe37_psu
+32|2|data_coverage_salinity_shallow_sbe37_psu
+32|2|data_coverage_sea_surface_ht_sbe26_m
+32|2|data_coverage_temperature_deeper_sbe37_C
+32|2|data_coverage_temperature_shallow_sbe37_C
+32|2|data_coverage_upper_watercolumn_temperature_sbe39_C
+32|2|data_coverage_wave_direction_adcp_degtrue
+32|2|data_coverage_wave_ht_adcp_m
+32|2|data_coverage_wave_ht_sbe26_m
+32|2|data_coverage_wave_period_adcp_sec
+32|2|data_coverage_wave_period_sbe26_sec
+32|2|data_coverage_wave_power_adcp
+32|2|data_coverage_wave_power_sbe26
+32|2|density_deeper_sbe37_sigt
+32|2|density_shallow_sbe37_sigt
+32|2|middle_watercolumn_temperature_sbe39_C
+32|2|salinity_deeper_sbe37_psu
+32|2|salinity_shallow_sbe37_psu
+32|2|sea_surface_ht_sbe26_m
+32|2|temperature_deeper_sbe37_C
+32|2|temperature_shallow_sbe37_C
+32|2|time_local
+32|2|time_utc
+32|2|upper_watercolumn_temperature_sbe39_C
+32|2|wave_direction_adcp_degtrue
+32|2|wave_ht_adcp_m
+32|2|wave_ht_sbe26_m
+32|2|wave_period_adcp_sec
+32|2|wave_period_sbe26_sec
+32|2|wave_power_adcp
+32|2|wave_power_sbe26
+32|3|across_shore_velocity_bottom_mps
+32|3|across_shore_velocity_surface_mps
+32|3|along_shore_velocity_bottom_mps
+32|3|along_shore_velocity_surface_mps
+32|3|bottom_watercolumn_temperature_sbe39_C
+32|3|current_speed_bottom_mps
+32|3|current_speed_surface_mps
+32|3|data_coverage_across_shore_velocity_bottom_mps
+32|3|data_coverage_across_shore_velocity_surface_mps
+32|3|data_coverage_along_shore_velocity_bottom_mps
+32|3|data_coverage_along_shore_velocity_surface_mps
+32|3|data_coverage_bottom_watercolumn_temperature_sbe39_C
+32|3|data_coverage_current_speed_bottom_mps
+32|3|data_coverage_current_speed_surface_mps
+32|3|data_coverage_density_deeper_sbe37_sigt
+32|3|data_coverage_density_shallow_sbe37_sigt
+32|3|data_coverage_middle_watercolumn_temperature_sbe39_C
+32|3|data_coverage_salinity_deeper_sbe37_psu
+32|3|data_coverage_salinity_shallow_sbe37_psu
+32|3|data_coverage_sea_surface_ht_sbe26_m
+32|3|data_coverage_temperature_deeper_sbe37_C
+32|3|data_coverage_temperature_shallow_sbe37_C
+32|3|data_coverage_upper_watercolumn_temperature_sbe39_C
+32|3|data_coverage_wave_direction_adcp_degtrue
+32|3|data_coverage_wave_ht_adcp_m
+32|3|data_coverage_wave_ht_sbe26_m
+32|3|data_coverage_wave_period_adcp_sec
+32|3|data_coverage_wave_period_sbe26_sec
+32|3|data_coverage_wave_power_adcp
+32|3|data_coverage_wave_power_sbe26
+32|3|density_deeper_sbe37_sigt
+32|3|density_shallow_sbe37_sigt
+32|3|middle_watercolumn_temperature_sbe39_C
+32|3|salinity_deeper_sbe37_psu
+32|3|salinity_shallow_sbe37_psu
+32|3|sea_surface_ht_sbe26_m
+32|3|temperature_deeper_sbe37_C
+32|3|temperature_shallow_sbe37_C
+32|3|time_local
+32|3|time_utc
+32|3|upper_watercolumn_temperature_sbe39_C
+32|3|wave_direction_adcp_degtrue
+32|3|wave_ht_adcp_m
+32|3|wave_ht_sbe26_m
+32|3|wave_period_adcp_sec
+32|3|wave_period_sbe26_sec
+32|3|wave_power_adcp
+32|3|wave_power_sbe26
+32|4|across_shore_velocity_bottom_mps
+32|4|across_shore_velocity_surface_mps
+32|4|along_shore_velocity_bottom_mps
+32|4|along_shore_velocity_surface_mps
+32|4|bottom_watercolumn_temperature_sbe39_C
+32|4|current_speed_bottom_mps
+32|4|current_speed_surface_mps
+32|4|data_coverage_across_shore_velocity_bottom_mps
+32|4|data_coverage_across_shore_velocity_surface_mps
+32|4|data_coverage_along_shore_velocity_bottom_mps
+32|4|data_coverage_along_shore_velocity_surface_mps
+32|4|data_coverage_bottom_watercolumn_temperature_sbe39_C
+32|4|data_coverage_current_speed_bottom_mps
+32|4|data_coverage_current_speed_surface_mps
+32|4|data_coverage_density_deeper_sbe37_sigt
+32|4|data_coverage_density_shallow_sbe37_sigt
+32|4|data_coverage_middle_watercolumn_temperature_sbe39_C
+32|4|data_coverage_salinity_deeper_sbe37_psu
+32|4|data_coverage_salinity_shallow_sbe37_psu
+32|4|data_coverage_sea_surface_ht_sbe26_m
+32|4|data_coverage_temperature_deeper_sbe37_C
+32|4|data_coverage_temperature_shallow_sbe37_C
+32|4|data_coverage_upper_watercolumn_temperature_sbe39_C
+32|4|data_coverage_wave_direction_adcp_degtrue
+32|4|data_coverage_wave_ht_adcp_m
+32|4|data_coverage_wave_ht_sbe26_m
+32|4|data_coverage_wave_period_adcp_sec
+32|4|data_coverage_wave_period_sbe26_sec
+32|4|data_coverage_wave_power_adcp
+32|4|data_coverage_wave_power_sbe26
+32|4|density_deeper_sbe37_sigt
+32|4|density_shallow_sbe37_sigt
+32|4|middle_watercolumn_temperature_sbe39_C
+32|4|salinity_deeper_sbe37_psu
+32|4|salinity_shallow_sbe37_psu
+32|4|sea_surface_ht_sbe26_m
+32|4|temperature_deeper_sbe37_C
+32|4|temperature_shallow_sbe37_C
+32|4|time_local
+32|4|time_utc
+32|4|upper_watercolumn_temperature_sbe39_C
+32|4|wave_direction_adcp_degtrue
+32|4|wave_ht_adcp_m
+32|4|wave_ht_sbe26_m
+32|4|wave_period_adcp_sec
+32|4|wave_period_sbe26_sec
+32|4|wave_power_adcp
+32|4|wave_power_sbe26
+32|5|across_shore_velocity_bottom_mps
+32|5|across_shore_velocity_surface_mps
+32|5|along_shore_velocity_bottom_mps
+32|5|along_shore_velocity_surface_mps
+32|5|bottom_watercolumn_temperature_sbe39_C
+32|5|current_speed_bottom_mps
+32|5|current_speed_surface_mps
+32|5|data_coverage_across_shore_velocity_bottom_mps
+32|5|data_coverage_across_shore_velocity_surface_mps
+32|5|data_coverage_along_shore_velocity_bottom_mps
+32|5|data_coverage_along_shore_velocity_surface_mps
+32|5|data_coverage_bottom_watercolumn_temperature_sbe39_C
+32|5|data_coverage_current_speed_bottom_mps
+32|5|data_coverage_current_speed_surface_mps
+32|5|data_coverage_density_deeper_sbe37_sigt
+32|5|data_coverage_density_shallow_sbe37_sigt
+32|5|data_coverage_middle_watercolumn_temperature_sbe39_C
+32|5|data_coverage_salinity_deeper_sbe37_psu
+32|5|data_coverage_salinity_shallow_sbe37_psu
+32|5|data_coverage_sea_surface_ht_sbe26_m
+32|5|data_coverage_temperature_deeper_sbe37_C
+32|5|data_coverage_temperature_shallow_sbe37_C
+32|5|data_coverage_upper_watercolumn_temperature_sbe39_C
+32|5|data_coverage_wave_direction_adcp_degtrue
+32|5|data_coverage_wave_ht_adcp_m
+32|5|data_coverage_wave_ht_sbe26_m
+32|5|data_coverage_wave_period_adcp_sec
+32|5|data_coverage_wave_period_sbe26_sec
+32|5|data_coverage_wave_power_adcp
+32|5|data_coverage_wave_power_sbe26
+32|5|density_deeper_sbe37_sigt
+32|5|density_shallow_sbe37_sigt
+32|5|middle_watercolumn_temperature_sbe39_C
+32|5|salinity_deeper_sbe37_psu
+32|5|salinity_shallow_sbe37_psu
+32|5|sea_surface_ht_sbe26_m
+32|5|temperature_deeper_sbe37_C
+32|5|temperature_shallow_sbe37_C
+32|5|time_local
+32|5|time_utc
+32|5|upper_watercolumn_temperature_sbe39_C
+32|5|wave_direction_adcp_degtrue
+32|5|wave_ht_adcp_m
+32|5|wave_ht_sbe26_m
+32|5|wave_period_adcp_sec
+32|5|wave_period_sbe26_sec
+32|5|wave_power_adcp
+32|5|wave_power_sbe26
+33|1|decimal_day
+33|1|matlab_datenum
+33|1|month
+33|1|Pressure_01m_HeightAboveBottom
+33|1|Pressure_02m_HeightAboveBottom
+33|1|Pressure_03m_HeightAboveBottom
+33|1|Pressure_04m_HeightAboveBottom
+33|1|Pressure_05m_HeightAboveBottom
+33|1|Pressure_06m_HeightAboveBottom
+33|1|Pressure_07m_HeightAboveBottom
+33|1|Pressure_08m_HeightAboveBottom
+33|1|Pressure_09m_HeightAboveBottom
+33|1|Pressure_10m_HeightAboveBottom
+33|1|Pressure_11m_HeightAboveBottom
+33|1|Pressure_12m_HeightAboveBottom
+33|1|Pressure_13m_HeightAboveBottom
+33|1|Pressure_14m_HeightAboveBottom
+33|1|Pressure_15m_HeightAboveBottom
+33|1|Pressure_16m_HeightAboveBottom
+33|1|Pressure_17m_HeightAboveBottom
+33|1|Pressure_18m_HeightAboveBottom
+33|1|Pressure_19m_HeightAboveBottom
+33|1|Pressure_20m_HeightAboveBottom
+33|1|Pressure_21m_HeightAboveBottom
+33|1|Pressure_22m_HeightAboveBottom
+33|1|Pressure_23m_HeightAboveBottom
+33|1|Pressure_24m_HeightAboveBottom
+33|1|Pressure_25m_HeightAboveBottom
+33|1|Pressure_26m_HeightAboveBottom
+33|1|Pressure_27m_HeightAboveBottom
+33|1|Pressure_28m_HeightAboveBottom
+33|1|Pressure_29m_HeightAboveBottom
+33|1|Pressure_30m_HeightAboveBottom
+33|1|Temp_01m_HeightAboveBottom
+33|1|Temp_02m_HeightAboveBottom
+33|1|Temp_03m_HeightAboveBottom
+33|1|Temp_04m_HeightAboveBottom
+33|1|Temp_05m_HeightAboveBottom
+33|1|Temp_06m_HeightAboveBottom
+33|1|Temp_07m_HeightAboveBottom
+33|1|Temp_08m_HeightAboveBottom
+33|1|Temp_09m_HeightAboveBottom
+33|1|Temp_10m_HeightAboveBottom
+33|1|Temp_11m_HeightAboveBottom
+33|1|Temp_12m_HeightAboveBottom
+33|1|Temp_13m_HeightAboveBottom
+33|1|Temp_14m_HeightAboveBottom
+33|1|Temp_15m_HeightAboveBottom
+33|1|Temp_16m_HeightAboveBottom
+33|1|Temp_17m_HeightAboveBottom
+33|1|Temp_18m_HeightAboveBottom
+33|1|Temp_19m_HeightAboveBottom
+33|1|Temp_20m_HeightAboveBottom
+33|1|Temperature_21m_HeightAboveBottom
+33|1|Temperature_22m_HeightAboveBottom
+33|1|Temperature_23m_HeightAboveBottom
+33|1|Temperature_24m_HeightAboveBottom
+33|1|Temperature_25m_HeightAboveBottom
+33|1|Temperature_26m_HeightAboveBottom
+33|1|Temperature_27m_HeightAboveBottom
+33|1|Temperature_28m_HeightAboveBottom
+33|1|Temperature_29m_HeightAboveBottom
+33|1|Temperature_30m_HeightAboveBottom
+33|1|year
+33|2|bottom_watercolumn_temperature_sbe39_C
+33|2|data_coverage_bottom_watercolumn_temperature_sbe39_C
+33|2|data_coverage_middle_watercolumn_temperature_sbe39_C
+33|2|data_coverage_upper_watercolumn_temperature_sbe39_C
+33|2|middle_watercolumn_temperature_sbe39_C
+33|2|time_local
+33|2|time_utc
+33|2|upper_watercolumn_temperature_sbe39_C
+33|3|bottom_watercolumn_temperature_sbe39_C
+33|3|data_coverage_bottom_watercolumn_temperature_sbe39_C
+33|3|data_coverage_middle_watercolumn_temperature_sbe39_C
+33|3|data_coverage_upper_watercolumn_temperature_sbe39_C
+33|3|middle_watercolumn_temperature_sbe39_C
+33|3|time_local
+33|3|time_utc
+33|3|upper_watercolumn_temperature_sbe39_C
+33|4|bottom_watercolumn_temperature_sbe39_C
+33|4|data_coverage_bottom_watercolumn_temperature_sbe39_C
+33|4|data_coverage_middle_watercolumn_temperature_sbe39_C
+33|4|data_coverage_upper_watercolumn_temperature_sbe39_C
+33|4|middle_watercolumn_temperature_sbe39_C
+33|4|time_local
+33|4|time_utc
+33|4|upper_watercolumn_temperature_sbe39_C
+33|5|bottom_watercolumn_temperature_sbe39_C
+33|5|data_coverage_bottom_watercolumn_temperature_sbe39_C
+33|5|data_coverage_middle_watercolumn_temperature_sbe39_C
+33|5|data_coverage_upper_watercolumn_temperature_sbe39_C
+33|5|middle_watercolumn_temperature_sbe39_C
+33|5|time_local
+33|5|time_utc
+33|5|upper_watercolumn_temperature_sbe39_C
+4001|1|count
+4001|1|family
+4001|1|habitat
+4001|1|location
+4001|1|nominal_year
+4001|1|season
+4001|1|shore
+4001|1|side
+4001|1|tile_id
+4001|2|collect_begin
+4001|2|collect_end
+4001|2|install_begin
+4001|2|install_end
+4001|2|months_deployed
+4001|2|nominal_year
+4001|2|notes
+4001|2|season
+4002|1|count
+4002|1|date
+4002|1|divers
+4002|1|genus
+4002|1|location
+4002|1|photo_exists
+4002|1|photo_location
+4002|1|quadrat_juvenile
+4002|1|season
+4002|1|year
+4003|1|nominal_year
+4003|1|n_points
+4003|1|percent_cover
+4003|1|photo_id
+4003|1|quadrat
+4003|1|site
+4003|1|taxonomy
+4003|2|Acanthastrea
+4003|2|Acropora
+4003|2|Astreopora
+4003|2|cca_bare_space
+4003|2|Cyphastrea
+4003|2|Favia
+4003|2|Fungia
+4003|2|Gardinoseris
+4003|2|Herptolitha
+4003|2|Leptastrea
+4003|2|Leptoseris
+4003|2|Lobophyllia
+4003|2|macroalgae
+4003|2|Millepora
+4003|2|Montastrea
+4003|2|Montipora
+4003|2|nominal_year
+4003|2|n_points
+4003|2|other_Scleractinia
+4003|2|Pachyseris
+4003|2|Pavona
+4003|2|photo_id
+4003|2|Pocillopora
+4003|2|Porites
+4003|2|Psammacora
+4003|2|quadrat
+4003|2|sand
+4003|2|Sandolitha
+4003|2|site
+4003|2|soft_coral
+4003|2|Stylocoeniella
+4003|2|Tubastrea
+4003|2|turf
+4004|1|conductivity
+4004|1|decimal_day
+4004|1|density
+4004|1|matlab_datenum
+4004|1|month
+4004|1|pressure
+4004|1|salinity
+4004|1|temperature
+4004|1|year
+4004|2|data_coverage_density_shallow_sbe16_sigt
+4004|2|data_coverage_salinity_shallow_sbe16_psu
+4004|2|data_coverage_temperature_shallow_sbe16_C
+4004|2|density_density_shallow_sbe16_sigt
+4004|2|salinity_shallow_sbe16_psu
+4004|2|temperature_shallow_sbe16_C
+4004|2|time_local
+4004|2|time_utc
+4004|3|data_coverage_density_shallow_sbe16_sigt
+4004|3|data_coverage_salinity_shallow_sbe16_psu
+4004|3|data_coverage_temperature_shallow_sbe16_C
+4004|3|density_density_shallow_sbe16_sigt
+4004|3|salinity_shallow_sbe16_psu
+4004|3|temperature_shallow_sbe16_C
+4004|3|time_local
+4004|3|time_utc
+4004|4|data_coverage_density_shallow_sbe16_sigt
+4004|4|data_coverage_salinity_shallow_sbe16_psu
+4004|4|data_coverage_temperature_shallow_sbe16_C
+4004|4|density_density_shallow_sbe16_sigt
+4004|4|salinity_shallow_sbe16_psu
+4004|4|temperature_shallow_sbe16_C
+4004|4|time_local
+4004|4|time_utc
+4004|5|data_coverage_density_shallow_sbe16_sigt
+4004|5|data_coverage_salinity_shallow_sbe16_psu
+4004|5|data_coverage_temperature_shallow_sbe16_C
+4004|5|density_density_shallow_sbe16_sigt
+4004|5|salinity_shallow_sbe16_psu
+4004|5|temperature_shallow_sbe16_C
+4004|5|time_local
+4004|5|time_utc
+4005|1|Battery
+4005|1|Battery_raw
+4005|1|Day
+4005|1|deployment_no
+4005|1|habitat
+4005|1|hh_mm_ss
+4005|1|Quantum
+4005|1|Quantum_raw
+4005|1|raw_file_id
+4005|1|Sample
+4005|1|site
+4005|1|YYYY_MM_DD
+4005|2|Battery
+4005|2|Battery_raw
+4005|2|Day
+4005|2|deployment_no
+4005|2|habitat
+4005|2|hh_mm_ss
+4005|2|Quantum
+4005|2|Quantum_raw
+4005|2|raw_file_id
+4005|2|Sample
+4005|2|site
+4005|2|YYYY_MM_DD
+4005|3|AlphaData
+4005|3|BetaData
+4005|3|BurstTime
+4005|3|Channel_Count
+4005|3|CoefDate
+4005|3|Comments
+4005|3|Counters
+4005|3|Cycle_Unit
+4005|3|Data_Flag
+4005|3|DelayTime
+4005|3|deployment_no
+4005|3|End_Time
+4005|3|File_Name
+4005|3|File_Type
+4005|3|HardVers
+4005|3|Info_File
+4005|3|Inst_No
+4005|3|Inst_Type
+4005|3|Interval
+4005|3|MeasMode
+4005|3|notes
+4005|3|Raw_File
+4005|3|Read_Flag
+4005|3|Sample_Count
+4005|3|StartPointA
+4005|3|StartPointB
+4005|3|Start_Time
+4005|3|Time_Unit
+4005|3|TotalCnt
+4005|3|ZeroPoint
+4|1|Date
+4|1|Habitat
+4|1|Location
+4|1|Percent_Cover
+4|1|Quadrat
+4|1|Site
+4|1|Taxonomy_Substrate_or_Functional_Group
+4|1|Transect
+4|2|Acanthastrea
+4|2|Acropora
+4|2|Astreopora
+4|2|Crustose_Coralline_Algae_or_Bare_Space
+4|2|Cyphastrea
+4|2|Date
+4|2|Favia
+4|2|Fungia
+4|2|Gardinoseris
+4|2|Herpolitha
+4|2|Leptastrea
+4|2|Leptoseris
+4|2|Lobophyllia
+4|2|Location
+4|2|Macroalgae
+4|2|Millepora
+4|2|Montastrea
+4|2|Montipora
+4|2|Pachyseris
+4|2|Pavona
+4|2|Pocillopora
+4|2|Porites
+4|2|Psammacora
+4|2|Sand
+4|2|Sandolitha
+4|2|Soft_Coral
+4|2|Stony_Coral
+4|2|Stylocoeniella
+4|2|Tubastrea
+4|2|Turf
+5001|1|Core_label
+5001|1|Count
+5001|1|Distance_from_Reef_m
+5001|1|Morphotype
+5001|1|Most_Specific_Taxon
+5001|1|Notes
+5001|1|Phylum
+5001|1|Sieve_Size_mm
+5001|1|taxonomic_Class
+5001|1|Transect
+5001|1|Volume_cm3
+5001|2|Distance
+5001|2|greater_than_3.36 mm
+5001|2|greater_than_3.36_mm
+5001|2|less_than_0.125
+5001|2|mass0.25_0.125mm
+5001|2|mass0.5_0.25mm
+5001|2|mass1.0_0.5mm
+5001|2|mass2.0_1.0mm
+5001|2|mass3.36_2.0mm
+5001|2|percent_0.25_0.125mm
+5001|2|percent_0.5_0.25mm
+5001|2|percent_1.0_0.5mm
+5001|2|percent_2.0_1.0mm
+5001|2|percent_3.36_2.0mm
+5001|2|total_mass
+5001|2|Transect
+5001|3|Mesh_number
+5001|3|Pore_Size_mm
+5003|1|bottom_depth_m
+5003|1|conductivity_Spm
+5003|1|depth_m
+5003|1|descent_rate_mps
+5003|1|fluorescence_mgpm3
+5003|1|latitude_degrees_north
+5003|1|longitude_degrees_west
+5003|1|potential_temperature_C
+5003|1|pressure_bin_midvalue_dbar
+5003|1|pressure_dbar
+5003|1|salinity_PSU
+5003|1|scans_per_bin
+5003|1|sigma-theta_kgpm3
+5003|1|sva_m3pkg
+5003|1|temperature_C
+5003|1|time_local
+5003|1|time_utc
+5003|1|transect_code
+5003|1|turbidity_upoly
+5003|1|Voltage_0
+5003|1|Voltage_1
+5003|1|Voltage_2
+5003|2|bottom_depth_m
+5003|2|conductivity_Spm
+5003|2|depth_m
+5003|2|descent_rate_mps
+5003|2|fluorescence_mgpm3
+5003|2|latitude_degrees_north
+5003|2|longitude_degrees_west
+5003|2|potential_temperature_C
+5003|2|pressure_bin_midvalue_dbar
+5003|2|pressure_dbar
+5003|2|salinity_PSU
+5003|2|scans_per_bin
+5003|2|sigma-theta_kgpm3
+5003|2|sva_m3pkg
+5003|2|temperature_C
+5003|2|time_local
+5003|2|time_utc
+5003|2|transect_code
+5003|2|turbidity_upoly
+5003|2|Voltage_0
+5003|2|Voltage_1
+5003|2|Voltage_2
+5003|3|bottom_depth_m
+5003|3|conductivity_Spm
+5003|3|depth_m
+5003|3|descent_rate_mps
+5003|3|fluorescence_mgpm3
+5003|3|latitude_degrees_north
+5003|3|longitude_degrees_west
+5003|3|potential_temperature_C
+5003|3|pressure_bin_midvalue_dbar
+5003|3|pressure_dbar
+5003|3|salinity_PSU
+5003|3|scans_per_bin
+5003|3|sigma-theta_kgpm3
+5003|3|sva_m3pkg
+5003|3|temperature_C
+5003|3|time_local
+5003|3|time_utc
+5003|3|transect_code
+5003|3|turbidity_upoly
+5003|3|Voltage_0
+5003|3|Voltage_1
+5003|3|Voltage_2
+5003|4|Date_Profile_Location
+5003|4|Decimal_Day_Offset
+5004|1|bottom_depth_m
+5004|1|conductivity_Spm
+5004|1|depth_m
+5004|1|descent_rate_mps
+5004|1|fluorescence_mgpm3
+5004|1|latitude_degrees_north
+5004|1|longitude_degrees_west
+5004|1|potential_temperature_C
+5004|1|pressure_bin_midvalue_dbar
+5004|1|pressure_dbar
+5004|1|salinity_PSU
+5004|1|scans_per_bin
+5004|1|sigma-theta_kgpm3
+5004|1|sva_m3pkg
+5004|1|temperature_C
+5004|1|time_local
+5004|1|time_utc
+5004|1|transect_code
+5004|1|turbidity_upoly
+5004|1|Voltage_0
+5004|1|Voltage_1
+5004|1|Voltage_2
+5004|2|bottom_depth_m
+5004|2|conductivity_Spm
+5004|2|depth_m
+5004|2|descent_rate_mps
+5004|2|fluorescence_mgpm3
+5004|2|latitude_degrees_north
+5004|2|longitude_degrees_west
+5004|2|potential_temperature_C
+5004|2|pressure_bin_midvalue_dbar
+5004|2|pressure_dbar
+5004|2|salinity_PSU
+5004|2|scans_per_bin
+5004|2|sigma-theta_kgpm3
+5004|2|sva_m3pkg
+5004|2|temperature_C
+5004|2|time_local
+5004|2|time_utc
+5004|2|transect_code
+5004|2|turbidity_upoly
+5004|2|Voltage_0
+5004|2|Voltage_1
+5004|2|Voltage_2
+5004|3|Date_Profile_Location
+5004|3|Decimal_Day_Offset
+5005|1|Area
+5005|1|Biomass
+5005|1|CO2
+5005|1|Coral
+5005|1|Growth_per_area
+5005|1|growth_per_mass
+5005|1|Heterotrophy
+5005|1|Tank
+5005|1|Temperature
+5005|1|Treatment
+5005|2|Area
+5005|2|Biomass
+5005|2|Coral
+5005|2|Zooxanthellae_total_counts_per_coral
+5005|3|Day
+5005|3|Measurement
+5005|3|Tank_1
+5005|3|Tank_2
+5005|3|Tank_3
+5005|3|Tank_4
+5005|3|Tank_5
+5005|3|Tank_6
+5005|3|Tank_7
+5005|3|Tank_8
+5005|3|Time_tanks_1to4
+5005|3|Time_tanks_5to8
+5006|1|Col
+5006|1|Label
+5006|1|Row
+5008|10|Goby_Species
+5008|10|interaction_count_a_bellulus
+5008|10|interaction_count_a_djiboutensis
+5008|10|interaction_count_a_species
+5008|11|Goby_Species
+5008|11|interaction_count_a_bellulus
+5008|11|interaction_count_a_rapacida
+5008|1|Location
+5008|1|Total_Area_Surveyed
+5008|2|Algae
+5008|2|Date
+5008|2|Dead_Coral
+5008|2|Depth_cm
+5008|2|Live_Coral
+5008|2|Location
+5008|2|Observer
+5008|2|Overhang
+5008|2|Rubble
+5008|2|Sand
+5008|2|Silt
+5008|2|Transect
+5008|3|Amblyeleotris_fasciatus
+5008|3|Amblyeleotris_guttata
+5008|3|Amblyeleotris_gymnocephalus
+5008|3|Amblyeleotris_randalli
+5008|3|Amblyeleotris_steinitzi
+5008|3|Amblyeleotris_wheeleri
+5008|3|Amblyeleotris_yanoi
+5008|3|Cryptocentrus_albidorsus
+5008|3|Cryptocentrus_cinctus
+5008|3|Cryptocentrus_inexplicatus
+5008|3|Cryptocentrus_leptocephalus
+5008|3|Cryptocentrus_nigroocellatus
+5008|3|Cryptocentrus_sp_A
+5008|3|Cryptocentrus_strigilliceps
+5008|3|Ctenogobiops_aurocingulus
+5008|3|Ctenogobiops_feroculus
+5008|3|Ctenogobiops_formosa
+5008|3|Ctenogobiops_maculosus
+5008|3|Ctenogobiops_spp
+5008|3|Date
+5008|3|Location
+5008|3|Lotilia_graciliosa
+5008|3|Mahedolia_mysticina
+5008|3|Observer
+5008|3|Stonogobiops_xanthorhinica
+5008|3|Tomiyamichthys_oni
+5008|3|Transect
+5008|3|Vanderhorstria_lancelota
+5008|3|Vanderhorstria_sp
+5008|4|Alpehus_bellulus
+5008|4|Alpheus_brevicristatus
+5008|4|Alpheus_djeddensis
+5008|4|Alpheus_djiboutensis
+5008|4|Alpheus_ochrostriatus
+5008|4|Alpheus_randalli
+5008|4|Alpheus_rapax
+5008|4|Alpheus_rubromaculatus
+5008|4|Alpheus_sp_1_striped
+5008|4|Alpheus_sp_5_pink
+5008|4|Alpheus_sp_7_white
+5008|4|Alpheus_sp_A_dark
+5008|4|Date
+5008|4|Location
+5008|4|Observer
+5008|4|Transect
+5008|5|Goby_Species
+5008|5|interaction_count_a_djeddensis
+5008|5|interaction_count_a_ochrostriatus
+5008|6|Goby_Species
+5008|6|interaction_count_a_bellulus
+5008|6|interaction_count_a_brevicristatus
+5008|6|interaction_count_a_djeddensis
+5008|6|interaction_count_a_ochrostriatus
+5008|6|interaction_count_a_randalli
+5008|6|interaction_count_a_rapax
+5008|6|interaction_count_a_species_1
+5008|6|interaction_count_a_species_5
+5008|6|interaction_count_a_species_7
+5008|6|interaction_count_a_species_A
+5008|7|Goby_Species
+5008|7|interaction_count_a_djeddensis
+5008|7|interaction_count_a_djiboutensis
+5008|7|interaction_count_a_ochrostriatus
+5008|7|interaction_count_a_rapax
+5008|7|interaction_count_a_rubromaculatus
+5008|8|Goby_Species
+5008|8|interaction_count_a_bellulus
+5008|8|interaction_count_a_djeddensis
+5008|8|interaction_count_a_djiboutensis
+5008|8|interaction_count_a_ochrostriatus
+5008|8|interaction_count_a_rapax
+5008|8|interaction_count_a_rubromaculatus
+5008|8|interaction_count_a_species
+5008|9|Goby_Species
+5008|9|interaction_count_alpheid_1
+5008|9|interaction_count_alpheid_2
+5008|9|interaction_count_alpheid_3
+5008|9|interaction_count_alpheid_4
+5008|9|interaction_count_alpheid_5
+5008|9|interaction_count_alpheid_6
+5008|9|interaction_count_alpheid_7
+5|1|bbp_anomaly_aqua
+5|1|cdm_anomaly_aqua
+5|1|cdm_anomaly_seawifs
+5|1|cdm_mean_aqua
+5|1|cdm_mean_seawifs
+5|1|cdm_stdev_aqua
+5|1|cdm_stdev_seawifs
+5|1|chl_anomaly_aqua
+5|1|chl_anomaly_seawifs
+5|1|first_day
+5|1|last_day
+5|1|mean_bbp_aqua
+5|1|mean_chl_aqua
+5|1|mean_chl_seawifs
+5|1|mean_nsst_aqua
+5|1|Month
+5|1|nsst_anomaly_aqua
+5|1|pct_valid_bbp_aqua
+5|1|pct_valid_cdm_aqua
+5|1|pct_valid_cdm_seawifs
+5|1|pct_valid_chl_aqua
+5|1|pct_valid_chl_seawifs
+5|1|pct_valid_nsst_aqua
+5|1|stdev_bbp_aqua
+5|1|stdev_chl_aqua
+5|1|stdev_chl_seawifs
+5|1|stdev_nsst_aqua
+5|1|Year
+5|2|bbp_anomaly_aqua
+5|2|cdm_anomaly_aqua
+5|2|cdm_anomaly_seawifs
+5|2|cdm_mean_aqua
+5|2|cdm_mean_seawifs
+5|2|cdm_stdev_aqua
+5|2|cdm_stdev_seawifs
+5|2|chl_anomaly_aqua
+5|2|chl_anomaly_seawifs
+5|2|first_day
+5|2|last_day
+5|2|mean_bbp_aqua
+5|2|mean_chl_aqua
+5|2|mean_chl_seawifs
+5|2|mean_nsst_aqua
+5|2|Month
+5|2|nsst_anomaly_aqua
+5|2|pct_valid_bbp_aqua
+5|2|pct_valid_cdm_aqua
+5|2|pct_valid_cdm_seawifs
+5|2|pct_valid_chl_aqua
+5|2|pct_valid_chl_seawifs
+5|2|pct_valid_nsst_aqua
+5|2|stdev_bbp_aqua
+5|2|stdev_chl_aqua
+5|2|stdev_chl_seawifs
+5|2|stdev_nsst_aqua
+5|2|Year
+5|3|date
+5|3|seq_day
+5|3|sst_anomaly
+5|3|sst_mean
+6001|1|family
+6001|1|length_accepted
+6001|1|length_poissons_de_tahiti
+6001|1|length_randall
+6001|1|species
+6001|2|a
+6001|2|b
+6001|2|cite_bm_conversion
+6001|2|cite_length_conversion
+6001|2|family
+6001|2|length_code
+6001|2|note_length_conversion
+6001|2|species
+6001|2|taxon_resolution
+6001|2|totlen2forklen
+6001|3|coarse_trophic_group
+6001|3|family
+6001|3|fine_trophic_group
+6001|3|species
+6001|4|citation_code
+6001|4|family
+6001|4|items_consumed
+6001|4|notes
+6001|4|species
+6|1|Biomass
+6|1|Cloud_Cover
+6|1|Coarse_Trophic
+6|1|Date
+6|1|Diver
+6|1|End_time
+6|1|Family
+6|1|Fine_Trophic
+6|1|Fish_Count
+6|1|Habitat
+6|1|Length_Anomaly
+6|1|Location
+6|1|Sea_State
+6|1|Site
+6|1|Start_time
+6|1|Surge
+6|1|Swell
+6|1|Taxonomy
+6|1|Total_Length
+6|1|Transect
+6|1|Transect_Width
+6|1|Visibility
+6|1|Wind_Velocity
+6|1|Year
+6|2|Cloud_Cover
+6|2|Date
+6|2|Diver
+6|2|End_time
+6|2|Family
+6|2|Fish_Count
+6|2|Habitat
+6|2|Location
+6|2|Sea_State
+6|2|Site
+6|2|Start_time
+6|2|Surge
+6|2|Swell
+6|2|Taxonomy
+6|2|Transect
+6|2|Transect_Width
+6|2|Visibility
+6|2|Wind_Velocity
+6|2|Year
+6|3|common_name
+6|3|taxon_class
+6|3|taxon_division
+6|3|taxon_family
+6|3|taxon_genus
+6|3|taxon_infraphylum
+6|3|taxon_order
+6|3|taxon_phylum
+6|3|taxon_species_binomial
+6|3|taxon_subclass
+6|3|taxon_subdivision
+6|3|taxon_subphylum
+7001|1|Count
+7001|1|Depth_m
+7001|1|Habitat
+7001|1|Microhabitat
+7001|1|Notes
+7001|1|Species
+7001|1|Swath
+7001|1|Time_Start
+7001|1|Total_Length_cm
+7001|1|Transect_ID
+7001|2|Meter
+7001|2|Notes
+7001|2|Substrate
+7001|2|Transect_ID
+7001|3|Date
+7001|3|Depth_m
+7001|3|Diver
+7001|3|Habitat
+7001|3|Notes
+7001|3|Time_Start
+7001|3|Transect_ID
+7001|4|Date
+7001|4|Depth_m
+7001|4|Diver
+7001|4|Habitat
+7001|4|Notes
+7001|4|Time_Start
+7001|4|Transect_Beg
+7001|4|Transect_End
+7001|4|Transect_ID
+7002|1|Bare
+7002|1|Bite_Rate
+7002|1|CCA
+7002|1|Date
+7002|1|Depth_Beg
+7002|1|Depth_Cat
+7002|1|Depth_End
+7002|1|Notes
+7002|1|Observer
+7002|1|Other
+7002|1|Rubble
+7002|1|Sand
+7002|1|Seconds_Observed
+7002|1|Site
+7002|1|Size_cm
+7002|1|Species
+7002|1|Stage
+7002|1|Time_Beg
+7002|1|Time_End
+7002|1|Time_Period
+7002|1|Total_Bites
+7002|2|Bare
+7002|2|Bite_Rate
+7002|2|CCA
+7002|2|Date
+7002|2|Depth_Beg
+7002|2|Depth_End
+7002|2|Notes
+7002|2|Observer
+7002|2|Other
+7002|2|Rubble
+7002|2|Sand
+7002|2|Seconds_Observed
+7002|2|Site
+7002|2|Size_cm
+7002|2|Species
+7002|2|Stage
+7002|2|Time_Beg
+7002|2|Time_End
+7002|2|Total_Bites
+7003|1|Associated_with_P_rus
+7003|1|Date
+7003|1|Group_Number
+7003|1|Notes
+7003|1|Number_In_Group
+7003|1|Primary_Microhabitat
+7003|1|Site
+7003|1|Species
+7003|1|Surveyor
+7003|1|Total_Legth_cm
+7004|1|AFDW_g
+7004|1|Date_deployed
+7004|1|Date_retrieved
+7004|1|Dry_weight_g
+7004|1|Initial_weight_g
+7004|1|Muffle_weight_g
+7004|1|Notes
+7004|1|Pan #
+7004|1|Sample_weight_g
+7004|1|Site
+7004|2|AFDW_g
+7004|2|Cage
+7004|2|Date_deployed
+7004|2|Date_retrieved
+7004|2|Dry_weight_g
+7004|2|Initial_weight_g
+7004|2|Muffle_weight_g
+7004|2|Notes
+7004|2|Sample_weight_g
+7004|2|Site
+7004|3|AFDW_g
+7004|3|Cage
+7004|3|Date_deployed
+7004|3|Date_retrieved
+7004|3|Dry_weight_g
+7004|3|Initial_weight_g
+7004|3|Muffle_weight_g
+7004|3|Notes
+7004|3|Sample_weight_g
+7004|3|Site
+7005|1|Date_deployed
+7005|1|Date_retrieved
+7005|1|Deployment_period
+7005|1|Plot
+7005|1|Sample_Period
+7005|1|Tile_age_days
+7005|1|Treatment
+7005|2|AFDW_mg_per_cm2
+7005|2|Area_sampled_cm
+7005|2|Deployment_period
+7005|2|Notes
+7005|2|Plot
+7005|2|Sample_Period
+7005|2|Sample_weight_mg_per_cm2
+7005|2|Treatment
+7005|3|AFDW_g
+7005|3|Deployment_period
+7005|3|Dry_weight_g
+7005|3|Initial_weight_g
+7005|3|Muffled_weight_g
+7005|3|Notes
+7005|3|Pan_number
+7005|3|Plot
+7005|3|Sample_Period
+7005|3|Sample_weight_g
+7005|3|Treatment
+7005|4|AFDW_g
+7005|4|Algae_Type
+7005|4|Deployment_period
+7005|4|Dry_weight_g
+7005|4|Initial_weight_g
+7005|4|Muffled_weight_g
+7005|4|Notes
+7005|4|Pan_number
+7005|4|Plot
+7005|4|Sample_Period
+7005|4|Sample_weight_g
+7005|4|Treatment
+7005|5|Deployment_period
+7005|5|Length_mm
+7005|5|Notes
+7005|5|Plot
+7005|5|Sample_Period
+7005|5|Taxa
+7005|5|Tile_surface
+7005|5|Treatment
+7005|5|Width_mm
+7005|6|Acroporidae
+7005|6|Deployment_period
+7005|6|Notes
+7005|6|Other
+7005|6|Plot
+7005|6|Pocilloporidae
+7005|6|Poritidae
+7005|6|Sample_Period
+7005|6|Tile_surface
+7005|6|Treatment
+7005|7|0.063-0.125 mm
+7005|7|0.125-0.25 mm
+7005|7|0.25-0.5 mm
+7005|7|0.5-0.85 mm
+7005|7|0.85-1 mm
+7005|7|1-2 mm
+7005|7|>2 mm
+7005|7|Deployment_period
+7005|7|less than 0.063 mm
+7005|7|Notes
+7005|7|Plot
+7005|7|Sample_Period
+7005|7|Total_after
+7005|7|Total_before
+7005|7|Treatment
+7005|8|Bare/CCA/Filamentous algae
+7005|8|Coral
+7005|8|Deployment_period
+7005|8|Other
+7005|8|Padina boryana gametophyte
+7005|8|Padina boryana sporophyte
+7005|8|Plot
+7005|8|Sample_Period
+7005|8|Sargassum pacificum
+7005|8|Symploca sp.
+7005|8|Total_points
+7005|8|Total_points_minus tape+wand+shadow
+7005|8|Treatment
+7005|8|Unknown articulated coralline
+7005|8|Unknown Cyanobacteria
+7005|8|Unknown macroalgae
+7005|9|Amansia rhodantha
+7005|9|Asparagopsis taxiformis
+7005|9|Bare cropped substrate
+7005|9|Deployment_period
+7005|9|Halimeda spp.
+7005|9|Lobophora variegata
+7005|9|Neomeris vanbossea
+7005|9|Other
+7005|9|Padina boryana
+7005|9|Plot
+7005|9|Pocillopora
+7005|9|Sample_Period
+7005|9|Sargassum pacificum
+7005|9|Sediment-laden turf
+7005|9|Symploca hydnoides
+7005|9|Thick CCA
+7005|9|Thin CCA
+7005|9|Total_points
+7005|9|Total_points_minus tape+wand+shadow
+7005|9|Treatment
+7005|9|Turbinaria ornata
+7005|9|Turfing algae
+7005|9|Unknown Algae
+7005|9|Unknown articulated coralline
+7005|9|Unknown coral
+7005|9|Unknown cyanobacteria
+7005|9|Unknown macroalgae
+7005|9|Ventricaria ventricosa
+7006|1|Coral
+7006|1|Date_measured
+7006|1|Length_mm
+7006|1|Notes
+7006|1|Plot
+7006|1|Tile
+7006|1|Treatment
+7006|1|Width_mm
+7006|2|Bites
+7006|2|Coral
+7006|2|Date
+7006|2|Notes
+7006|2|Percent_Alive
+7006|2|Plot
+7006|2|Sample_Period
+7006|2|Tile
+7006|2|Treatment
+7007|1|Cohort
+7007|1|Plot
+7007|1|Sample_Date
+7007|1|Stipes
+7007|1|Treatment
+7007|2|Date
+7007|2|Habitat
+7007|2|Quadrat
+7007|2|Turbinaria_stipes
+7008|1|Count
+7008|1|Date
+7008|1|Divers
+7008|1|Length_cm
+7008|1|Notes
+7008|1|Plot_number
+7008|1|Sample_Period
+7008|1|Site
+7008|1|Site_Plot
+7008|1|Status
+7008|1|Taxa
+7008|1|Treatment
+7008|1|Width_cm
+7008|2|Count
+7008|2|Date
+7008|2|Divers
+7008|2|Length_cm
+7008|2|Notes
+7008|2|Plot_number
+7008|2|Sample_Period
+7008|2|Site
+7008|2|Site_Plot
+7008|2|Status
+7008|2|Taxa
+7008|2|Treatment
+7008|2|Width_cm
+7008|3|Count
+7008|3|Date
+7008|3|Divers
+7008|3|Family
+7008|3|Plot_number
+7008|3|Sample_Period
+7008|3|Site
+7008|3|Site_Plot
+7008|3|Status
+7008|3|Taxonomy
+7008|3|Treatment
+7008|4|Count
+7008|4|Date
+7008|4|Divers
+7008|4|Notes
+7008|4|Plot_number
+7008|4|Sample_Period
+7008|4|Site
+7008|4|Species
+7008|4|Status
+7008|4|Treatment
+7008|5|Date
+7008|5|Diver
+7008|5|Notes
+7008|5|Plot_number
+7008|5|Sample_Period
+7008|5|Site
+7008|5|Site_Plot
+7008|5|Size_mm
+7008|5|Species
+7008|5|Status
+7008|5|Treatment
+7008|6|Chain_length_cm
+7008|6|Plot_number
+7008|6|Rugosity
+7008|6|Site
+7008|6|Site_Plot
+7008|6|Transect
+7008|6|Treatment
+7008|6|Year
+7008|7|Depth
+7008|7|Plot_number
+7008|7|Site
+7008|7|Site_Plot
+7008|7|Treatment
+7009|1|Delta_Weight_g
+7009|1|Final_Weight_g
+7009|1|Frame
+7009|1|Initial_Weight_g
+7009|1|Notes
+7009|1|Number
+7009|1|Outplant_Date
+7009|1|Proportional_chage
+7009|1|Species
+7009|1|Time_Deployed
+7009|1|Treatment
+7009|2|Algae_Position
+7009|2|Algae_Species
+7009|2|Bites
+7009|2|Caged
+7009|2|Date
+7009|2|Event_Termination
+7009|2|Fish_ID
+7009|2|Fish_Species
+7009|2|FL (cm)
+7009|2|Notes
+7009|2|Species_chased_or_chased_by
+7009|2|Time_Start
+7009|2|Time_Stop
+7010|1|Alive or dead
+7010|1|Area_cm2
+7010|1|Branch morphology
+7010|1|Coral #
+7010|1|Coral Genus
+7010|1|Filled in
+7010|1|Notes
+7010|1|Percent alive
+7010|1|Percent in
+7010|1|Quad
+7010|1|Site
+7010|1|Site_Year
+7010|1|Transect
+7010|1|Year
+7|1|Count
+7|1|Date
+7|1|Habitat
+7|1|Location
+7|1|Quadrat
+7|1|Site
+7|1|Taxonomy
+7|1|Transect
+7|1|Year
+8|1|Date
+8|1|Habitat
+8|1|Location
+8|1|Percent_Cover
+8|1|Quadrat
+8|1|Site
+8|1|Taxonomy_Substrate_Functional_Group
+8|1|Transect
+8|1|Year
+9|1|air_temp_C
+9|1|atm_press_mbar
+9|1|cumulative_rainfall_mm
+9|1|data_coverage_air_temp_C
+9|1|data_coverage_atm_press_mbar
+9|1|data_coverage_cumulative_rainfall_mm
+9|1|data_coverage_mean_solar_rad_kwpm2
+9|1|data_coverage_wind_direction_degtrue
+9|1|data_coverage_wind_stress_pa
+9|1|data_coverage_wind_U_mps
+9|1|data_coverage_wind_V_mps
+9|1|mean_solar_rad_kwpm2
+9|1|time_local
+9|1|time_utc
+9|1|wind_direction_degtrue
+9|1|wind_stress_pa
+9|1|wind_U_mps
+9|1|wind_V_mps
+9|2|airtc_avg
+9|2|batt_volt_min
+9|2|bp_mbar_avg
+9|2|rain_mm_tot
+9|2|record
+9|2|relhum_avg
+9|2|slrkw_avg
+9|2|slrkw_max
+9|2|slrkw_min
+9|2|slrkw_std
+9|2|tstamp
+9|2|winddir_d1_wvt
+9|2|winddir_sd1_wvt
+9|2|ws_ms_max
+9|2|ws_ms_min
+9|2|ws_ms_std
+9|2|ws_ms_s_wvt
+9|3|air_temp_C
+9|3|atm_press_mbar
+9|3|cumulative_rainfall_mm
+9|3|data_coverage_air_temp_C
+9|3|data_coverage_atm_press_mbar
+9|3|data_coverage_cumulative_rainfall_mm
+9|3|data_coverage_mean_solar_rad_kwpm2
+9|3|data_coverage_wind_direction_degtrue
+9|3|data_coverage_wind_stress_pa
+9|3|data_coverage_wind_U_mps
+9|3|data_coverage_wind_V_mps
+9|3|mean_solar_rad_kwpm2
+9|3|time_local
+9|3|time_utc
+9|3|wind_direction_degtrue
+9|3|wind_stress_pa
+9|3|wind_U_mps
+9|3|wind_V_mps
+9|4|air_temp_C
+9|4|atm_press_mbar
+9|4|cumulative_rainfall_mm
+9|4|data_coverage_air_temp_C
+9|4|data_coverage_atm_press_mbar
+9|4|data_coverage_cumulative_rainfall_mm
+9|4|data_coverage_mean_solar_rad_kwpm2
+9|4|data_coverage_wind_direction_degtrue
+9|4|data_coverage_wind_stress_pa
+9|4|data_coverage_wind_U_mps
+9|4|data_coverage_wind_V_mps
+9|4|mean_solar_rad_kwpm2
+9|4|time_local
+9|4|time_utc
+9|4|wind_direction_degtrue
+9|4|wind_stress_pa
+9|4|wind_U_mps
+9|4|wind_V_mps
+9|5|air_temp_C
+9|5|atm_press_mbar
+9|5|cumulative_rainfall_mm
+9|5|data_coverage_air_temp_C
+9|5|data_coverage_atm_press_mbar
+9|5|data_coverage_cumulative_rainfall_mm
+9|5|data_coverage_mean_solar_rad_kwpm2
+9|5|data_coverage_wind_direction_degtrue
+9|5|data_coverage_wind_stress_pa
+9|5|data_coverage_wind_U_mps
+9|5|data_coverage_wind_V_mps
+9|5|mean_solar_rad_kwpm2
+9|5|time_local
+9|5|time_utc
+9|5|wind_direction_degtrue
+9|5|wind_stress_pa
+9|5|wind_U_mps
+9|5|wind_V_mps
+9|6|air_temp_C
+9|6|atm_press_mbar
+9|6|cumulative_rainfall_mm
+9|6|data_coverage_air_temp_C
+9|6|data_coverage_atm_press_mbar
+9|6|data_coverage_cumulative_rainfall_mm
+9|6|data_coverage_mean_solar_rad_kwpm2
+9|6|data_coverage_wind_direction_degtrue
+9|6|data_coverage_wind_stress_pa
+9|6|data_coverage_wind_U_mps
+9|6|data_coverage_wind_V_mps
+9|6|mean_solar_rad_kwpm2
+9|6|time_local
+9|6|time_utc
+9|6|wind_direction_degtrue
+9|6|wind_stress_pa
+9|6|wind_U_mps
+9|6|wind_V_mps
+DataSetID| EntitySortOrder| AttributeName

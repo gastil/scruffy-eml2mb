@@ -1,0 +1,96 @@
+DataSetID|id|name|abbreviation|parentSI|multiplierToSI|constantToSI|unitType|description
+
+metabase2."EMLUnitDictionary" ("id", "name", "custom", "unitType",
+"abbreviation",  "multiplierToSI", "parentSI" ,  "constantToSI" ,  "description" )
+
+     1	DataSetID
+     2	id
+     3	name
+     4	abbreviation
+     5	parentSI
+     6	multiplierToSI
+     7	constantToSI
+     8	unitType
+     9	description
+
+There are 59 eml docs in ../list_of_docs.txt
+There are 86 output lines in output of the xsl (no hdr)
+
+You mean I only have 86 uses of units??! Thats not very many.
+
+cut -f1 -d'|' output | sort | uniq | wc -l
+20
+So only 20 of my 59 eml does have ANY units?!
+
+grep "<additionalMetadata" knb-lter-mcr.* | wc -l
+29
+So Im guessing 29 of my eml docs have units, not 20 of them. Why didnt the xsl
+find all of these?
+
+Ah hah. Sometimes I didnt put the stmml namespace on unitList. Urph.
+
+Now 113 rows in output.
+29 eml datasets have units.
+That matches.
+
+The above are only the CUSTOM units. The standard units were not collected by
+that xsl. The standard units are (I think) already in the Metabase
+UnitDictionary. Those will need to be collected for dataset:unit xref but are
+not needed for the population of the unit parent table.
+
+cut -f2 -d'|' output | sort | uniq > uniq_unit_ids
+52 uniq unit ids
+A few of these differ only in plural
+ 
+----------------
+	Unit Dictionary
+-----------------
+
+already loaded in Mb in the EMLUnitDictionary table are
+	 25 custom units
+	193 standard units
+
+Now
+	(1) outer join between my custom units in use in my EML and MbUD
+	(2) where appropriate, append my custom units to MbUD
+	--- or ---
+	(3) clean up my units so they match ones in the MbUD
+
+Any unit in (3) that changes its id would also have to be changed in the
+attributes loaded into scratch before that can be uploaded to DSV2.
+
+Presumably all std units will match; could outer join to verify.
+
+Added several new EMLUnitTypes to Mb parent table, with Margaret's blessing.
+
+---------------
+
+After MUCH cleanup, when I was satisfied all my units which had id's already
+in the dictionary could use the dictionary's entries (after leaning up those
+in the dictionary), I then queried out just the set whose id did not yet
+appear in the dictionary. These I then psql-bulk-uploaded into the dictionary.
+
+Once done cleaning up, I have 56 units from additionalMetadata, each used once
+to 7 times.
+
+select s.id , s.name, s."unitType", s.abbreviation,
+s."multiplierToSI",s."parentSI",s."constantToSI", s.description, true as
+"custom"
+from metabase2."EMLUnitDictionary" m
+full outer join
+(
+select id, name, "unitType", abbreviation,
+"multiplierToSI","parentSI","constantToSI", description
+from scratch.dataset_units_denorm
+group by id, name, "unitType", abbreviation,
+"multiplierToSI","parentSI","constantToSI", description
+) as s
+on s.id=m.id
+where m.id is null
+order by s.id
+
+-------
+looking at the units in DataSetVariables2, I have 70 unique unit ids,
+all of which are now in the EMLUnitDictionary either as standard or custom.
+
+

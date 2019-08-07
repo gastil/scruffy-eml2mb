@@ -1,0 +1,41 @@
+id|name|unitType|abbreviation|multiplierToSI|parentSI|constantToSI|description|custom
+centimeterSquared|centimeterSquared|area||0.0001|squareMeter|0|square centimeter|t
+count|count|amount|||||count of a number of things|t
+feet|feet|length|ft|0.3048|meter|0|Length|t
+fraction|fraction||||||fraction|t
+gramsPerGramPerHour|gramsPerGramPerHour|massPerMassRate|1/h||||mass per mass per time|t
+gramsPerSquareMeterPerHour|gramsPerSquareMeterPerHour|arealMassDensityRate|g/m2/h||||mass per area per time|t
+joulePerDay|joulePerDay||J/day|1|joule|0|joules per day|t
+kilogramPerMeterCubed|kilogramPerMeterCubed|massDensity|kg*m-3||||kilogram per cubic meter|t
+kilogramPerMole|kilogramPerMole||Kg/mol||||kilogram per mol|t
+kilowattPerMeterSquared|kilowattsPerSquareMeter|power||1000|JoulePerMeterSquared||irradiance unit; intensity; time-averaged energy flux|t
+microatmosphere|microatmosphere|pressure|µatm|0.101325|pascal|0|1 microAtmosphere = 0.000001 atmospheres = 1013.25 millibars = 0.101325 Pascals = 0.0000147 lb/sq.in|t
+micromolePerKilogram|micromolePerKilogram|amountOfSubstanceConcentration||0.001|mole|0|concentration, used in oceanography|t
+micromolePerSquareMeterPerSecond|micromolePerSquareMeterPerSecond|amountOfSubstanceFlux|umol/m2/s|1|micromolePerSquareMeterPerSecond|0|micromole per meter squared per second|t
+micromolesPerKilogram|micromolesPerKilogram|amountOfSubstanceConcentration||0.001|mole||concentration|t
+micromolesPerLiter|micromolesPerLiter|amountOfSubstanceConcentration|||molesPerCubicMeter||concentration, same magnitude as micromolar (for a dissolved constituent)|t
+microMolesPerSquareCentimeter|microMolesPerSquareCentimeter|arealDensity|μmol/cm^2||||μmoles per square centimeter|t
+microMolesPerSquareMeterPerSecond|microMolesPerSquareMeterPerSecond|amountOfSubstanceFlux|μmol/m^2/s||||μmoles per square meter per second|t
+milligramPerCentimeterSquared|milligramPerCentimeterSquared|arealMassDensity|mg/cm2|0.01|kilogramPerMeterSquared|0.0|milligrams Per Square Centimeter|t
+milligramPerCentimeterSquared|milligramPerCentimeterSquared|arealMassDensity|mg/cm2|0.01|kilogramsPerSquareMeter|0.0|milligrams Per Square Centimeter|t
+milligramPerCentimeterSquaredPerDay|milligramPerCentimeterSquaredPerDay|arealMassDensity|mg/cm2/day||kilogramPerMeterSquaredPerSecond|0.0|Milligrams per square centimeter per day|t
+milligramPerLiterPerSecond|milligramPerLiterPerSecond|massDensityRate|mg/l/s||kilogramPerLiterPerSecond||mass per volume per time|t
+milligramPerMeterSquaredPerDay|milligramPerMeterSquaredPerDay|arealMassDensityRate|mg*m-2*d-1|86400000000|kilogramPerMeterSquaredPerSecond|0|areal mass sedimentation rate|t
+milligramPerMilligramPerDay|milligramPerMilligramPerDay|massPerMassRate|mg/mg/day||kilogramPerKilogramPerSecond|0|Milligrams per milligram per day|t
+milligramPerSecond|milligramPerSecond|massRate|mg/s||||mass per time|t
+milligramsPerCubicMeterPerDay|milligramsPerCubicMeterPerDay|volumetricMassDensityRate|mg*m-3*d-1||||volumetric primary production rate, in a parcel of water|t
+milligramsPerDay|milligramsPerDay|massFlux|mg/day|0.000000000011574|kilogramsPerSecond|0|milligrams per day|t
+millimeters|millimeters|length|mm|0.001|meter|0|length|t
+millimolesPerSquareMeterPerDay|millimolesPerSquareMeterPerDay||mmol/m^2/day|1|mole|0|millimole per square meter per day|t
+molePerKilogram|molePerKilogram|amountOfSubstanceWeight|mol/Kg||||moles per kilogram|t
+molePerSquareMeter|molePerSquareMeter|amountOfSubstanceConcentration|||||mole per Square meter|t
+nanoMolesPerCentimeterSquaredPerMinute|nanoMolesPerCentimeterSquaredPerMinute||nmol/cm^2/min||||nanomoles per square centimeter per minute|t
+numberPerCubicMeter|numberPerCubicMeter|amountOfSubstanceConcentration|m-3||||count per cubic meter volumne|t
+numberPerSquareMeter|numberPerSquareMeter|amountOfSubstanceConcentration|m-3||||count per Square meter volumne|t
+partPerThousand|partPerThousand|dimensionless|ppt|0.001|numberPerNumber|0|ratio of two quantities as parts per thousand (1:1000)|t
+perMinute|perMinute|frequency|min-1|60|hertz|0|Count per minute|t
+reciprocalMeter|reciprocalMeter|lengthReciprocal|m-1|1|perMeter||per meter, describes optical properties|t
+squareCentimeter|squareCentimeter|area|cm2||m2||area|t
+wattPerMeterSquared|wattsPerSquareMeter|power||1|meter||irradiance unit|t
+wattsPerMeter|wattsPerMeter|power||1|meter||power per meter of wave crest height|t
+(39 rows)

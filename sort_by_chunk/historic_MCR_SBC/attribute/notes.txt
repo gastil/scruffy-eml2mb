@@ -1,0 +1,32 @@
+cat hdr | tr -s '|' '\12' | cat -n
+     1  DataSetID
+     2   EntitySortOrder
+     3   ColumnPosition
+     4   AttributeID
+     5   AttributeName
+     6   AttributeLabel
+     7   Description
+     8   StorageType
+     9   MeasurementScaleDomainID
+    10   FormatString
+    11   PrecisionDateTime
+    12   Enumeration_xml
+    13   TextPatternDefinition
+    14   Unit
+    15   PrecisionNumeric
+    16   NumberType
+    17   Bounds_xml
+    18   MissingValueCode_xml
+
+ cut -f16 -d'|' output | sort | uniq 
+NULL
+ NumberType
+unspecified
+
+So, the xsl is finding none of the number types such as natural, integer, or real?
+Was a stub. Fixed that.
+
+The upload.sql is significantly manually edited relative to output of xsl.
+
+
+

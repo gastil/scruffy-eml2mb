@@ -1,0 +1,1374 @@
+0.063-0.125 mm
+<0.125
+0.125-0.25 mm
+0.25-0.125
+0.25-0.5 mm
+0.5-0.25
+0.5-0.85 mm
+0.85-1 mm
+1.0-0.5
+1-2 mm
+2009 Average N of all Stegastes
+2009 Average N of S. nigricans
+2009 Average N of S. punctata
+2009 N of S. nigricans (afternoon count)
+2009 N of S. nigricans (morning count)
+2009 N of S. punctata (afternoon count)
+2009 N of S. punctata (morning count)
+2.0-1.0
+>2 mm
+3.36-2.0
+>3.36 mm
+Abudefduf septemfasciatus
+Abudefduf sexfasciatus
+Abundance
+Acanthastrea
+Acanthastrea percent cover
+Acanthurus nigrofuscus
+Acanthurus triostegus
+Acropora
+Acropora percent cover
+Acroporidae
+Across shore water velocity bottom
+Across shore water velocity near surface
+ADCP_depth
+aH and aCl free
+Air-Sea Flux
+Algae
+Algae Position
+Algae Species
+Algae Type
+Alive or Dead
+Along shore water velocity bottom bin
+Along shore water velocity near surface
+Alpehus bellulus
+AlphaData
+Alpheus brevicristatus
+Alpheus djeddensis
+Alpheus djiboutensis
+Alpheus ochrostriatus
+Alpheus randalli
+Alpheus rapax
+Alpheus rubromaculatus
+Alpheus sp. 1 (striped)
+Alpheus sp. 5 (pink)
+Alpheus sp. 7 (white)
+Alpheus sp. A (dark)
+Amansia rhodantha
+Amblyeleotris fasciatus
+Amblyeleotris guttata
+Amblyeleotris gymnocephalus
+Amblyeleotris randalli
+Amblyeleotris steinitzi
+Amblyeleotris wheeleri
+Amblyeleotris yanoi
+Amphioxiformes
+Amphipods
+Anemone area fraction mean
+Anemone area fraction standard error
+Anomaly in monthly particulate backscattering coefficient
+Anomaly in monthly sub-surface absorption coefficient
+Appendicularia
+appendicularians
+Area (cm2)
+Area (m2)
+Area Sampled (cm)
+Arothron meleagris
+Ash Free Dry Weight (g)
+Ash Free Dry Weight (mg/cm2)
+Asparagopsis taxiformis
+Associate with P. rus
+Astreopora
+Astreopora percent cover
+Atmospheric Pressure
+ AttributeLabel
+Aulostomus chinensis
+Autofluorescent Cell Abundance
+Average Branch Length
+Average monthly particulate backscattering coefficient
+Average monthly sub-surface absorption coefficient
+Bacteria Abundance
+Balistapus undulatus
+B Alk adjusted(micromole/kgSW)
+B Alk (micromole/kgSW)
+Bare/CCA/Filamentous algae
+Bare cropped substrate
+Battery A/D count
+Battery [Volt]
+Battery voltage
+Battery Voltage
+Battery voltage (6pack)
+Begining depth
+Beginning Time
+Behavior
+Benthic Category
+BetaData
+Beta SO4
+Biomass
+Biomass (mg/cm2)
+Bite Rate
+Bites
+Bites on Bare
+Bites on CCA
+Bites on Other
+Bites on Rubble
+Bites on Sand
+Bot. Depth [m]
+Bottom depth
+Bottom Depth
+Bottom type under trap
+Branch Morphology
+BurstTime
+C %
+Cage
+Caged
+Calculated Borate
+Calculated CO2
+Calculated CO3
+Calculated fCO2
+Calculated HCO3
+Calculated Hydroxyl
+Calculated omega (aragonite)
+Calculated omega (calcite)
+Calculated pCO2
+Calculated pH
+Calculated Phosphate
+Calculated Revelle factor
+Calculated Si03
+Calculated total area (m2)
+Calculated xCO2
+Canthigaster solandri
+Category
+cca_bare_space percent cover
+Censorship
+Centropyge flavissima
+Chaetodon auriga
+Chaetodon citrinellus
+Chaetodon lunula
+Chaetodon lunulatus
+Chaetodon ornatissimus
+Chaetodon pelewensis
+Chaetodon reticulatus
+Chaetodon trifascialis
+Chaetodon ulietensis
+Chaetodon vagabundis
+Chaetognaths
+Chaetognath Spadella sp.
+Chain Length (cm)
+Channel_Count
+Cheilinus chlorourus
+Cheilinus trilobatum
+Cheilio inermis
+Chlorophyll a
+Chlorophyll Anomaly MODIS AQUA
+Chlorophyll Anomaly SeaWiFS
+Chlorophyll a (μg/coral)
+Chlorurus sordidus
+Chromis viridis
+Citation Code
+Citation for Biomass Conversion
+Citation for Length Conversion
+clams larvae
+Class
+Cloud Cover
+C:N Mean
+C/N Ratio
+CO2
+CO2 adjust (micromole/kgSW)
+CO2Constants
+CO2 Flux
+CO2 Flux_adjusted
+CO2 (micromole/kgSW)
+CO3 adjusted (micromole/kgSW)
+CO3 (micromole/kgSW)
+Coarse Trophic Group
+CoefDate
+Cohort
+Collect Begin Date
+Collected By
+Collect End Date
+coming soon
+Comment
+Comments
+Common name
+Conductivity
+Conductivity_deep
+Conductivity_shallow
+Conductivity [S/m]
+Copepods
+Coral
+Coral Genus
+Coral Growth Energy (J/day)
+Coral ID
+Coral Number
+Coral Respiration Energy (J/day)
+Coral Specimen ID
+Core #
+Corythoichthys flavofasciatus
+Count
+Counters
+crab megalops
+crab zoea
+Cruise
+Cruise code
+Crustose Coralline Algae / Bare Space
+Cryptocentrus albidorsus
+Cryptocentrus cinctus
+Cryptocentrus inexplicatus
+Cryptocentrus leptocephalus
+Cryptocentrus nigroocellatus
+Cryptocentrus sp. A
+Cryptocentrus strigilliceps
+Ctenochaetus striatus
+Ctenogobiops aurocingulus
+Ctenogobiops feroculus
+Ctenogobiops formosa
+Ctenogobiops maculosus
+Ctenogobiops spp.
+Cycle_Unit
+Cyphastrea
+Cyphastrea percent cover
+Dascyllus aruanus
+Dascyllus flavicaudus
+Data coverage
+Data_Flag
+Date
+Date and Time
+Date Deployed
+Date Measured
+Date Profile Location
+Date retrieved
+Date Retrieved
+Date trap installed
+Date trap removed
+Date (YYYYMMDD)
+day
+Day Count
+day/night
+Day of month
+Dead Coral
+Debye Huckel Constant
+decimal_day
+Decimal Day Offset
+decimal day of the month
+Decimal Year [yr]
+DelayTime
+Delta Weight (g)
+Density
+Density Anomaly
+Deployment
+deployment ID
+Deployment Period
+Depth
+Depth Category
+Depth (cm)
+Depth DWN
+Depth (m)
+Depth of Trap (m)
+Depth SW [m]
+Depth UP
+Descent Rate
+Descent Rate [m/s]
+d.f.
+Diadema count
+Diameter 1
+Diameter 2
+difference in pH, external - internal
+Diodon hystrix
+Dissolved Inorganic Carbon
+Distance
+Distance from Reef (m)
+Distance to Crest (meters)
+Distance to Nearest Neighbor
+Distance to Point Aroa (meters)
+Distance to Shore (meters)
+Diver
+Divers
+Division
+DO DWN
+Dominant wave period
+Dominant_wave_period
+DO UP
+Dry Weight (g)
+D. trimaculatus Abundance mean
+D. trimaculatus Abundance standard error
+Easting
+Echinometra count
+Echinothrix count
+Eggs
+Electrode Standard Potential
+End
+Ending depth
+End Time
+End_Time
+Eo (INT)
+Epibulus insidiator
+Epinephalus merra
+Event Termination
+Extraction protocol
+Family
+Favia
+Favia percent cover
+fCO2 adjusted (microatm)
+fCO2 (microatm)
+fecundity
+female type
+Field sample ID
+File ID
+File_Name
+File_Type
+Filled In
+Final Air Skeletal Weight
+Final Weight (g)
+Fine Trophic Group
+First Day
+Fish ID
+fish larvae
+Fish Species
+Fish Total Length
+Fistularia commersonii
+Fluorescence
+Fluorescence-estimated Chlorophyll
+Fluorometer
+Forcipiger longirostris
+Fork Length (cm)
+/frame
+Fungia
+Fungia percent cover
+F value
+Gardinoseris
+Gardinoseris percent cover
+Genus
+Gnathid Isopods
+Gnathodentex aurolineatus
+Goby Species
+Gomphosus varius
+Greenwich Mean Time
+Gross Primary Production (g/g/h)
+Gross Primary Production (g/m2/h)
+Gross Primary Production per planar area (g/m2/h)
+Gross Primary Production per total area (g/m2/h)
+Group Number
+Growth (mg/cm2/d)
+Growth (mg/mg/d)
+Growth Rate (mg/day)
+Gymnothorax javanicus
+H %
+Habitat
+Halichoeres hortulanus
+Halichoeres trimaculatus
+Halimeda spp.
+Haniochus chryostomus
+HardVers
+HCO3 adjusted (micromole/kgSW)
+HCO3 (micromole/kgSW)
+He
+Herpolitha
+Herptolitha percent cover
+heteropodsns
+Heterotrophy
+hh:mm
+Ho
+hour
+Hours since begin
+id label
+Individual
+Info_File
+Infraphylum
+Initial Air Skeletal Weight
+Initial Weight (g)
+Install Begin Date
+Install End Date
+Inst_No
+Instrument
+Inst_Type
+Intensity_02.5m_bin
+Intensity_03.5m_bin
+Intensity_04.5m_bin
+Intensity_05.5m_bin
+Intensity_06.5m_bin
+Intensity_07.5m_bin
+Intensity_08.5m_bin
+Intensity_09.5m_bin
+Intensity_10.5m_bin
+Intensity_11.5m_bin
+Intensity_12.5m_bin
+Intensity_13.5m_bin
+Intensity_14.5m_bin
+Intensity_15.5m_bin
+Intensity_16.5m_bin
+Intensity_17.5m_bin
+Intensity_18.5m_bin
+Intensity_19.5m_bin
+Intensity_20.5m_bin
+Intensity_21.5m_bin
+Interaction Count for Alpheid bellulus
+Interaction Count for Alpheid djiboutensis
+Interaction Count for Alpheid rapacida
+Interaction Count for Alpheid species
+Interaction Count for Alpheid species 1
+Interaction Count for Alpheid species 2
+Interaction Count for Alpheid species 3
+Interaction Count for Alpheid species 4
+Interaction Count for Alpheid species 5
+Interaction Count for Alpheid species 6
+Interaction Count for Alpheid species 7
+Interaction Count for Alpheus bellulus
+Interaction Count for Alpheus brevicristatus
+Interaction Count for Alpheus djeddensis
+Interaction Count for Alpheus djiboutensis
+Interaction Count for Alpheus ochrostriatus
+Interaction Count for Alpheus randalli
+Interaction Count for Alpheus rapax
+Interaction Count for Alpheus rubromaculatus
+Interaction Count for Alpheus sp. 1 (striped)
+Interaction Count for Alpheus sp. 5 (pink)
+Interaction Count for Alpheus sp. 7 (white)
+Interaction Count for Alpheus sp. A (dark)
+Interaction Count for Alpheus species
+Internal electrode voltage
+Interval
+Ionic Strength
+Irradiance (μmol photons/m2/s)
+Items Consumed
+KHSO4
+K_HSO4
+Labroides bicolor
+Labroides dimidiatus
+Larval clams
+Last Day
+Latitude
+Latitude (decimal degrees)
+latitude [degrees_north]
+Latitude (deg S)
+Latitude Nominal (degN)
+Length Accepted
+Length Anomaly
+Length (cm)
+Length code
+Length from Poissons de Tahiti
+Length from Randall
+Length (mm)
+Length of Algae Branch 1
+Length of Algae Branch 10
+Length of Algae Branch 11
+Length of Algae Branch 12
+Length of Algae Branch 13
+Length of Algae Branch 14
+Length of Algae Branch 15
+Length of Algae Branch 16
+Length of Algae Branch 17
+Length of Algae Branch 18
+Length of Algae Branch 19
+Length of Algae Branch 2
+Length of Algae Branch 20
+Length of Algae Branch 3
+Length of Algae Branch 5
+Length of Algae Branch 6
+Length of Algae Branch 7
+Length of Algae Branch 8
+Length of Algae Branch 9
+Length of Coral Branch 1
+Length of Coral Branch 10
+Length of Coral Branch 11
+Length of Coral Branch 12
+Length of Coral Branch 13
+Length of Coral Branch 14
+Length of Coral Branch 15
+Length of Coral Branch 16
+Length of Coral Branch 17
+Length of Coral Branch 18
+Length of Coral Branch 19
+Length of Coral Branch 2
+Length of Coral Branch 20
+Length of Coral Branch 3
+Length of Coral Branch 4
+Length of Coral Branch 5
+Length of Coral Branch 6
+Length of Coral Branch 7
+Length of Coral Branch 8
+Length of Coral Branch 9
+Length of live coral
+Leptastrea
+Leptastrea percent cover
+Leptoseris
+Leptoseris percent cover
+Less than 0.063 mm
+Live_Coral
+Lobophora variegata
+Lobophyllia
+Lobophyllia percent cover
+Local Time
+location
+Location
+Location ID
+locus
+log(gamma-HCL-squared)
+Longitude
+Longitude (decimal degrees)
+longitude [degrees_east]
+Longitude (deg W)
+Longitude Nominal (degE)
+longStation
+Lotilia graciliosa
+Lower density
+Lower salinity
+Lower temperature
+Lower water column depth averaged temperature
+Lunar Phase
+Lutjanus fulvus
+Macroalgae
+macroalgae percent cover
+Mahedolia mysticina
+Mass (g)
+matlab_datenum
+Maximum Trimac Recruits
+mCl
+Mean Chlorophyll MODIS AQUA
+Mean Chlorophyll SeaWiFS
+Mean daily recruitment of D. trimaculatus
+Mean Length Algae
+Mean Length (mm)
+mean square
+Mean Trimac Recruits SE
+MeasMode
+Measurement
+Median Trimac Recruits
+medusae
+Melichthys vidua
+Mesh #
+Meter
+mH Free
+Microhabitat
+Middle water column depth averaged temperature
+Millepora
+Millepora percent cover
+missing value
+mon/day/yr
+Monotaxis grandoculis
+Montastrea
+Montastrea percent cover
+month
+Month
+Montipora
+Montipora percent cover
+Moorea local time
+Morphotype
+Most Specific Taxon
+Muffled Weight (g)
+Muffle Weight (g)
+Mulloidichthys flavolineatus
+Myripristes murdjan
+mysids
+n
+N %
+Name
+Naso brachycentron
+Naso literatus
+Nearest Neighbor Species
+Nearest Neighbor Stegastes Count
+Neomeris vanbossea
+Neoniphon argenteus
+Neoniphon sammara
+Nernst Slope S(T)
+Net PP per area (g/m2/h)
+Net PP per mass (g/g/h)
+Net PP per planar area (g/m2/h)
+Net PP per total area (g/m2/h)
+Nitrite
+Nitrite+Nitrate
+No fish
+Northing
+notes
+Notes
+Notes on Length Conversion
+NSST anomaly
+NSST mean
+NSST standard deviation
+NULL
+Number
+Number in 2007
+Number in 2010
+Number In Group
+Number of alleles
+Number of corals
+Number of months deployed
+Number of Points
+Number of primary branches
+Number of secondary branches
+Observer
+OH adjusted (micromole/kgSW)
+OH (micromole/kgSW)
+Omega Ar
+Omega Ar adjusted
+Omega Ca
+Omega Ca adjusted
+Openness
+Order
+Ostracion meleagris
+ostracods
+Other
+other decapod larva
+Other Isopods
+other Scleractinia percent cover
+Other taxa ID
+Outplant Date
+Overhang
+Oxygen evolution (nmol O/cm2/min)
+Oxygen (ml/l)
+Pachyseris
+Pachyseris percent cover
+Padina boryana
+Padina boryana gametophyte
+Padina boryana sporophyte
+P Alk adjusted (micromole/kgSW)
+P Alk (micromole/kgSW)
+Pan Number
+PAR
+Paracirrhites arcatus
+Parameter a
+Parameter b
+Particulate Organic Carbon
+Particulate Organic Nitrogen
+Parupeneus cyclostomus
+Parupeneus insularis
+Parupeneus multifasciatus
+Patch 1
+Patch 10
+Patch 100
+Patch 101
+Patch 102
+Patch 103
+Patch 104
+Patch 105
+Patch 106
+Patch 107
+Patch 108
+Patch 109
+Patch 11
+Patch 110
+Patch 111
+Patch 112
+Patch 113
+Patch 114
+Patch 115
+Patch 116
+Patch 117
+Patch 118
+Patch 119
+Patch 12
+Patch 120
+Patch 121
+Patch 122
+Patch 123
+Patch 124
+Patch 125
+Patch 126
+Patch 127
+Patch 128
+Patch 129
+Patch 13
+Patch 130
+Patch 131
+Patch 132
+Patch 133
+Patch 134
+Patch 135
+Patch 136
+Patch 137
+Patch 138
+Patch 139
+Patch 14
+Patch 140
+Patch 141
+Patch 142
+Patch 143
+Patch 144
+Patch 145
+Patch 146
+Patch 147
+Patch 148
+Patch 149
+Patch 15
+Patch 150
+Patch 151
+Patch 152
+Patch 153
+Patch 154
+Patch 155
+Patch 156
+Patch 157
+Patch 158
+Patch 159
+Patch 16
+Patch 160
+Patch 161
+Patch 162
+Patch 163
+Patch 164
+Patch 165
+Patch 166
+Patch 167
+Patch 168
+Patch 169
+Patch 17
+Patch 170
+Patch 171
+Patch 172
+Patch 173
+Patch 174
+Patch 175
+Patch 176
+Patch 177
+Patch 178
+Patch 179
+Patch 18
+Patch 180
+Patch 181
+Patch 182
+Patch 183
+Patch 184
+Patch 185
+Patch 19
+Patch 2
+Patch 20
+Patch 21
+Patch 22
+Patch 23
+Patch 24
+Patch 25
+Patch 26
+Patch 27
+Patch 28
+Patch 29
+Patch 3
+Patch 30
+Patch 31
+Patch 32
+Patch 33
+Patch 34
+Patch 35
+Patch 36
+Patch 37
+Patch 38
+Patch 39
+Patch 4
+Patch 40
+Patch 41
+Patch 42
+Patch 43
+Patch 44
+Patch 45
+Patch 46
+Patch 47
+Patch 48
+Patch 49
+Patch 5
+Patch 50
+Patch 51
+Patch 52
+Patch 53
+Patch 54
+Patch 55
+Patch 56
+Patch 57
+Patch 58
+Patch 59
+Patch 6
+Patch 60
+Patch 61
+Patch 62
+Patch 63
+Patch 64
+Patch 65
+Patch 66
+Patch 67
+Patch 68
+Patch 69
+Patch 7
+Patch 70
+Patch 71
+Patch 72
+Patch 73
+Patch 74
+Patch 75
+Patch 76
+Patch 77
+Patch 78
+Patch 79
+Patch 8
+Patch 80
+Patch 81
+Patch 82
+Patch 83
+Patch 84
+Patch 85
+Patch 86
+Patch 87
+Patch 88
+Patch 89
+Patch 9
+Patch 90
+Patch 91
+Patch 92
+Patch 93
+Patch 94
+Patch 95
+Patch 96
+Patch 97
+Patch 98
+Patch 99
+Patch Area
+Patch Depth to Sand
+Patch Height
+Patch ID
+Patch Length
+Patch N
+Patch Number
+Patch Volume
+Pavona
+Pavona percent cover
+pCO2 adjusted (microatm)
+pCO2 air
+pCO2 (microatm)
+P (dbar)adjusted
+Percent Algae
+Percent Alive
+Percent Coral
+Percent Cover
+Percent Crustose Coralline Algae / Bare Space
+percentGood_02.5m_bin
+percentGood_03.5m_bin
+percentGood_04.5m_bin
+percentGood_05.5m_bin
+percentGood_06.5m_bin
+percentGood_07.5m_bin
+percentGood_08.5m_bin
+percentGood_09.5m_bin
+percentGood_10.5m_bin
+percentGood_11.5m_bin
+percentGood_12.5m_bin
+percentGood_13.5m_bin
+percentGood_14.5m_bin
+percentGood_15.5m_bin
+percentGood_16.5m_bin
+percentGood_17.5m_bin
+percentGood_18.5m_bin
+percentGood_19.5m_bin
+percentGood_20.5m_bin
+percentGood_21.5m_bin
+Percent Macroalgae
+Percent Millepora
+Percent of Values Available
+Percent Sand
+Percent Stony Coral
+Percent Turf
+Percent Within Quadrat
+p > F
+pH adjusted
+Phaeopigments
+pH (chosen scale)
+pH free scale
+pH Free Scale, External
+Phosphate
+Photo Exists
+Photo ID
+Photon Flux Density
+PhotoQuadrat Location
+pH total scale
+pH (Total Scale)
+pH Total Scale, External
+Phylum
+pixel column
+pixel row
+Planar Area (m2)
+Plegiotremus tapeinosoma
+Plot
+Plot Number
+Pocillopora
+Pocillopora percent cover
+Pocilloporidae
+polycheates
+Pore Size (mm)
+Porites
+Porites percent cover
+Poritidae
+potemp [C]
+Potential Temperature
+Precipitation
+Pressure
+Pressure_01m_HeightAboveBottom
+Pressure_02m_HeightAboveBottom
+Pressure_03m_HeightAboveBottom
+Pressure_04m_HeightAboveBottom
+Pressure_05m_HeightAboveBottom
+Pressure_06m_HeightAboveBottom
+Pressure_07m_HeightAboveBottom
+Pressure_08m_HeightAboveBottom
+Pressure_09m_HeightAboveBottom
+Pressure_10m_HeightAboveBottom
+Pressure_11m_HeightAboveBottom
+Pressure_12m_HeightAboveBottom
+Pressure_13m_HeightAboveBottom
+Pressure_14m_HeightAboveBottom
+Pressure_15m_HeightAboveBottom
+Pressure_16m_HeightAboveBottom
+Pressure_17m_HeightAboveBottom
+Pressure_18m_HeightAboveBottom
+Pressure_19m_HeightAboveBottom
+Pressure_20m_HeightAboveBottom
+Pressure_21m_HeightAboveBottom
+Pressure_22m_HeightAboveBottom
+Pressure_23m_HeightAboveBottom
+Pressure_24m_HeightAboveBottom
+Pressure_25m_HeightAboveBottom
+Pressure_26m_HeightAboveBottom
+Pressure_27m_HeightAboveBottom
+Pressure_28m_HeightAboveBottom
+Pressure_29m_HeightAboveBottom
+Pressure_30m_HeightAboveBottom
+Pressure Bin Midvalue
+Pressure bins [db]
+Pressure [db]
+Pressure (dbars)
+Pressure_deep
+Pressure_shallow
+Primary Microhabitat
+Primary Productivity
+Proportional change
+Psammacora percent cover
+Pseudocheilinus hexataenia
+pteropodsns
+Quad
+Quadrat
+Quadrat ID
+Quantum A/D counts
+Quantum [micro-mol/s/m2]
+r2 of dark slope
+r2 of light slope
+Rare taxa
+Raw_File
+Read_Flag
+Record Number
+Reef Component
+Reef habitat
+Reference electrode voltage
+Relative Humidity
+Replicate
+Replicate Number
+Respiration Cost (J/day)
+Respiration per area (g/m2/h)
+Respiration per mass (g/g/h)
+Respiration per planar area (g/m2/h)
+Respiration per total area (g/m2/h)
+Revelle
+Revelle adjusted
+Richness
+Rubble
+Rubble ID
+Rubble Length
+Rugosity
+Salinity
+Salinity_deep
+Salinity [PSU]
+Salinity_shallow
+Sample_Count
+Sample Date
+Sample Depth
+SampleID
+Sample ID
+Sample Number
+Sample Period
+Sample_Period
+Sample Weight (g)
+Sample Weight (mg/cm2)
+Sample wt (μg)
+Sampling depth
+Sampling duration (days)
+Sand
+Sandolitha percent cover
+sand percent cover
+Sargassum pacificum
+Sargocentron microstomus
+scans/bin
+Scans Per Bin
+Scarus oviceps
+Scarus psittacus
+Season
+Sea State
+Sea surface height above bottom
+Seconds Observed
+Sedimenation rate Particulate Organic Nitrogen (mg/m2/day)
+Sedimentation rate dry mass (mg/m2/day)
+Sedimentation rate Particulate Organic Carbon (mg/m2/day)
+Sediment-laden turf
+Sensor Type
+Shore
+shrimp
+Si Alk adjusted (micromole/kgSW)
+Si Alk (micromole/kgSW)
+Side
+Sieve Size (mm)
+Siganus spinus
+sigmatheta
+Sigma-theta
+Significant wave height
+Significant_wave_height
+Silicate
+Silt
+siphophores
+site
+Site
+Site and Year
+Site ID
+Site Location
+Site Plot
+Size
+Size (cm)
+Size (mm)
+Slope of dark O2 curve (mg/l/s)
+Slope of light O2 curve (mg/l/s)
+smoothed pH, Total Scale
+Soft Coral
+soft_coral percent cover
+Solar Rad
+Solar Radiation
+Solar Radiation Max
+Solar Radiation Min
+Solar Radiation STD
+source
+Species
+Species binomial
+Species Binomial
+Species chased or chased by
+Specific Volume Anomaly
+SST anomaly
+SST mean
+Stage
+Stained Cell Abundance
+Standard deviation monthly sub-surface absorption coefficient
+Standard deviation of sedimentation rate dry mass
+Standard deviation of sedimentation rate Particulate Organic Carbon
+Standard deviation of sedimentation rate Particulate Organic Nitrogen
+standard error
+Start
+StartPointA
+StartPointB
+Start Time
+Start_Time
+Start Timecode
+Station
+Status
+Std Dev Chlorophyll MODIS AQUA
+Std Dev Chlorophyll SeaWiFS
+Stegastes nigricans
+Stegastes punctata
+Stethojulis bandanensis
+Stipe count
+stomatopod larvae
+Stonogobiops xanthorhinica
+Stony Coral
+Stop Timecode
+Study type
+Stylocoeniella percent cover
+Subivision
+Sublass
+Subphylum
+Sub-squares counted
+Substrate
+Sulfate (tot)
+Surface area (cm2)
+Surface Area (cm2)
+Surge
+Surveyor
+sva
+Swath Width
+Swell
+Symploca hydnoides
+Symploca sp.
+T00 [C]
+TA (micromole/kgSW)
+Tanaids
+Tank 1
+Tank 2
+Tank 3
+Tank 4
+Tank 5
+Tank 6
+Tank 7
+Tank 8
+Tank ID
+Taxa
+Taxonomic Resolution
+Taxonomy
+Taxonomy / Substrate / Functional Group
+Taxonomy, Substrate or Functional Group
+TCO2 (micromole/kgSW)
+Temp_01m_HeightAboveBottom
+Temp_02m_HeightAboveBottom
+Temp_03m_HeightAboveBottom
+Temp_04m_HeightAboveBottom
+Temp_05m_HeightAboveBottom
+Temp_06m_HeightAboveBottom
+Temp_07m_HeightAboveBottom
+Temp_08m_HeightAboveBottom
+Temp_09m_HeightAboveBottom
+Temp_10m_HeightAboveBottom
+Temp_11m_HeightAboveBottom
+Temp_12m_HeightAboveBottom
+Temp_13m_HeightAboveBottom
+Temp_14m_HeightAboveBottom
+Temp_15m_HeightAboveBottom
+Temp_16m_HeightAboveBottom
+Temp_17m_HeightAboveBottom
+Temp_18m_HeightAboveBottom
+Temp_19m_HeightAboveBottom
+Temp_20m_HeightAboveBottom
+Temp_adcp
+Temperature
+Temperature_21m_HeightAboveBottom
+Temperature_22m_HeightAboveBottom
+Temperature_23m_HeightAboveBottom
+Temperature_24m_HeightAboveBottom
+Temperature_25m_HeightAboveBottom
+Temperature_26m_HeightAboveBottom
+Temperature_27m_HeightAboveBottom
+Temperature_28m_HeightAboveBottom
+Temperature_29m_HeightAboveBottom
+Temperature_30m_HeightAboveBottom
+Temperature_BTM_10m
+Temperature_BTM_20m
+Temperature (C)
+Temperature, C
+temperature (C) adjusted
+Temperature_deep
+Temperature, K
+Temperature_shallow
+Test Diameter
+Thalassoma hardwicke
+Thermistor resistance
+Thermistor voltage
+Thick Crustose Coralline Algae
+Thin Crustose Coralline Algae
+Tile
+Tile Age (days)
+Tile ID
+Tile Surface
+time
+Time
+Time Deployed
+Time period
+Time Period
+Time Stamp
+Time (tanks 1-4)
+Time (tanks 5-8)
+Time trap installed
+Time trap removed
+Time_Unit
+Time UTC
+Tissue mass
+Tissue mass (mg)
+Tisue mass (g)
+TOC standard deviation
+Tomiyamichthys oni
+Total
+Total After
+Total Alkalinity
+Total Area Surveyed (meters^2)
+Total Before Fractioning
+Total Bites
+TotalCnt
+Total Cost (J/day)
+Total Length
+Total Length (cm)
+Total Length of Branch 1
+Total Length of Branch 10
+Total Length of Branch 11
+Total Length of Branch 12
+Total Length of Branch 13
+Total Length of Branch 14
+Total Length of Branch 15
+Total Length of Branch 16
+Total Length of Branch 17
+Total Length of Branch 18
+Total Length of Branch 19
+Total Length of Branch 2
+Total Length of Branch 20
+Total Length of Branch 3
+Total Length of Branch 4
+Total Length of Branch 5
+Total Length of Branch 6
+Total Length of Branch 7
+Total Length of Branch 8
+Total Length of Branch 9
+Total Length to Fork Length
+Total Mass
+Total Organic Carbon
+Total P (micromole/kgSW)
+Total Points
+Total Points minus Tape+Wand+Shadow
+Total Points Minus Tape+Wand+Shadow
+Total Si (micromole/kgSW)
+Total Zoo (no eggs)
+Transect
+Transect Code
+Transect End Point
+Transect ID
+Transect Start Point
+Transect Width
+Translocated Energy (J/day)
+Trap Type
+Treatment
+Trial Number
+Tubastrea percent cover
+Turbidity
+Turbidity Polynomial
+Turbidity (upoly 0?)
+Turbinaria ornata
+Turf
+Turfing algae
+turf percent cover
+Type
+type III SS
+Type of collection
+Unknown Algae
+Unknown articulated coralline
+Unknown coral
+Unknown cyanobacteria
+Unknown Cyanobacteria
+Unknown macroalgae
+Upper density
+Upper salinity
+Upper temperature
+Upper water column depth averaged temperature
+Urchin total count
+User-selected scale for pH units
+UTC Time
+UTC Timestamp
+U_Vel_02.5m_bin
+U_Vel_03.5m_bin
+U_Vel_04.5m_bin
+U_Vel_05.5m_bin
+U_Vel_06.5m_bin
+U_Vel_07.5m_bin
+U_Vel_08.5m_bin
+U_Vel_09.5m_bin
+U_Vel_10.5m_bin
+U_Vel_11.5m_bin
+U_Vel_12.5m_bin
+U_Vel_13.5m_bin
+U_Vel_14.5m_bin
+U_Vel_15.5m_bin
+U_Vel_16.5m_bin
+U_Vel_17.5m_bin
+U_Vel_18.5m_bin
+U_Vel_19.5m_bin
+U_Vel_20.5m_bin
+U_Vel_21.5m_bin
+Vanderhorstria lancelota
+Vanderhorstria sp.
+Vel DWN
+veliger larvae
+Velocity east 10.5m above bottom
+Velocity east 11.5m above bottom
+Velocity east 12.5m above bottom
+Velocity east 13.5m above bottom
+Velocity east 14.5m above bottom
+Velocity east 15.5m above bottom
+Velocity east 16.5m above bottom
+Velocity east 17.5m above bottom
+Velocity east 18.5m above bottom
+Velocity east 19.5m above bottom
+Velocity east 20.5m above bottom
+Velocity east 21.5m above bottom
+Velocity east 2.5m above bottom
+Velocity east 3.5m above bottom
+Velocity east 4.5m above bottom
+Velocity east 5.5m above bottom
+Velocity east 6.5m above bottom
+Velocity east 7.5m above bottom
+Velocity east 8.5m above bottom
+Velocity east 9.5m above bottom
+Velocity north 10.5m above bottom
+Velocity north 11.5m above bottom
+Velocity north 12.5m above bottom
+Velocity north 13.5m above bottom
+Velocity north 14.5m above bottom
+Velocity north 15.5m above bottom
+Velocity north 16.5m above bottom
+Velocity north 17.5m above bottom
+Velocity north 18.5m above bottom
+Velocity north 19.5m above bottom
+Velocity north 20.5m above bottom
+Velocity north 21.5m above bottom
+Velocity north 2.5m above bottom
+Velocity north 3.5m above bottom
+Velocity north 4.5m above bottom
+Velocity north 5.5m above bottom
+Velocity north 6.5m above bottom
+Velocity north 7.5m above bottom
+Velocity north 8.5m above bottom
+Velocity north 9.5m above bottom
+Vel UP
+Ventricaria ventricosa
+Visibility
+Voltage_0
+Voltage_1
+Voltage_2
+Voltage_Channel_0
+Voltage Channel 1
+Voltage Channel 2
+Volume (cm^3)
+V_Vel_02.5m_bin
+V_Vel_03.5m_bin
+V_Vel_04.5m_bin
+V_Vel_05.5m_bin
+V_Vel_06.5m_bin
+V_Vel_07.5m_bin
+V_Vel_08.5m_bin
+V_Vel_09.5m_bin
+V_Vel_10.5m_bin
+V_Vel_11.5m_bin
+V_Vel_12.5m_bin
+V_Vel_13.5m_bin
+V_Vel_14.5m_bin
+V_Vel_15.5m_bin
+V_Vel_16.5m_bin
+V_Vel_17.5m_bin
+V_Vel_18.5m_bin
+V_Vel_19.5m_bin
+V_Vel_20.5m_bin
+V_Vel_21.5m_bin
+Water Column Primary Production
+Water current speed bottom
+Water current speed near surface
+Water Depth to top of patch
+Wave direction
+Wave power
+Week
+Width
+Width (cm)
+Width (mm)
+Wind Direction
+Wind Direction STD
+Windspeed
+Wind Speed
+Wind Speed Max
+Wind Speed Min
+Wind Speed m/s
+Wind Speed STD
+Windspeed Units
+Wind Stress
+Wind Velocity
+xCO2 (dry at 1 atm) (ppm)
+xCO2 out (dry at 1 atm) (ppm)
+year
+Year
+Zanclus cornuta
+Zebrasoma scopas
+ZeroPoint
+Zooanthellae Gross Photosynthetic Intake (J/day)
+Zooanthellae Growth Energy (J/day)
+Zooanthellae Respiration Energy (J/day)
+Zooxanthellae (#/coral)
+Zooxanthellae Total Counts per Coral

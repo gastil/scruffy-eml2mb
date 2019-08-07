@@ -1,0 +1,43 @@
+alphanumeric
+Animal Taxonomic Classes
+Animal Taxonomic Phyla
+An integer as text
+An integer from 1 to 40 as text. Each transect has 40 quadrats.
+Annotation
+any text
+Core label
+Except for first survey, year is YYYY format.
+four digits - two digits, as text
+identification number string
+integer as text
+integer or character plus integer
+Label
+Label number
+location name
+Location name
+Location name of corresponding photo quadrat. 5 pole-to-pole sections of transect with 8 quadrats each.
+Mesh number
+MonYY as text
+Name of a protocol
+Name of individual.
+NULL
+number as text or number-dash-number
+Plain text
+single digit
+Site name
+Size.
+Species Binomial
+Taxonomic classification
+Taxonomic name of the observed invertebrate. Where none are found use No invertebrate observed
+text
+text as hh:mm:ss
+text in the format YYYY_MM_DD_sitename
+ TextPatternDefinition
+The label of the patch
+Transect label
+transect number
+Unique location name
+Unique morphotype name
+use dataset 10 example
+use example form dataset 10
+Various Animal Taxonomic Designations

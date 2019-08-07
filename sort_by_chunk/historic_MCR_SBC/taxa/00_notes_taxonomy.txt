@@ -1,0 +1,96 @@
+Temporal coverage.
+
+Content will go into the new cross ref tables: ___, ____
+Following the same general plan as for geocov and temporal covs
+
+------------------------------------------------------
+1. plan first for the scratch table. Notes elsewhere, might include forks.
+SQL (see ref material below):
+
+hdr:
+see file hdr_save 
+
+------------------------------------------------------
+2. Write XSL for the scratch table.
+taxon_210_EML2csv.xsl
+taxon_201_EML2csv.xsl
+
+2.1 iterate with test 210 docs till you can upload results of a short list.
+
+commands:
+../bin/loopy2.sh -f ../short_210_list.txt -s taxon_210_EML2csv.xsl
+
+2.2 in pgadmin
+run create_table_scratch_taxon.sql
+
+-----------------------------------------------------
+3 run on full lists, concatenate
+
+mv hdr hdr_save
+
+../bin/loopy2.sh -f ../EML_201_list.txt -s taxon_201_EML2csv.xsl > 201_taxon_all.txt
+
+../bin/loopy2.sh -f ../EML_210_list.txt -s taxon_210_EML2csv.xsl > 210_taxon_all.txt
+
+ 
+cat 201_taxon_all.txt  210_taxon_all.txt > sbc_taxon_all_nohdr.txt
+cat hdr_save sbc_taxon_all_nohdr.txt > sbc_taxon_all.txt
+
+-----------------------------------------------------
+
+
+4.1 second step: generate the XML files for each taxon
+mkdir temp_xml
+mkdir taxon_xml
+
+../bin/loopy2.sh -f ../EML_201_list.txt -s taxon_201_EMLtaxon2xml.xsl
+../bin/loopy2.sh -f ../EML_210_list.txt -s taxon_210_EMLtaxon2xml.xsl
+
+4.2 this will put the xml into a temp dir. run a sed to remove the xml declaration so that
+when it goes into postgres it is just the forest of nodes.
+
+for file in `ls tmp` ; do sed 1d  tmp/$file > taxon_xml/$file;  done
+
+
+----------------------------------------------------
+5. in postgres, create the scratch tables that look like Metabase tables.
+
+create_table_scratch_taxonomy_txt.sql  
+create_table_scratch_taxonomy_xml.sql
+
+
+-----------------------------------------------------
+5. Upload to postgres scratch tables
+../bin/pg_upload_file_xml.pl sbc_metabase scratch.taxonomy_xml mob taxon_xml
+
+
+-----------------------------------------------------
+5. in postgres, 
+No regularization for taxonomy. 
+
+
+-----------------------------------------------------
+7. in postgres, insert from scratch table to production table.
+
+insert metabase2."____" from select scratch ...
+
+
+
+
+-----------------------------------------------------
+Reference material:
+
+1. scratch table should look like production table. copy SQL here for reference:
+
+CREATE TABLE ...
+
+);
+
+
+ 
+
+  
+2. Header row for scratch table:
+
+  
+  
