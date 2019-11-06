@@ -1,0 +1,21 @@
+mNotes as Gastil and others learn about xmltable stuff2
+
+postgres table names cannot have a dash aka minus sign in them.
+Same for dot aka period.
+
+If I want to name a table for the eml doc's contents it will hold, I cannot name it knb-lter-foo.6.7
+These are temporary tables (in the sense we will not keep them; not the technical meaning of 
+temporary table in sql).
+
+If I want to load one whole eml doc at a time, should I give it its own table?
+Or its own row(s) of a table?
+
+one table : one eml doc
+at least for the example Im working from.
+
+So, knb-lter-foo.6.7 could have its own table named knb_lter_foo_6_7.
+
+First be sure none of your eml docs contain the string $$.
+That is used as a kind of heredoc delimeter.
+
+
