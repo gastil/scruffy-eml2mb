@@ -62,3 +62,7 @@ Hopefully we can use UPSERT to load subsequent revisions, if needed.
 UPSERT is certainly needed to accumulate parent table contents, unless another layer of intermediate temporary tables is used.
 
 
+Added 2020-01-13
+Alternative design: One big table, with one row per dataset.
+
+I do not recally why above I chose to make one temporary scratch table for every dataset. Why not add a column to that table containing the packageId? Is it because the upload does not allow for a column delimiter? No, worse: it is not an insert or a COPY bulk upload but the create-table step combined with the loading of content into that table. If a given eml doc is  used to define a table, can that table only ever hold one eml dataset? Is it one row of xml? 
