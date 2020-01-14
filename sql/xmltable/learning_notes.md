@@ -24,20 +24,26 @@ cat top_stuff_template.sql eml/knb-lter-mcr.2.16.xml bottom_stuff_template.sql |
 
 where `top_stuff_template.sql` is
 ```
-CREATE TABLE %packageId_underscored% AS SELECT XML $$
+CREATE TABLE xmlstuff.%packageId_underscored% AS SELECT XML $$
 ```
 and `bottom_stuff_template.sql` is
 ```
 $$ AS eml_doc_%packageId_underscored%;
 ```
+One catch is the xml has to begin imediately after the $$ with no whitespace including no linefeed.
+I manually fixed that in these examples by deleting the line feed and space. 
+But I will need a way to concatenate w/o that line feed. 
 
 Then psql that up to pg.
+```
+/Applications/Postgres.app/Contents/Versions/12/bin/psql  -U gastil -h localhost learning_space < knb_lter_mcr_2_16.sql
+```
 
 Make the query sql with sed similarly, then psql that up to pg.
 where `query_attlist_template.sql` is
 ```
 SELECT xmltable.*
-FROM %packageId_underscored%,
+FROM xmlstuff.%packageId_underscored%,
 xmltable ('/attributeList/attribute' PASSING eml_doc_%packageId_underscored%
                   COLUMNS
                   att_id text PATH '@id',
@@ -47,7 +53,13 @@ xmltable ('/attributeList/attribute' PASSING eml_doc_%packageId_underscored%
                   storage_type text PATH 'storageType'
                  );
 ```
+Then sed that (eventually a loop script will be doing these seds).
+```
+cat query_attlist_template.sql  | sed 's/%packageId_underscored%/knb_lter_ble_2_2/' > attlist_query_knb_lter_ble_2_2.sql
+```
+And psql that up.
 
+Above, eml_doc_knb_lter_mcr_2_16 is a column in a table named xmlstuff.knb_lter_mcr_2_16. That seems silly. Early days.
 
 Basic idea:
 * load all eml docs for a site, or even multiple sites
