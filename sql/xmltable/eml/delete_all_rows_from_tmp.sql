@@ -1,0 +1,2 @@
+DELETE FROM xmlstuff.tmp;
+
