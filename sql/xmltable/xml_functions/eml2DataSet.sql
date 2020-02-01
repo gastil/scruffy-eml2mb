@@ -1,16 +1,12 @@
---SELECT xpath('//eml:eml/@pkgid', '<eml:eml xmlns:eml="http://eml.com" pkgid="foo"><title>The Title</title></eml:eml>', ARRAY[ARRAY['eml','http://eml.com']]);
--- result is {foo}
-
---SELECT xpath('//eml:eml/@packageId', whole_eml_doc, ARRAY[ARRAY['eml','eml://ecoinformatics.org/eml-2.1.1']]) FROM xmlstuff.tmp;
-
-select xmlstuff.f_nocurly(split_part(packageid,'.',1)) as "scope",
-split_part(packageid,'.',2) as "DataSetID",
-xmlstuff.f_nocurly(split_part(packageid,'.',3)) as "Revision",
+insert into  lter_metabase."DataSet" ("DataSetID","Revision","Title","PubDate","AbstractType","Abstract","ShortName","UpdateFrequency","MaintenanceDescription")
+SELECT --xmlstuff.f_nocurly(split_part(packageid,'.',1)) as "scope",
+split_part(packageid,'.',2)::integer as "DataSetID",
+xmlstuff.f_nocurly(split_part(packageid,'.',3))::integer as "Revision",
 (xpath('//eml:eml/dataset/title/text()', 		eml_doc, ARRAY[ARRAY['eml','eml://ecoinformatics.org/eml-2.1.1']]))[1] 
-as title,
-(xpath('//eml:eml/dataset/pubDate/text()', 		eml_doc, ARRAY[ARRAY['eml','eml://ecoinformatics.org/eml-2.1.1']]))[1] 
+as "Title",
+(xpath('//eml:eml/dataset/pubDate/text()', 		eml_doc, ARRAY[ARRAY['eml','eml://ecoinformatics.org/eml-2.1.1']]))[1]::text::date
 as "PubDate",
-'xml' as "AbstractType",
+'docbook' as "AbstractType",
 (xpath('//eml:eml/dataset/abstract', 			eml_doc, ARRAY[ARRAY['eml','eml://ecoinformatics.org/eml-2.1.1']]))[1] 
 as "Abstract", -- will need to strip the abstract element. MOB needed.
 (xpath('//eml:eml/dataset/shortName/text()', 	eml_doc, ARRAY[ARRAY['eml','eml://ecoinformatics.org/eml-2.1.1']]))[1] 
@@ -22,5 +18,5 @@ as "MaintenanceDescription"
 
 
 	  from xmlstuff.alldocs
-	  --where xmlstuff.f_nocurly(packageid)  like 'knb-lter-mcr.1036.6'-- is not null
+	  where xmlstuff.f_nocurly(packageid)  like 'knb-lter-mcr.%' 
 
